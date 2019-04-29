@@ -1,0 +1,475 @@
+"ID"	"Category"	"Lang"	"Parent"
+1	"Diversi"	""	0
+1	"Divers"	"9"	0
+1	"Verschiedenes"	"D"	0
+1	"Various"	"E"	0
+1	"Divers"	"F"	0
+1	"Diversi"	"I"	0
+2	"Gelificanti e leganti"	""	1
+2	"Gelier- und Bindemittel"	"D"	1
+2	"Gelling and binding agents"	"E"	1
+2	"Gélifiants et liants"	"F"	1
+3	"Dolciumi"	""	0
+3	"Süssigkeiten"	"D"	0
+3	"Sweets"	"E"	0
+3	"Sucreries"	"F"	0
+4	"Zucker und Süssstoffe"	"D"	3
+4	"Sugar and sweeteners"	"E"	3
+4	"Sucres et édulcorants"	"F"	3
+5	"Noci, semi e frutti oleosi"	""	0
+5	"Noix, graines et produits oléagineux"	"-"	0
+5	"Nüsse, Samen und Ölfrüchte"	"D"	0
+5	"Nuts, seeds and oleaginous fruit"	"E"	0
+5	"Noix, graines et produits oléagineux"	"F"	0
+6	"Snack salati"	""	0
+6	"Salzige Snacks"	"D"	0
+6	"Savoury snacks"	"E"	0
+6	"Snacks salés"	"F"	0
+7	"Noci e semi salati"	""	6
+7	"Gesalzene Nüsse, Samen, Kerne"	"D"	6
+7	"Salted nuts, seeds and kernels"	"E"	6
+7	"Noix et graines salées"	"F"	6
+8	"Produits céréaliers, légumineuses et pommes de terre"	""	0
+8	"Produits céréaliers, légumineuses et pommes de terre"	"3"	0
+8	"Getreideprodukte, Hülsenfrüchte und Kartoffeln"	"D"	0
+8	"Cereal products, pulses and potatoes"	"E"	0
+8	"Produits céréaliers, légumineuses et pommes de terre"	"F"	0
+9	"Autres produits céréaliers"	""	8
+9	"Sonstige Getreideprodukte"	"D"	8
+9	"Other cereal products"	"E"	8
+9	"Autres produits céréaliers"	"F"	8
+10	"Biscotti"	""	3
+10	"Guetzli"	"D"	3
+10	"Cookies/Biscuits"	"E"	3
+10	"Biscuits"	"F"	3
+11	"Prodotti da spalmare"	""	1
+11	"Aufstriche"	"D"	1
+11	"Spreads"	"E"	1
+11	"Pâtes à tartiner"	"F"	1
+12	"Lait et produits laitiers"	""	0
+12	"Lait et produits laitiers"	"-"	0
+12	"Lait et produits laitiers"	"9"	0
+12	"Milch und Milchprodukte"	"D"	0
+12	"Milk and dairy products"	"E"	0
+12	"Lait et produits laitiers"	"F"	0
+12	"Latte e prodotti di latte"	"I"	0
+13	"Fromage à pâte dure"	""	12
+13	"Hartkäse"	"D"	12
+13	"Hard cheese"	"E"	12
+13	"Fromage à pâte dure"	"F"	12
+14	"Fruits"	""	0
+14	"Fruits"	"-"	0
+14	"Fruits"	"9"	0
+14	"Früchte"	"D"	0
+14	"Fruit"	"E"	0
+14	"Fruits"	"F"	0
+15	"Fruits frais"	""	14
+15	"Fruits frais"	"-"	14
+15	"Fruits frais"	"9"	14
+15	"Früchte frisch"	"D"	14
+15	"Fresh fruit"	"E"	14
+15	"Fruits frais"	"F"	14
+16	"Fruchtsäfte;Alkoholfreie Getränke/Frucht- und Gemüsesäfte"	"D"	14
+16	"Fruit juices"	"E"	14
+17	"Fruits secs"	""	14
+17	"Früchte getrocknet"	"D"	14
+17	"Dried fruit"	"E"	14
+17	"Fruits secs"	"F"	14
+18	"Dolci, torte e cake"	""	3
+18	"Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"	"D"	3
+18	"Cakes and tarts"	"E"	3
+18	"Gâteaux, tourtes et cakes"	"F"	3
+19	"Frutta cotta (incl. conserve)"	""	14
+19	"Früchte gekocht (inkl. Konserven)"	"D"	14
+19	"Cooked fruit (incl. cans)"	"E"	14
+19	"Fruits cuits (conserves comprises)"	"F"	14
+20	"Légumes"	""	0
+20	"Légumes"	"-"	0
+20	"Verdure"	"9"	0
+20	"Gemüse"	"D"	0
+20	"Vegetables"	"E"	0
+20	"Légumes"	"F"	0
+21	"Légumes frais"	""	20
+21	"Légumes frais"	"-"	20
+21	"Verdure fresche"	"9"	20
+21	"Gemüse frisch"	"D"	20
+21	"Fresh vegetables"	"E"	20
+21	"Légumes frais"	"F"	20
+22	"Verdure cotte (incl. conserve)"	""	20
+22	"Gemüse gekocht (inkl. Konserven)"	"D"	20
+22	"Cooked vegetables (incl. cans)"	"E"	20
+22	"Légumes cuits (conserves comprises)"	"F"	20
+23	"Produits carnés et charcuterie"	""	0
+23	"Produits carnés et charcuterie"	"9"	0
+23	"Fleisch- und Wurstwaren"	"D"	0
+23	"Sausages and cold meats"	"E"	0
+23	"Produits carnés et charcuterie"	"F"	0
+24	"Insaccati crudi"	""	23
+24	"Produits de charcuterie crus"	"9"	23
+24	"Rohwurstware"	"D"	23
+24	"Raw sausage products"	"E"	23
+24	"Produits de charcuterie crus"	"F"	23
+25	"Pains, flocons et céréales pour le petit-déjeuner"	""	0
+25	"Brote, Flocken und Frühstückscerealien"	"D"	0
+25	"Bread, flakes and breakfast cereals"	"E"	0
+25	"Pains, flocons et céréales pour le petit-déjeuner"	"F"	0
+26	"Pane e prodotti di panetteria"	""	25
+26	"Brote und Brotwaren"	"D"	25
+26	"Bread and bread products"	"E"	25
+26	"Pains et produits de boulangerie"	"F"	25
+27	"Cibi"	""	0
+27	"Gerichte"	"D"	0
+27	"Prepared dishes"	"E"	0
+27	"Plats"	"F"	0
+28	"Cibi asiatici"	""	27
+28	"Asiatische Gerichte"	"D"	27
+28	"Asian dishes"	"E"	27
+28	"Plats asiatiques"	"F"	27
+29	"Flocons, son et germes"	""	25
+29	"Flocken, Kleie und Keime"	"D"	25
+29	"Flakes, bran and germs"	"E"	25
+29	"Flocons, son et germes"	"F"	25
+30	"Erbe aromatiche"	""	20
+30	"Kräuter"	"D"	20
+30	"Herbs"	"E"	20
+30	"Herbes aromatiques"	"F"	20
+31	"Gemüse getrocknet"	"D"	20
+31	"Dried vegetables"	"E"	20
+32	"Salse"	""	1
+32	"Saucen"	"D"	1
+32	"Sauces"	"E"	1
+32	"Sauces"	"F"	1
+32	"Salse"	"I"	1
+33	"Viande et abats"	""	0
+33	"Viande et abats"	"-"	0
+33	"Fleisch und Innereien"	"D"	0
+33	"Meat and offal"	"E"	0
+33	"Viande et abats"	"F"	0
+34	"Manzo"	""	33
+34	"Rind"	"D"	33
+34	"Beef"	"E"	33
+34	"BÅ“uf"	"F"	33
+35	"Altri cibi salati/saporiti"	""	27
+35	"Sonstige salzige/rezente Gerichte"	"D"	27
+35	"Other savoury dishes"	"E"	27
+35	"Autres plats salés/épicés"	"F"	27
+36	"Insaccati cotti"	""	23
+36	"Kochwurstware"	"D"	23
+36	"Cooked sausage products"	"E"	23
+36	"Produits de charcuterie cuits"	"F"	23
+37	"Bevande alcoliche"	""	0
+37	"Alkoholhaltige Getränke"	"D"	0
+37	"Alcoholic beverages"	"E"	0
+37	"Boissons alcoolisées"	"F"	0
+37	"Bevande alcoliche"	"I"	0
+38	"Birra"	""	37
+38	"Bier"	"D"	37
+38	"Beer"	"E"	37
+38	"Bière"	"F"	37
+38	"Birra"	"I"	37
+39	"Altre pasticceri dolci"	""	3
+39	"Sonstige süsse Backwaren"	"D"	3
+39	"Other sweet pastries"	"E"	3
+39	"Autres articles de pâtisserie"	"F"	3
+40	"Produits de charcuterie bouillis"	""	23
+40	"Brühwurstware"	"D"	23
+40	"Boiled sausage products"	"E"	23
+40	"Produits de charcuterie bouillis"	"F"	23
+41	"Muesli e pappa"	""	27
+41	"Müesli und Brei"	"D"	27
+41	"Muesli and pudding"	"E"	27
+41	"Müesli et bouillie"	"F"	27
+42	"Fromage frais et séré"	""	12
+42	"Frischkäse und Quark"	"D"	12
+42	"Fresh cheese and curds"	"E"	12
+42	"Fromage frais et séré"	"F"	12
+43	"Insalate"	""	27
+43	"Salate"	"D"	27
+43	"Salads"	"E"	27
+43	"Salades"	"F"	27
+44	"Brodi e zuppe"	""	27
+44	"Eintöpfe und Suppen"	"D"	27
+44	"Stews and soups"	"E"	27
+44	"Potages et soupes"	"F"	27
+45	"Farines et amidon"	""	8
+45	"Mehle und Stärke"	"D"	8
+45	"Flour and starch"	"E"	8
+45	"Farines et amidon"	"F"	8
+46	"Fromage à pâte molle"	""	12
+46	"Fromage à pâte molle"	"-"	12
+46	"Fromage à pâte molle"	"9"	12
+46	"Weichkäse"	"D"	12
+46	"Soft cheese"	"E"	12
+46	"Fromage à pâte molle"	"F"	12
+47	"Graisses et huiles"	""	0
+47	"Fette und Öle"	"D"	0
+47	"Fats and oils"	"E"	0
+47	"Graisses et huiles"	"F"	0
+48	"Graisses"	""	47
+48	"Fette;Milch und Milchprodukte/Rahm und Butter"	"D"	47
+48	"Fats"	"E"	47
+48	"Graisses"	"F"	47
+49	"Bevande a base di latte e yogurt"	""	12
+49	"Milch- und Joghurtgetränke"	"D"	12
+49	"Milk and yoghurt beverages"	"E"	12
+49	"Boissons lactées et yogourts à boire"	"F"	12
+50	"Paste"	""	8
+50	"Teige"	"D"	8
+50	"Dough"	"E"	8
+50	"Pâtes"	"F"	8
+51	"Bevande analcoliche"	""	0
+51	"Alkoholfreie Getränke"	"D"	0
+51	"Non-alcoholic beverages"	"E"	0
+51	"Boissons sans alcool"	"F"	0
+51	"Bevande analcoliche"	"I"	0
+52	"Bevande zuccherate"	""	51
+52	"Süssgetränke;Alkoholhaltige Getränke/Sonstige alkoholische Geträ"	"D"	51
+52	"Soft drinks"	"E"	51
+52	"Boissons sucrées"	"F"	51
+52	"Bevande zuccherate"	"I"	51
+53	"Caramelle e gomme da masticare"	""	3
+53	"Bonbons, Frucht- und Kaugummi"	"D"	3
+53	"Candies, fruits gums and chewing gum"	"E"	3
+53	"Bonbons, bonbons gélifiés aux fruits et chewing-gums"	"F"	3
+54	"Cibi italiani"	""	27
+54	"Italienische Gerichte"	"D"	27
+54	"Italian dishes"	"E"	27
+54	"Plats italiens"	"F"	27
+55	"Succhi di frutta e di verdura"	""	51
+55	"Frucht- und Gemüsesäfte"	"D"	51
+55	"Fruit and vegetable juices"	"E"	51
+55	"Jus de fruits et de légumes"	"F"	51
+56	"Funghi"	""	20
+56	"Pilze"	"D"	20
+56	"Mushrooms"	"E"	20
+56	"Champignons"	"F"	20
+57	"Pollame"	""	33
+57	"Volaille"	"-"	33
+57	"Geflügel"	"D"	33
+57	"Poultry"	"E"	33
+57	"Volaille"	"F"	33
+58	"Uova"	""	0
+58	"Å’ufs"	"-"	0
+58	"Eier"	"D"	0
+58	"Eggs"	"E"	0
+58	"Å’ufs"	"F"	0
+59	"Legumi"	""	8
+59	"Haricot rouge"	"-"	0
+59	"Légumineuses"	"3"	8
+59	"Hülsenfrüchte"	"D"	8
+59	"Pulses"	"E"	8
+59	"Légumineuses"	"F"	8
+60	"Cioccolato e prodotti a base di cacao"	""	3
+60	"Schokolade und Kakaoerzeugnisse"	"D"	3
+60	"Chocolate and cocoa products"	"E"	3
+60	"Chocolat et produits chocolatés"	"F"	3
+61	"Creme e budini"	""	3
+61	"Cremen und Pudding;Gerichte/Müesli und Brei"	"D"	3
+61	"Creams and puddings"	"E"	3
+61	"Crèmes et pouding"	"F"	3
+62	"Maiale"	""	33
+62	"Schwein"	"D"	33
+62	"Pork"	"E"	33
+62	"Porc"	"F"	33
+63	"Vino"	""	37
+63	"Wein"	"D"	37
+63	"Wine"	"E"	37
+63	"Vin"	"F"	37
+63	"Vino"	"I"	37
+64	"Poisson"	""	0
+64	"Fisch"	"D"	0
+64	"Fish"	"E"	0
+64	"Poisson"	"F"	0
+65	"Poissons de mer"	""	64
+65	"Meeresfische"	"D"	64
+65	"Sea fish"	"E"	64
+65	"Poissons de mer"	"F"	64
+66	"CaffÃ¨"	""	51
+66	"Kaffee"	"D"	51
+66	"Coffee"	"E"	51
+66	"Café"	"F"	51
+67	"Crème"	""	47
+67	"Rahm;Milch und Milchprodukte/Rahm und Butter"	"D"	47
+67	"Cream"	"E"	47
+68	"Bevande a ridotto contenuto calorico"	""	51
+68	"Süssgetränke energievermindert"	"D"	51
+68	"Soft drinks energy reduced"	"E"	51
+68	"Boissons à teneur reduite en sucre"	"F"	51
+68	"Bevande a ridotto contenuto calorico"	"I"	51
+69	"Lait"	""	12
+69	"Milch"	"D"	12
+69	"Milk"	"E"	12
+69	"Lait"	"F"	12
+70	"Veau"	""	33
+70	"Kalb"	"D"	33
+70	"Veal"	"E"	33
+70	"Veau"	"F"	33
+71	"Mix di muesli e cereali per la prima colazione"	""	25
+71	"Müeslimischungen und Frühstückscerealien"	"D"	25
+71	"Muesli mixes and breakfast cereals"	"E"	25
+71	"Mélanges de müesli et céréales pour petit-déjeuner"	"F"	25
+72	"Oli"	""	47
+72	"Öle"	"D"	47
+72	"Oils"	"E"	47
+72	"Huiles"	"F"	47
+73	"Mais"	""	8
+73	"Mais"	"D"	8
+73	"Corn"	"E"	8
+73	"Maïs"	"F"	8
+74	"Bastonicini salati e brezel"	""	6
+74	"Salzsticks und Bretzel"	"D"	6
+74	"Salt sticks and pretzels"	"E"	6
+74	"Sticks salés et bretzels"	"F"	6
+75	"Pane croccante, fette biscottate, cracker e gallette"	""	25
+75	"Knäckebrote, Zwieback, Crackers und Waffeln"	"D"	25
+75	"Crispbreads, rusks, crackers and wafers"	"E"	25
+75	"Pains croustillants, biscottes, crackers et galettes"	"F"	25
+76	"Selvaggina"	""	33
+76	"Wild"	"D"	33
+76	"Game"	"E"	33
+76	"Gibier"	"F"	33
+77	"Acqua potabile"	""	51
+77	"Trinkwasser"	"D"	51
+77	"Drinking water"	"E"	51
+77	"Eau potable"	"F"	51
+78	"Confettura e prodotti dolci da spalmare sul pane"	""	3
+78	"Konfitüren und süsse Brotaufstriche"	"D"	3
+78	"Jams and sweet sandwich spreads"	"E"	3
+78	"Confitures et produits à tartiner sucrés"	"F"	3
+79	"Altre bevande alcoliche"	""	37
+79	"Sonstige alkoholische Getränke"	"D"	37
+79	"Other alcoholic beverages"	"E"	37
+79	"Autres boissons alcoolisées"	"F"	37
+79	"Altre bevande alcoliche"	"I"	37
+80	"Pesci dâ€™acqua dolce"	""	64
+80	"Süsswasserfische"	"D"	64
+80	"Fresh water fish"	"E"	64
+80	"Poissons d'eau douce"	"F"	64
+81	"Altri cibi dolci"	""	27
+81	"Sonstige süsse Gerichte"	"D"	27
+81	"Other sweet dishes"	"E"	27
+81	"Autres plats sucrés"	"F"	27
+82	"Pommes de terre"	""	8
+82	"Kartoffeln"	"D"	8
+82	"Potatoes"	"E"	8
+82	"Pommes de terre"	"F"	8
+83	"Torte dolci e salate e gratin"	""	27
+83	"Kuchen und Gratins"	"D"	27
+83	"Cakes, pies and gratins"	"E"	27
+83	"Tartes sucrées et salées et gratins"	"F"	27
+84	"Altre specie animali"	""	33
+84	"Sonstige Tierarten"	"D"	33
+84	"Other animal species"	"E"	33
+84	"Autres espèces animales"	"F"	33
+85	"Gelati a base di latte"	""	3
+85	"Glacen auf Milchbasis"	"D"	3
+85	"Milk based ice cream"	"E"	3
+85	"Glaces à base de lait"	"F"	3
+86	"Sandwich"	""	27
+86	"Sandwiches"	"D"	27
+86	"Sandwiches"	"E"	27
+86	"Sandwich"	"F"	27
+87	"Agnello, pecora"	""	33
+87	"Lamm, Schaf"	"D"	33
+87	"Lamb, mutton"	"E"	33
+87	"Agneau, mouton"	"F"	33
+88	"Altri dolciumi"	""	3
+88	"Sonstige Süssigkeiten"	"D"	3
+88	"Other sweets"	"E"	3
+88	"Autres sucreries"	"F"	3
+89	"Maionese"	""	47
+89	"Mayonnaisen"	"D"	47
+89	"Mayonnaise"	"E"	47
+89	"Mayonnaises"	"F"	47
+90	"Frutti di mare e crostacei"	""	64
+90	"Meeresfrüchte, Krusten- und Schalentiere"	"D"	64
+90	"Seafood, crustaceans and shellfish"	"E"	64
+90	"Fruits de mer et crustacés"	"F"	64
+91	"Altri snack salati"	""	6
+91	"Sonstige salzige Snacks"	"D"	6
+91	"Other savoury snacks"	"E"	6
+91	"Autres snacks salés"	"F"	6
+92	"Sale, spezie e aromi"	""	1
+92	"Salz, Gewürze und Aromen"	"D"	1
+92	"Salt, spices and flavours"	"E"	1
+92	"Sel, épices et arômes"	"F"	1
+93	"Pasta"	""	8
+93	"Teigwaren"	"D"	8
+93	"Pasta"	"E"	8
+93	"Pâtes alimentaires"	"F"	8
+94	"Patatine"	""	6
+94	"Chips"	"D"	6
+94	"Chips/Crisps"	"E"	6
+94	"Chips"	"F"	6
+95	"Produits à base de fromage"	""	12
+95	"Käseerzeugnisse"	"D"	12
+95	"Cheese products"	"E"	12
+95	"Produits à base de fromage"	"F"	12
+96	"Prodotti di pasta sfoglia"	""	6
+96	"Blätterteiggebäcke"	"D"	6
+96	"Puff pastry snacks"	"E"	6
+96	"Produits en pâte feuilletée"	"F"	6
+97	"Riso"	""	8
+97	"Reis"	"D"	8
+97	"Rice"	"E"	8
+97	"Riz"	"F"	8
+98	"Altri prodotti carnei e insaccati"	""	23
+98	"Sonstige Fleisch- und Wurstwaren"	"D"	23
+98	"Other sausages and cold meats"	"E"	23
+98	"Autres produits carnés et produits de charcuterie"	"F"	23
+99	"Produits à base de poisson"	""	64
+99	"Fischerzeugnisse"	"D"	64
+99	"Fish products"	"E"	64
+99	"Produits à base de poisson"	"F"	64
+100	"Salse per insalate"	""	47
+100	"Salatsaucen"	"D"	47
+100	"Salad dressings"	"E"	47
+100	"Sauces à salade"	"F"	47
+101	"Gelati a base di acqua"	""	3
+101	"Glacen auf Wasserbasis"	"D"	3
+101	"Water based ice cream"	"E"	3
+101	"Glaces à base d'eau"	"F"	3
+102	"Milchersatzprodukte"	"D"	12
+102	"Milk substitutes"	"E"	12
+102	"Substituts du lait"	"F"	12
+102	"Prodotti sostituti del latte"	"I"	12
+103	"Germogli e piantine"	""	20
+103	"Sprossen und Keimlinge"	"D"	20
+103	"Sprouts and shoots"	"E"	20
+103	"Pousses et germes"	"F"	20
+104	"Spiritosi"	""	37
+104	"Spirituosen"	"D"	37
+104	"Spirits"	"E"	37
+104	"Spiritueux"	"F"	37
+104	"Spiritosi"	"I"	37
+105	"Sciroppo"	""	51
+105	"Sirup"	"D"	51
+105	"Cordial"	"E"	51
+105	"Sirop"	"F"	51
+106	"TÃ¨"	""	51
+106	"Tee"	"D"	51
+106	"Tea"	"E"	51
+106	"Thé"	"F"	51
+107	"Fleischersatzprodukte"	"D"	0
+107	"Meat substitutes"	"E"	0
+108	"Levure"	"9"	1
+108	"Hefe;Verschiedenes/Backzutaten"	"D"	1
+108	"Yeast"	"E"	1
+109	"Speziallebensmittel"	"D"	0
+109	"Special foods"	"E"	0
+110	"Supplemente;Verschiedenes/Hefe"	"D"	109
+110	"Supplements"	"E"	109
+111	"Yogourt et lait acidulé"	""	12
+111	"Joghurt und Sauermilch"	"D"	12
+111	"Yogurt and curdled milk"	"E"	12
+111	"Yogourt et lait acidulé"	"F"	12
+111	"Yogurt e latte acidulato"	"I"	12
+112	"Malzextrakthaltige Getränke"	"D"	51
+112	"Beverages based on malt extract"	"E"	51
+112	"Boissons à base d'extrait de malt"	"F"	51
+112	"Bevande a base d'estratto di malto"	"I"	51
+113	"Mineralwasser"	"D"	51
+113	"Mineral water"	"E"	51
+113	"Eau minérale"	"F"	51
+113	"Acqua minerale"	"I"	51
+114	"Categoria"	"I"	0

@@ -1,0 +1,41 @@
+"UnitName"	"UnitType"	"UnittypeD"	"UnitNameD"	"LinkedColumn"	"Favorite"
+"Alcohol"	"g"	"g"	"Alkohol"	"Alcohol"	0
+"All-trans retinol equivalents"	"µg-RE"	"µg-RE"	"Vitamin A(1)"	"All-trans_retinol_equivalents"	0
+"Beta-carotene"	"µg"	"µg"	"Beta-Carotin"	"Beta-carotene"	0
+"Beta-carotene activity"	"µg-BCE"	"µg-BCE"	"Beta-Carotin Aktivität"	"Beta-carotene_activity"	0
+"Calcium"	"mg"	"mg"	"Kalzium"	"Calcium_Ca"	0
+"Carbohydrates available"	"g"	"g"	"verfügbare Kohlenhydrate"	"Carbohydrates_available"	0
+"Chloride"	"mg"	"mg"	"Chlorid"	"Chloride_Cl"	0
+"Cholesterol"	"mg"	"mg"	"Cholesterol"	"Cholesterol"	0
+"Dietary fibres"	"g"	"g"	"Ballaststoffe"	"Dietary_fibres"	0
+"Energy kilocalories"	"kcal"	"kcal"	"Kilokalorien"	"Energy_kilocalories"	0
+"Energy kilojoules"	"kJ"	"kJ"	"Kilojoule"	"Energy_kilojoules"	0
+"Fat total"	"g"	"g"	"Gesamtfett"	"Fat_total"	0
+"Fatty acids monounsaturated"	"g"	"g"	"ungesättigte Fettsäuren"	"Fatty_acids_monounsaturated"	0
+"Fatty acids polyunsaturated"	"g"	"g"	"mehrfach ungesättigte Fettsäuren"	"Fatty_acids_polyunsaturated"	0
+"Fatty acids saturated"	"g"	"g"	"gesättigte Fettsäuren"	"Fatty_acids_saturated"	0
+"Folate"	"µg"	"µg"	"Folsäure"	"Folate"	0
+"Iodide"	"µg"	"µg"	"Jodid"	"Iodide_I"	0
+"Iron"	"mg"	"mg"	"Eisen"	"Iron_Fe"	0
+"Magnesium"	"mg"	"mg"	"Magnesium"	"Magnesium_Mg"	0
+"Niacin"	"mg"	"mg"	"Niacin"	"Niacin"	0
+"Panthotenic acid"	"mg"	"mg"	"Panthotenic acid"	"Panthotenic_acid"	0
+"Phosphorus"	"mg"	"mg"	"Phosphor"	"Phosphorus_P"	0
+"Potassium"	"mg"	"mg"	"Kalium"	"Potassium_K"	0
+"Protein"	"g"	"g"	"Protein"	"Protein"	0
+"Salt"	"g"	"g"	"Salz"	"Salt_NaCl"	0
+"Selenium"	"µg"	"µg"	"Selenium"	"Selenium_Se"	0
+"Sodium"	"mg"	"mg"	"Natrium"	"Sodium_Na"	0
+"Starch"	"g"	"g"	"Stärke"	"Starch"	0
+"Sugars"	"g"	"g"	"Zucker"	"Sugars"	0
+"Vitamin A activity RAE"	"µg-RE"	"µg-RE"	"Vitamin A activity RAE"	"Vitamin_A_activity_RAE"	0
+"Vitamin A activity RE"	"µg-RE"	"µg-RE"	"Vitamin A activity RE"	"Vitamin_A_activity_RE"	0
+"Vitamin B1"	"mg"	"mg"	"Vitamin B1"	"Vitamin_B1_thiamine"	0
+"Vitamin B12"	"µg"	"µg"	"Vitamin B12"	"Vitamin_B12_cobalamin"	0
+"Vitamin B2"	"mg"	"mg"	"Vitamin B2"	"Vitamin_B2_riboflavin"	0
+"Vitamin B6"	"mg"	"mg"	"Vitamin B6"	"Vitamin_B6_pyridoxine"	0
+"Vitamin C"	"mg"	"mg"	"Vitamin C"	"Vitamin_C_ascorbic_acid"	0
+"Vitamin D"	"µg"	"µg"	"Vitamin D"	"Vitamin_D_calciferol"	0
+"Vitamin E activity"	"mg-ATE"	"mg-ATE"	"Vitamin E Aktivität"	"Vitamin_E_activity"	0
+"Water"	"g"	"g"	"Wasser"	"Water"	0
+"Zinc"	"mg"	"mg"	"Zink"	"Zinc_Zn"	0

@@ -1,0 +1,3795 @@
+"ID"	"Link"	"Alias"	"Lang"	"Primary"	"FileVersion"
+1	10533	"Agar Agar"	"E"	1	200
+2	10536	"Agave syrup"	"E"	1	200
+3	273	"Almond"	"E"	1	200
+4	278	"Almond, dry roasted, salted"	"E"	1	200
+5	269	"Almond, roasted, salted"	"E"	1	200
+6	13398	"Amaranth, seed, cooked (without addition of fat and salt)"	"E"	1	200
+7	13397	"Amaranth, seed, raw"	"E"	1	200
+8	868	"Amaretti (Almond cookie)"	"E"	1	200
+9	10532	"Anchovis paste"	"E"	1	200
+10	554	"Appenzeller, at least 15% fidm"	"E"	1	200
+11	553	"Appenzeller, at least 45% fidm"	"E"	1	200
+12	378	"Apple, fresh"	"E"	1	200
+13	568	"Apple juice"	"E"	1	200
+14	435	"Apple, peeled, dried"	"E"	1	200
+15	1480	"Apple pie, baked (with cake dough)"	"E"	1	200
+16	1479	"Apple pie, baked (with puff pastry)"	"E"	1	200
+17	627	"Applesauce, sweetened, canned"	"E"	1	200
+18	628	"Applesauce, unsweetened, canned"	"E"	1	200
+19	1049	"Apple, stewed, drained (without addition of sugar)"	"E"	1	200
+20	469	"Apricot, dried"	"E"	1	200
+21	1482	"Apricot pie, baked (with cake dough)"	"E"	1	200
+22	1481	"Apricot pie, baked (with puff pastry)"	"E"	1	200
+23	379	"Apricot, raw"	"E"	1	200
+24	1051	"Apricot, stewed, drained (without addition of sugar)"	"E"	1	200
+25	621	"Apricot, sweetened, canned"	"E"	1	200
+26	623	"Apricot, unsweetened, canned"	"E"	1	200
+27	443	"Asparagus, raw"	"E"	1	200
+28	1024	"Asparagus, steamed (without addition of salt)"	"E"	1	200
+29	380	"Avocado, fresh"	"E"	1	200
+30	704	"Bacon for cooking"	"E"	1	200
+31	707	"Bacon, raw"	"E"	1	200
+32	845	"Baguette"	"E"	1	200
+33	1577	"Bami Goreng, prepared"	"E"	1	200
+34	741	"Banana, dried"	"E"	1	200
+35	740	"Banana, dried (banana chips)"	"E"	1	200
+36	381	"Banana, raw"	"E"	1	200
+37	739	"Barley flakes"	"E"	1	200
+38	1587	"Barley risotto, cooked"	"E"	1	200
+39	464	"Basil, raw"	"E"	1	200
+40	1248	"Basler Leckerli (Swiss biscuit from Basel)"	"E"	1	200
+41	473	"Bean, green, dried"	"E"	1	200
+42	353	"Bean, green, raw"	"E"	1	200
+43	12981	"Béchamel sauce home made"	"E"	1	200
+44	1103	"Beef (average excluding offal, chop), raw"	"E"	1	200
+45	13292	"Beef, boiling meat lean, cooked (without addition of fat and salt)"	"E"	1	200
+46	36	"Beef, boiling meat, lean, raw"	"E"	1	200
+47	13291	"Beef, boiling meat with fat, cooked (without addition of fat and salt)"	"E"	1	200
+48	35	"Beef, boiling meat, with fat, raw"	"E"	1	200
+49	1072	"Beef, breast, cooked (without addition of fat and salt)"	"E"	1	200
+50	719	"Beef, breast, raw"	"E"	1	200
+51	37	"Beef, chopped, raw"	"E"	1	200
+52	13258	"Beef, entrcôte, steak, pan fried medium (without addition of fat and salt)"	"E"	1	200
+53	720	"Beef, entrecôte, steak, raw"	"E"	1	200
+54	30	"Beef, entrecôte, steak, raw (Switzerland)"	"E"	1	200
+55	31	"Beef, entrecôte, steak, raw (USA)"	"E"	1	200
+56	34	"Beef, eye of round, raw"	"E"	1	200
+57	13262	"Beef, Filet, fried in oven medium (without addition of fat and salt)"	"E"	1	200
+58	639	"Beef, filet, raw"	"E"	1	200
+59	657	"Beef, liver, raw"	"E"	1	200
+60	13297	"Beef, minced, pan fried (without addition of fat and salt)"	"E"	1	200
+61	6	"Beef, minced, raw"	"E"	1	200
+62	32	"Beef, prime rib, raw (Switzerland)"	"E"	1	200
+63	33	"Beef, prime rib, raw (USA)"	"E"	1	200
+64	648	"Beef, ragout (goulash), raw"	"E"	1	200
+65	38	"Beef, ragout, raw"	"E"	1	200
+66	1672	"Beef ragout with sauce, prepared"	"E"	1	200
+67	701	"Beef, rib, raw"	"E"	1	200
+68	640	"Beef, round, schnitzel, raw"	"E"	1	200
+69	1075	"Beef, shoulder, medium roast in oven (without addition of fat and salt)"	"E"	1	200
+70	1074	"Beef, shoulder, rare roast in oven (without addition of fat and salt)"	"E"	1	200
+71	638	"Beef, shoulder (roast), raw"	"E"	1	200
+72	1076	"Beef, shoulder, well done roast in oven (without addition of fat and salt)"	"E"	1	200
+73	656	"Beef, tongue, raw"	"E"	1	200
+74	817	"Beer, five grain"	"E"	1	200
+75	816	"Beer, lager"	"E"	1	200
+76	13420	"Beer, non-alcoholic"	"E"	1	200
+77	1183	"Beer shandy (average)"	"E"	1	200
+78	451	"Beetroot, raw"	"E"	1	200
+79	1019	"Beetroot, steamed (without addition of salt)"	"E"	1	200
+80	359	"Bell pepper, green, raw"	"E"	1	200
+81	1017	"Bell pepper, green, stewed (without addition of fat and salt)"	"E"	1	200
+82	360	"Bell pepper, red, raw"	"E"	1	200
+83	1018	"Bell pepper, red, stewed (without addition of fat and salt)"	"E"	1	200
+84	851	"Berliner pastry"	"E"	1	200
+85	1211	"Bernese alp cheese"	"E"	1	200
+86	1212	"Bernese cheese for slicing"	"E"	1	200
+87	790	"Bernese tongue sausage"	"E"	1	200
+88	1122	"Berries (average), cooked (without addition of sugar)"	"E"	1	200
+89	1119	"Berries (average), raw"	"E"	1	200
+90	859	"Biber (Filled ginger bread type)"	"E"	1	200
+91	789	"Bierwurst (coarse heat-treated, cured & smoked sausage, beef and pork)"	"E"	1	200
+92	1198	"Birchermüesli, prepared (no sugar added)"	"E"	1	200
+93	862	"Birnenweggen, pastry with pear"	"E"	1	200
+94	383	"Blackberry, fresh"	"E"	1	200
+95	1596	"Blackberry pie, baked (with cake dough)"	"E"	1	200
+96	1594	"Blackberry pie, baked (with puff pastry)"	"E"	1	200
+97	1485	"Blackberry pie, baked (with sweet short pastry base)"	"E"	1	200
+98	883	"Black forest cake"	"E"	1	200
+99	778	"Black pudding"	"E"	1	200
+100	452	"Black salsify, raw"	"E"	1	200
+101	1023	"Black salsify, steamed (without addition of salt)"	"E"	1	200
+102	13395	"Blanc battu, plain, low fat"	"E"	1	200
+103	604	"Blanc battu with fruits, with sweetener"	"E"	1	200
+104	389	"Blueberry, raw"	"E"	1	200
+105	1191	"Blue cheese (average)"	"E"	1	200
+106	1697	"Boiling meat salad, prepared"	"E"	1	200
+107	668	"Bouillon, meat, prepared"	"E"	1	200
+108	665	"Bouillon, poultry, prepared"	"E"	1	200
+109	664	"Bouillon, vegetable, prepared"	"E"	1	200
+110	1460	"Braided bread, wholemeal, made with butter"	"E"	1	200
+111	820	"Braided white bread made with butter"	"E"	1	200
+112	13344	"Bratwurst, fried sausage, grilled (without addition of fat and salt)"	"E"	1	200
+113	841	"Bratwurst, fried sausage, pork, raw"	"E"	1	200
+114	279	"Brazil nut"	"E"	1	200
+115	10446	"Bread (average)"	"E"	1	200
+116	750	"Breadcrumbs"	"E"	1	200
+117	827	"Bread for toasting, white, made with butter"	"E"	1	200
+118	826	"Bread for toasting, white, made with vegetable oil"	"E"	1	200
+119	843	"Bread roll from St. Gallen (semi white)"	"E"	1	200
+120	842	"Bread roll (semi white)"	"E"	1	200
+121	844	"Bread roll, white"	"E"	1	200
+122	831	"Bread with walnuts"	"E"	1	200
+123	705	"Bresaola (cured beef)"	"E"	1	200
+124	613	"Brie, at least 45% fidm"	"E"	1	200
+125	616	"Brie, at least 50% fidm"	"E"	1	200
+126	351	"Broccoli, raw"	"E"	1	200
+127	1005	"Broccoli, steamed (without addition of salt)"	"E"	1	200
+128	829	"Brown bread"	"E"	1	200
+129	864	"Brunsli (chocolate cookie)"	"E"	1	200
+130	1021	"Brussel sprouts, steamed (without addition of salt)"	"E"	1	200
+131	363	"Brussels sprouts, raw"	"E"	1	200
+132	420	"Buckwheat flour"	"E"	1	200
+133	421	"Buckwheat, grain peeled"	"E"	1	200
+134	1583	"Burger patty (beef), pan fried in HOLL rapeseed oil"	"E"	1	200
+135	191	"Butter, 40% fat"	"E"	1	200
+136	901	"Butter cake"	"E"	1	200
+137	60	"Butter, cheese dairy"	"E"	1	200
+138	50	"Butter, clarified"	"E"	1	200
+139	836	"Butter croissant, white"	"E"	1	200
+140	834	"Butter croissant, wholemeal"	"E"	1	200
+141	448	"Butterhead lettuce, raw"	"E"	1	200
+142	529	"Buttermilk"	"E"	1	200
+143	49	"Butter of choice"	"E"	1	200
+144	781	"Cabbage sausage"	"E"	1	200
+145	10582	"Cabbage vegetables (average), boiled (without addition of salt and fat)"	"E"	1	200
+146	1167	"Cabbage vegetables (average), raw"	"E"	1	200
+147	13417	"Cake dough, whole (with butter), raw"	"E"	1	200
+148	13416	"Cake dough, whole (with vegetable fat), raw"	"E"	1	200
+149	1176	"Cake dough (with butter), raw"	"E"	1	200
+150	906	"Cake dough (with vegetable fat), raw"	"E"	1	200
+151	877	"Cake financier"	"E"	1	200
+152	916	"Cake with carrots"	"E"	1	200
+153	10486	"Calimocho (red wine mixed with cola)"	"E"	1	200
+154	622	"Camembert, at least 25% fidm"	"E"	1	200
+155	614	"Camembert, at least 45% fidm"	"E"	1	200
+156	619	"Camembert, at least 50% fidm"	"E"	1	200
+157	953	"Candy, toffee"	"E"	1	200
+158	1644	"Cannelloni filled with meat, prepared"	"E"	1	200
+159	1646	"Cannelloni filled with spinach and ricotta, prepared"	"E"	1	200
+160	1121	"Cappuccino (without chocolate powder), no sugar added"	"E"	1	200
+161	1692	"Capuns, prepared"	"E"	1	200
+162	566	"Carrot juice"	"E"	1	200
+163	355	"Carrot, raw"	"E"	1	200
+164	1002	"Carrot, steamed (without addition of salt)"	"E"	1	200
+165	275	"Cashew nut"	"E"	1	200
+166	350	"Cauliflower, raw"	"E"	1	200
+167	1004	"Cauliflower, steamed (without addition of salt)"	"E"	1	200
+168	1660	"Celeriac piccata, prepared"	"E"	1	200
+169	357	"Celeriac, raw"	"E"	1	200
+170	1655	"Celeriac slices, breaded, prepared"	"E"	1	200
+171	1013	"Celeriac, steamed"	"E"	1	200
+172	366	"Celery, raw"	"E"	1	200
+173	1026	"Celery, steamed (without addition of salt)"	"E"	1	200
+174	1696	"Cereal flakes (average)"	"E"	1	200
+175	1081	"Cervelat (Swiss sausage)"	"E"	1	200
+176	376	"Chanterelle, raw"	"E"	1	200
+177	1038	"Chanterelle, stewed (without addition of fat and salt)"	"E"	1	200
+178	1569	"Cheese and sausage salad, prepared"	"E"	1	200
+179	1601	"Cheese bread slices, prepared"	"E"	1	200
+180	1196	"Cheese grated"	"E"	1	200
+181	1546	"Cherry pie, baked (with cake dough)"	"E"	1	200
+182	1545	"Cherry pie, baked (with puff pastry)"	"E"	1	200
+183	882	"Cherry pie from Zug"	"E"	1	200
+184	394	"Cherry, raw"	"E"	1	200
+185	1052	"Cherry, stewed, drained (without addition of sugar)"	"E"	1	200
+186	272	"Chestnut, raw"	"E"	1	200
+187	680	"Chicken, breast (cut), raw"	"E"	1	200
+188	23	"Chicken, breast, without skin, raw (France)"	"E"	1	200
+189	22	"Chicken, breast, without skin, raw (Switzerland)"	"E"	1	200
+190	21	"Chicken, breast, with skin, raw (France)"	"E"	1	200
+191	20	"Chicken, breast, with skin, raw (Switzerland)"	"E"	1	200
+192	13276	"Chicken, brest (schnitzel, ground), pan fried (without addition of fat and salt)"	"E"	1	200
+193	1070	"Chicken egg, whole, hard boiled"	"E"	1	200
+194	27	"Chicken, leg, without skin, raw (France)"	"E"	1	200
+195	26	"Chicken, leg, without skin, raw (Switzerland)"	"E"	1	200
+196	712	"Chicken, leg, with skin, raw"	"E"	1	200
+197	25	"Chicken, leg, with skin, raw (France)"	"E"	1	200
+198	24	"Chicken, leg, with skin, raw (Switzerland)"	"E"	1	200
+199	13310	"Chicken, leg with skin, roasted (without addition of fat and salt)"	"E"	1	200
+200	711	"Chicken, whole, with skin, raw"	"E"	1	200
+201	13309	"Chicken, whole with skin, roasted (without addition of fat and salt)"	"E"	1	200
+202	1059	"Chickpea, cooked (without addition of fat and salt)"	"E"	1	200
+203	439	"Chickpea, dried"	"E"	1	200
+204	447	"Chicory, raw"	"E"	1	200
+205	1006	"Chicory, steamed (without addition of salt)"	"E"	1	200
+206	1648	"Chili con carne, prepared"	"E"	1	200
+207	437	"Chinese cabbage, raw"	"E"	1	200
+208	1007	"Chinese cabbage, stewed (without addition of fat and salt)"	"E"	1	200
+209	374	"Chives, fresh"	"E"	1	200
+210	196	"Chocolate, dark"	"E"	1	200
+211	960	"Chocolate powder"	"E"	1	200
+212	889	"Chocolate ring cake"	"E"	1	200
+213	807	"Chocolate sauce"	"E"	1	200
+214	197	"Chocolate, white"	"E"	1	200
+215	13322	"chop (average of veal, pork, lamb), pan fried (without addition of fat and salt)"	"E"	1	200
+216	1107	"Chop (average of veal, pork, lamb), raw"	"E"	1	200
+217	867	"Chräbeli (aniseed cookie)"	"E"	1	200
+218	512	"Cider, 4 vol%"	"E"	1	200
+219	513	"Cider, 6.2 vol%"	"E"	1	200
+220	876	"Cinnamon cookie, star-shaped"	"E"	1	200
+221	1126	"Citrus fruits (average), raw"	"E"	1	200
+222	1683	"Cocktail sauce, home made with rapeseed mayonnaise"	"E"	1	200
+223	581	"Cocoa powder"	"E"	1	200
+224	888	"Coco macaroon"	"E"	1	200
+225	284	"Coconut"	"E"	1	200
+226	742	"Coconut, dried (coco flakes)"	"E"	1	200
+227	601	"Coconut fat"	"E"	1	200
+228	13350	"Cod, filet, steamed (without addition of fat and salt)"	"E"	1	200
+229	285	"Cod, raw"	"E"	1	200
+230	994	"Coffee, black, no sugar added"	"E"	1	200
+231	69	"Coffee cream UHT"	"E"	1	200
+232	983	"Coffee, instant, powder"	"E"	1	200
+233	1188	"Coffee with coffee cream, no sugar added"	"E"	1	200
+234	498	"Cola beverage, sweetened"	"E"	1	200
+235	499	"Cola beverage, with sweetener"	"E"	1	200
+236	10353	"Cold cuts (average)"	"E"	1	200
+237	1573	"Coleslaw salad, prepared"	"E"	1	200
+238	13388	"Common bean (all types), mature seed, cooked (without addition of fat and salt)"	"E"	1	200
+239	13387	"Common bean (all types), mature seed, dried"	"E"	1	200
+240	526	"Condensed milk, sweetened"	"E"	1	200
+241	527	"Condensed milk, unsweetened"	"E"	1	200
+242	1118	"Cooked cured meat (average)"	"E"	1	200
+243	1116	"Cooked sausages (average)"	"E"	1	200
+244	1113	"Cooked sausages not smoked (average)"	"E"	1	200
+245	1112	"Cooked smoked sausages (average)"	"E"	1	200
+246	51	"Cooking butter"	"E"	1	200
+247	715	"Coppa (cured pork meat)"	"E"	1	200
+248	1650	"Cordon bleu from pork schnitzel, fried"	"E"	1	200
+249	1649	"Cordon bleu from veal schnitzel, fried"	"E"	1	200
+250	940	"Cornflakes"	"E"	1	200
+251	412	"Corn germ oil"	"E"	1	200
+252	1619	"Corn semolina, cooked"	"E"	1	200
+253	425	"Corn semolina, dried"	"E"	1	200
+254	758	"Cotechino (pork sausage)"	"E"	1	200
+255	505	"Cottage cheese"	"E"	1	200
+256	1093	"Cotto (meat product)"	"E"	1	200
+257	64	"Cow milk, skimmed, UHT"	"E"	1	200
+258	950	"Cracker, salty snacks"	"E"	1	200
+259	987	"Cranberry, fresh"	"E"	1	200
+260	65	"Cream, 35% fat, pasteurized"	"E"	1	200
+261	66	"Cream, 35% fat, UHT"	"E"	1	200
+262	798	"Cream, at least 45 % milk fat, pasteurized"	"E"	1	200
+263	1195	"Cream (average)"	"E"	1	200
+264	567	"Cream cheese, min. 60% fidm"	"E"	1	200
+265	67	"Cream, pasteurized, 25% fat"	"E"	1	200
+266	924	"Cream slice"	"E"	1	200
+267	68	"Cream, UHT"	"E"	1	200
+268	918	"Crispbread, wholemeal"	"E"	1	200
+269	920	"Crispbread, wholemeal, with linseeds"	"E"	1	200
+270	919	"Crispbread, wholemeal, with sesame"	"E"	1	200
+271	10406	"Croissant (average)"	"E"	1	200
+272	913	"Croissant filled with nuts, puff pastry"	"E"	1	200
+273	914	"Croissant filled with nuts, yeast dough"	"E"	1	200
+274	835	"Croissant, pretzel"	"E"	1	200
+275	491	"Cucumber, pickled"	"E"	1	200
+276	354	"Cucumber, raw"	"E"	1	200
+277	1182	"Curd cheese puff pastry (with butter), raw"	"E"	1	200
+278	1181	"Curd cheese puff pastry (with vegetable fat), raw"	"E"	1	200
+279	70	"Curds min. 40% fidm"	"E"	1	200
+280	13393	"Curds, plain, half fat"	"E"	1	200
+281	71	"Curds with at most 10% fidm"	"E"	1	200
+282	392	"Currant, black, raw"	"E"	1	200
+283	391	"Currant, red, raw"	"E"	1	200
+284	384	"Date, dried"	"E"	1	200
+285	487	"Deer (average), raw"	"E"	1	200
+286	12	"Deer, entrecôte, raw"	"E"	1	200
+287	13419	"Dough for french pizza from Alsace"	"E"	1	200
+288	709	"Dried meat (Hobel-, Bündner-, Walliser-, Tessiner- dried meat)"	"E"	1	200
+289	47	"Drinking water (average Switzerland)"	"E"	1	200
+290	10535	"Dulce de Leche"	"E"	1	200
+291	423	"Durum wheat semolina"	"E"	1	200
+292	455	"Edible boletus, fresh"	"E"	1	200
+293	1040	"Edible boletus, stewed (without addition of fat and salt)"	"E"	1	200
+294	517	"Egg liqueur, 16.5 vol%"	"E"	1	200
+295	517	"Egg nogg"	"E"	0	200
+296	1659	"Eggplant piccata, prepared"	"E"	1	200
+297	349	"Eggplant, raw"	"E"	1	200
+298	1658	"Eggplant slices, breaded, prepared"	"E"	1	200
+299	1003	"Eggplant, stewed (without addition of fat and salt)"	"E"	1	200
+300	290	"Egg, raw"	"E"	1	200
+301	411	"Egg white, raw"	"E"	1	200
+302	410	"Egg yolk, raw"	"E"	1	200
+303	436	"Elderberry, raw"	"E"	1	200
+304	555	"Emmentaler cheese, at least 45% fidm"	"E"	1	200
+305	467	"Endive, raw"	"E"	1	200
+306	13319	"Escalope (average of beef, veal, pork, poultry), pan fried (without addition of fat and sa"	"E"	1	200
+307	1101	"Escalope (average of beef, veal, pork, poultry), raw"	"E"	1	200
+308	1190	"Espresso with coffee cream, no sugar added"	"E"	1	200
+309	765	"Eurasian perch, raw"	"E"	1	200
+310	13384	"Ewe's milk"	"E"	1	200
+311	1268	"Farmers' bread"	"E"	1	200
+312	352	"Fennel, raw"	"E"	1	200
+313	1008	"Fennel, steamed (without addition of salt)"	"E"	1	200
+314	539	"Feta, cow milk"	"E"	1	200
+315	549	"Feta, ewe-/goat milk"	"E"	1	200
+316	387	"Fig, dried"	"E"	1	200
+317	386	"Fig, fresh"	"E"	1	200
+318	13345	"Fish (average), filet, steamed (without addition of fat and salt)"	"E"	1	200
+319	1098	"Fish (average), raw"	"E"	1	200
+320	773	"Fish fingers (sticks), breaded and pre deep fried"	"E"	1	200
+321	1168	"Fish fingers/sticks (breaded and pre deep fried), fried in HOLL rapeseed oil"	"E"	1	200
+322	1169	"Fish fingers/sticks (breaded and pre deep fried), oven baked (without addition of fat)"	"E"	1	200
+323	760	"Fish, hake, raw"	"E"	1	200
+324	415	"Fish, plaice, raw"	"E"	1	200
+325	754	"Fish, pollock, raw"	"E"	1	200
+326	414	"Fish product, anchovy in oil, drained"	"E"	1	200
+327	413	"Fish product, sardine in oil, drained"	"E"	1	200
+328	757	"Fish, sardine, raw"	"E"	1	200
+329	755	"Fish, sole, raw"	"E"	1	200
+330	756	"Fish, tuna, raw"	"E"	1	200
+331	1185	"Flat white (little milk), no sugar added"	"E"	1	200
+332	1186	"Flat white (much milk), no sugar added"	"E"	1	200
+333	1187	"Flat white, no sugar added"	"E"	1	200
+334	13405	"Flaxseed oil, cold pressed"	"E"	1	200
+335	13405	"Linseed oil"	"E"	0	200
+336	13351	"Flounder, filet, steamed (without addition of fat and Salt)"	"E"	1	200
+337	481	"Flounder, raw"	"E"	1	200
+338	1135	"Flour (average)"	"E"	1	200
+339	1524	"Flour omelette filled with mushrooms, prepared"	"E"	1	200
+340	1525	"Flour omelette filled with vegetables, prepared"	"E"	1	200
+341	1522	"Flour omelette, prepared"	"E"	1	200
+342	1527	"Flour omelette with bacon, prepared"	"E"	1	200
+343	1523	"Flour omelette with cheese, prepared"	"E"	1	200
+344	1526	"Flour omelette with ham, prepared"	"E"	1	200
+345	1695	"Flour omelette with Nutella, prepared"	"E"	1	200
+346	1694	"Flour omelette with sugar and cinnamon, prepared"	"E"	1	200
+347	1136	"Flour, white and semi-white (average)"	"E"	1	200
+348	1475	"Fondue moitié-moitié, prepared"	"E"	1	200
+349	797	"Fondue, prepared"	"E"	1	200
+350	1476	"Fondue without alcohol, prepared"	"E"	1	200
+351	10450	"French fries (baked in the oven), unsalted"	"E"	1	200
+352	10449	"French fries (deep fried in HO sunflower oil), unsalted"	"E"	1	200
+353	818	"French fries for oven, deep-frozen"	"E"	1	200
+354	1500	"French omelette, prepared"	"E"	1	200
+355	1503	"French omelette with bacon, prepared"	"E"	1	200
+356	1502	"French omelette with cheese, prepared"	"E"	1	200
+357	1501	"French omelette with ham, prepared"	"E"	1	200
+358	1504	"French pizza from Alsace, baked"	"E"	1	200
+359	1515	"French toast unsweetened"	"E"	1	200
+360	1120	"Fruit (average), dried"	"E"	1	200
+361	1130	"Fruit juice (average), no sugar added"	"E"	1	200
+362	1131	"Fruit juice diluted (average, 60% juice - 40% water), no sugar added"	"E"	1	200
+363	10456	"Fruit pie (average)"	"E"	1	200
+364	10454	"Fruit pie with cake dough (average)"	"E"	1	200
+365	10453	"Fruit pie with puff pastry (average)"	"E"	1	200
+366	10455	"Fruit pie with sweet short pastry base (average)"	"E"	1	200
+367	775	"Fruit salad, sweetened, canned"	"E"	1	200
+368	777	"Fruit salad, unsweetened, canned"	"E"	1	200
+369	1124	"Fruits (average), cooked (without addition of sugar)"	"E"	1	200
+370	1123	"Fruits, raw (average)"	"E"	1	200
+371	13281	"Game meat (average), cuite (without addition of fat and Salt)"	"E"	1	200
+372	1125	"Game meat (average), raw"	"E"	1	200
+373	356	"Garlic, raw"	"E"	1	200
+374	768	"Glucose"	"E"	1	200
+375	687	"Goat (average), raw"	"E"	1	200
+376	528	"Goat milk"	"E"	1	200
+377	400	"Gooseberry, raw"	"E"	1	200
+378	483	"Gorgonzola"	"E"	1	200
+379	684	"Goulash soup"	"E"	1	200
+380	478	"Grape, fresh"	"E"	1	200
+381	388	"Grapefruit (white or red), raw"	"E"	1	200
+382	573	"Grape juice"	"E"	1	200
+383	592	"Grape seed oil"	"E"	1	200
+384	669	"Graubünden barley soup"	"E"	1	200
+385	651	"Gravy, brown"	"E"	1	200
+386	650	"Gravy, thickened"	"E"	1	200
+387	1009	"Green bean, steamed (without addition of salt)"	"E"	1	200
+388	369	"Green pea, raw"	"E"	1	200
+389	815	"Green peas and carrots, canned"	"E"	1	200
+390	1034	"Green peas and carrots (canned), heated (without addition of salt)"	"E"	1	200
+391	630	"Green peas, canned"	"E"	1	200
+392	1011	"Green peas (canned), heated (without addition of salt)"	"E"	1	200
+393	1010	"Green pea, steamed (without addition of salt)"	"E"	1	200
+394	530	"Greyerzer, at least 45% fidm"	"E"	1	200
+395	1272	"Grittibänz (Swiss bread man)"	"E"	1	200
+396	653	"Ground meat sauce"	"E"	1	200
+397	753	"Halibut, raw"	"E"	1	200
+398	691	"Ham, cooked"	"E"	1	200
+399	693	"Ham, raw"	"E"	1	200
+400	1193	"Hard and semi hard cheese, full fat (average)"	"E"	1	200
+401	952	"Hard caramels"	"E"	1	200
+402	13329	"Hare (Durchschnitt), cooked (without addition of fat and salt)"	"E"	1	200
+403	16	"Hare, filet, raw"	"E"	1	200
+404	486	"Hare, fresh"	"E"	1	200
+405	686	"Hare, meat, raw"	"E"	1	200
+406	270	"Hazelnut"	"E"	1	200
+407	703	"Hazelnut-chocolate spread"	"E"	1	200
+408	903	"Hazelnut cookie"	"E"	1	200
+409	869	"Hazelnut macaroon"	"E"	1	200
+410	666	"Hollandaise sauce"	"E"	1	200
+411	399	"Honeydew melon, raw"	"E"	1	200
+412	472	"Honey, from flowers"	"E"	1	200
+413	13328	"Horse, filet, pan fried (without addition of fat and salt)"	"E"	1	200
+414	685	"Horse, filet, raw"	"E"	1	200
+415	1670	"Horse ragout with sauce, prepared"	"E"	1	200
+416	1590	"Hot Dog in white bread with ketchup and mustard"	"E"	1	200
+417	652	"Huntsman sauce"	"E"	1	200
+418	459	"Iceberg lettuce, raw"	"E"	1	200
+419	694	"Ice cream, dairy, fruit"	"E"	1	200
+420	804	"Ice Tea, sweetened"	"E"	1	200
+421	696	"Jam"	"E"	1	200
+422	697	"Jam, low calorie, with sweetener"	"E"	1	200
+423	951	"Jelly babies with fruit essence"	"E"	1	200
+424	583	"Kakaobutter"	"E"	1	200
+425	393	"Kaki, raw"	"E"	1	200
+426	13400	"Kale, raw"	"E"	1	200
+427	13401	"Kale, stewed (without addition of salt and fat)"	"E"	1	200
+428	1572	"Kebab in pita bread"	"E"	1	200
+429	635	"Ketchup"	"E"	1	200
+430	395	"Kiwi fruit, raw"	"E"	1	200
+431	449	"Kohlrabi, raw"	"E"	1	200
+432	1014	"Kohlrabi, steamed (without addition of salt)"	"E"	1	200
+433	852	"Ladyfinger cookie"	"E"	1	200
+434	1110	"Lamb (average excluding offal, chop), raw"	"E"	1	200
+435	13304	"Lamb, leg, roast (without addition of fat and salt)"	"E"	1	200
+436	19	"Lamb, ragout, raw (Switzerland)"	"E"	1	200
+437	1673	"Lamb ragout with sauce, prepared"	"E"	1	200
+438	5	"Lamb (sheep), cutlet, raw (Switzerland)"	"E"	1	200
+439	13273	"lamb (sheep), filet, pan fried medium (without addition of fat and salt)"	"E"	1	200
+440	675	"Lamb (sheep), filet, raw"	"E"	1	200
+441	17	"Lamb (sheep), filet, raw (Australia, New Zealand)"	"E"	1	200
+442	4	"Lamb (sheep), leg, raw (Switzerland, New Zealand)"	"E"	1	200
+443	18	"Lamb (sheep), racks, raw (Australia, New Zealand)"	"E"	1	200
+444	372	"Lamb's lettuce, raw"	"E"	1	200
+445	1090	"Landjäger sausage"	"E"	1	200
+446	1184	"Latte macchiato, no sugar added"	"E"	1	200
+447	1127	"Leafy salad (average), raw"	"E"	1	200
+448	1164	"Leafy vegetables (average excluding salads), boiled (without addition of salt and fat)"	"E"	1	200
+449	1165	"Leafy vegetables (average excluding salads), steamed (without addition of salt)"	"E"	1	200
+450	1166	"Leafy vegetables (average excluding salads), stewed (without addition of salt and fat)"	"E"	1	200
+451	880	"Lebkuchen"	"E"	1	200
+452	993	"Lebkuchen, chocolate covered"	"E"	1	200
+453	358	"Leek, raw"	"E"	1	200
+454	1015	"Leek, stewed (without addition of fat and salt)"	"E"	1	200
+455	1134	"Legumes/Pulses (average), cooked (without addition of fat and salt)"	"E"	1	200
+456	1133	"Legumes/Pulses, (average) dried"	"E"	1	200
+457	10534	"Lemon Curd"	"E"	1	200
+458	398	"Lemon, fresh"	"E"	1	200
+459	605	"Lemon juice"	"E"	1	200
+460	13386	"Lentil, split, cooked (without addition of fat and salt)"	"E"	1	200
+461	13385	"Lentil, split, dried"	"E"	1	200
+462	1060	"Lentil, whole, cooked (without addition of fat and salt)"	"E"	1	200
+463	370	"Lentil, whole, dried"	"E"	1	200
+464	531	"Limburger (Münster) cheese"	"E"	1	200
+465	277	"Linseed"	"E"	1	200
+466	900	"Linzertorte (Pastry base covered with raspberry sweetmeat)"	"E"	1	200
+467	13320	"Liver (average of beef, veal, pork), pan fried (without addition of fat and salt)"	"E"	1	200
+468	10377	"Liver (average of beef, veal, pork), raw"	"E"	1	200
+469	776	"Liver sausage"	"E"	1	200
+470	786	"Luganighe"	"E"	1	200
+471	1084	"Luncheon meat"	"E"	1	200
+472	832	"Lye roll"	"E"	1	200
+473	1083	"Lyoner sausage"	"E"	1	200
+474	1083	"Bologna sausage"	"E"	0	200
+475	1092	"Lyoner sausage (poultry)"	"E"	1	200
+476	1092	"Bologna sausage (poultry)"	"E"	0	200
+477	1478	"Macaroni from the alps, prepared"	"E"	1	200
+478	878	"Madeleine biscuit"	"E"	1	200
+479	426	"Maize starch"	"E"	1	200
+480	397	"Mandarin, fresh"	"E"	1	200
+481	396	"Mango, fresh"	"E"	1	200
+482	898	"Marble cake"	"E"	1	200
+483	208	"Margarine"	"E"	1	200
+484	496	"Marzipan"	"E"	1	200
+485	866	"Mashed potatoes, instant, prepared (with water and butter)"	"E"	1	200
+486	1519	"Mashed potatoes, prepared (with cream and butter)"	"E"	1	200
+487	863	"Mashed potatoes, prepared (with full fat milk and butter)"	"E"	1	200
+488	1518	"Mashed potatoes, prepared (with partially skimmed milk and butter)"	"E"	1	200
+489	771	"Mayonnaise"	"E"	1	200
+490	1682	"Mayonnaise, home made with rapeseed oil"	"E"	1	200
+491	772	"Mayonnaise, low calorie"	"E"	1	200
+492	1111	"Meat (average excluding offal), raw"	"E"	1	200
+493	13318	"Meat, chopped (average of beef, veal, pork, poultry), pan fried (without addition of fat a"	"E"	1	200
+494	1104	"Meat, chopped (average of beef, veal, pork, poultry), raw"	"E"	1	200
+495	1664	"Meat lasagne, prepared"	"E"	1	200
+496	1582	"Meat loaf, baked in the oven"	"E"	1	200
+497	854	"Meringue, biscuit"	"E"	1	200
+498	879	"Milanese cookie, butter, sweet"	"E"	1	200
+499	1194	"Milk (average)"	"E"	1	200
+500	195	"Milk chocolate"	"E"	1	200
+501	654	"Milk chocolate, filled with alcohol"	"E"	1	200
+502	655	"Milk chocolate, filled with cream (gianduja, nougat)"	"E"	1	200
+503	642	"Milk chocolate filled with nuts (chocolate bar)"	"E"	1	200
+504	643	"Milk chocolate with almond, honey, nougat"	"E"	1	200
+505	612	"Milk chocolate with nuts"	"E"	1	200
+506	641	"Milk chocolate with raisins, nuts, almonds"	"E"	1	200
+507	13399	"Milk, half skimmed 1.5 % fat, UHT"	"E"	1	200
+508	59	"Milk partially skimmed, pasteurized"	"E"	1	200
+509	61	"Milk partially skimmed, UHT"	"E"	1	200
+510	422	"Millet, grain peeled"	"E"	1	200
+511	1586	"Millet risotto, cooked"	"E"	1	200
+512	938	"Millet, wholemeal flakes"	"E"	1	200
+513	13317	"Minced meat (average of beef, veal, pork, chicken), pan fried (without addition of fat and"	"E"	1	200
+514	1105	"Minced meat (average of beef, veal, pork, chicken), raw"	"E"	1	200
+515	671	"Minestrone"	"E"	1	200
+516	1087	"Minipic sausage"	"E"	1	200
+517	1053	"Mirabelle plum, stewed, drained (without addition of sugar)"	"E"	1	200
+518	732	"Molasses"	"E"	1	200
+519	761	"Molluscs, blue mussel, raw"	"E"	1	200
+520	457	"Morel, fresh"	"E"	1	200
+521	1039	"Morel, stewed (without addition of fat and salt)"	"E"	1	200
+522	819	"Mortadella"	"E"	1	200
+523	717	"Mostbröckli (smoked and dried beef), raw"	"E"	1	200
+524	82	"Mozzarella"	"E"	1	200
+525	1128	"Mushroom (average), raw"	"E"	1	200
+526	1129	"Mushroom (average), stewed (without addition of fat and salt)"	"E"	1	200
+527	629	"Mushroom, canned"	"E"	1	200
+528	375	"Mushroom, raw"	"E"	1	200
+529	1585	"Mushroom risotto, cooked"	"E"	1	200
+530	683	"Mushroom sauce, thickened"	"E"	1	200
+531	688	"Mushroom soup"	"E"	1	200
+532	1037	"Mushroom, stewed (without addition of fat and salt)"	"E"	1	200
+533	1579	"Nasi Goreng, prepared"	"E"	1	200
+534	404	"Nectarine, fresh"	"E"	1	200
+535	767	"Norway lobster, raw"	"E"	1	200
+536	915	"Nut roll with yeast dough"	"E"	1	200
+537	871	"Nut sticks"	"E"	1	200
+538	902	"Nut tart from Engadin"	"E"	1	200
+539	769	"Oat bran, raw"	"E"	1	200
+540	198	"Oat flakes"	"E"	1	200
+541	493	"Olive, black"	"E"	1	200
+542	492	"Olive, green"	"E"	1	200
+543	591	"Olive oil"	"E"	1	200
+544	10545	"Olives stuffed with minced meat, deep-fried"	"E"	1	200
+545	1616	"Onion quiche, baked (with cake dough)"	"E"	1	200
+546	1615	"Onion quiche, baked (with puff pastry)"	"E"	1	200
+547	368	"Onion, raw"	"E"	1	200
+548	1036	"Onion, roasted, brown (without addition of fat and salt)"	"E"	1	200
+549	1035	"Onion, stewed (without addition of fat and salt)"	"E"	1	200
+550	405	"Orange, fresh"	"E"	1	200
+551	576	"Orange juice"	"E"	1	200
+552	577	"Orange juice, fortified with vitamin C"	"E"	1	200
+553	572	"Orange nectar"	"E"	1	200
+554	708	"Palm oil, palm fat"	"E"	1	200
+555	716	"Pancetta"	"E"	1	200
+556	202	"Panettone"	"E"	1	200
+557	779	"Pantli, beef and pork sausage"	"E"	1	200
+558	663	"Paprika (spice)"	"E"	1	200
+559	482	"Parmesan cheese"	"E"	1	200
+560	373	"Parsley, fresh"	"E"	1	200
+561	986	"Passion fruit, fresh"	"E"	1	200
+562	1063	"Pasta egg-free, cooked in salted water (uniodised)"	"E"	1	200
+563	800	"Pasta egg-free, dry"	"E"	1	200
+564	1611	"Pasta gratin with ham, prepared"	"E"	1	200
+565	1598	"Pasta salad with French dressing"	"E"	1	200
+566	1597	"Pasta salat with Italian dressing"	"E"	1	200
+567	1062	"Pasta with egg, cooked in salted water (uniodised)"	"E"	1	200
+568	799	"Pasta with egg, dry"	"E"	1	200
+569	774	"Pâté de campagne"	"E"	1	200
+570	401	"Peach, fresh"	"E"	1	200
+571	624	"Peach, sweetened, canned"	"E"	1	200
+572	625	"Peach, unsweetened, canned"	"E"	1	200
+573	13390	"Pea, mature seed, split, cooked (wothout addition of fat and salt)"	"E"	1	200
+574	13389	"Pea, mature seed, split, dried"	"E"	1	200
+575	282	"Peanut"	"E"	1	200
+576	751	"Peanut butter"	"E"	1	200
+577	681	"Peanut curls"	"E"	1	200
+578	596	"Peanut oil"	"E"	1	200
+579	407	"Peanut, roasted"	"E"	1	200
+580	433	"Pear, dried"	"E"	1	200
+581	562	"Pear juice"	"E"	1	200
+582	429	"Pearl barley"	"E"	1	200
+583	494	"Pearl onion, pickled"	"E"	1	200
+584	1484	"Pear pie, baked (with cake dough)"	"E"	1	200
+585	1483	"Pear pie, baked (with puff pastry)"	"E"	1	200
+586	382	"Pear, raw"	"E"	1	200
+587	1050	"Pear, stewed, drained (without addition of sugar)"	"E"	1	200
+588	620	"Pear, sweetened, canned"	"E"	1	200
+589	626	"Pear, unsweetened, canned"	"E"	1	200
+590	787	"Peasant's Schüblig"	"E"	1	200
+591	463	"Peppermint, fresh"	"E"	1	200
+592	416	"Pike, raw"	"E"	1	200
+593	377	"Pineapple, fresh"	"E"	1	200
+594	617	"Pineapple, sweetened, canned"	"E"	1	200
+595	618	"Pineapple, unsweetened, canned"	"E"	1	200
+596	283	"Pine nuts"	"E"	1	200
+597	274	"Pistachio, dried"	"E"	1	200
+598	1533	"Pizza Calzone, baked"	"E"	1	200
+599	907	"Pizza doug ( with olive oil), raw"	"E"	1	200
+600	1534	"Pizza Hawaii, baked"	"E"	1	200
+601	1535	"Pizza Margherita, baked"	"E"	1	200
+602	1539	"Pizza with four cheeses, baked"	"E"	1	200
+603	1537	"Pizza with ham and mushrooms, baked"	"E"	1	200
+604	1538	"Pizza with ham, baked"	"E"	1	200
+605	1536	"Pizza with mascarpone and rocket, baked"	"E"	1	200
+606	1532	"Pizza with tuna, baked"	"E"	1	200
+607	1540	"Pizza with vegetables, baked"	"E"	1	200
+608	474	"Plum, fresh"	"E"	1	200
+609	1530	"Plum pie, baked (with cake dough)"	"E"	1	200
+610	1528	"Plum pie, baked (with puff pastry)"	"E"	1	200
+611	1054	"Plum, stewed, drained (without addition of sugar)"	"E"	1	200
+612	10546	"Polenta nera (made from corn semolina and buckwheat flour,) cooked"	"E"	1	200
+613	12982	"Pommes Chips"	"E"	1	200
+614	424	"Popcorn"	"E"	1	200
+615	1668	"Porc piccata, prepared"	"E"	1	200
+616	1102	"Pork (average excluding offal, chop, knuckle), raw"	"E"	1	200
+617	13283	"Pork, chop, pan fried (without addition of fat and salt)"	"E"	1	200
+618	13285	"Pork, chopped, pan fried (without addition of fat and salt)"	"E"	1	200
+619	40	"Pork, chopped, raw"	"E"	1	200
+620	8	"Pork, chop, raw"	"E"	1	200
+621	1077	"Pork, chuck, medium, roast in oven (without addition of fat and salt)"	"E"	1	200
+622	676	"Pork, chuck, roast, raw"	"E"	1	200
+623	1079	"Pork, chuck, well done, roast in oven (without addition of fat and salt)"	"E"	1	200
+624	43	"Pork, eye of round, raw"	"E"	1	200
+625	13269	"Pork, filet, fried (without addition of fat and salt)"	"E"	1	200
+626	677	"Pork, filet, raw1"	"E"	1	200
+627	692	"Pork, ham from shoulder, raw"	"E"	1	200
+628	13289	"Pork, knuckle, braised (without addition of fat and salt)"	"E"	1	200
+629	678	"Pork, knuckle, raw"	"E"	1	200
+630	594	"Pork lard"	"E"	1	200
+631	689	"Pork, liver, raw"	"E"	1	200
+632	42	"Pork, loin, raw"	"E"	1	200
+633	7	"Pork, minced, raw"	"E"	1	200
+634	9	"Pork, ragout, raw"	"E"	1	200
+635	1671	"Pork ragout with sauce, prepared"	"E"	1	200
+636	13270	"Pork, round, schnitzel, pan fried (without addition of fat and salt)"	"E"	1	200
+637	679	"Pork, round, schnitzel, raw"	"E"	1	200
+638	1085	"Pork sausage (Schweinsbratwurst)"	"E"	1	200
+639	1086	"Pork sausage (Schweinswurst)"	"E"	1	200
+640	39	"Pork, spare ribs, raw"	"E"	1	200
+641	13284	"Pork, throat, pan fried (without addition of fat and salt)"	"E"	1	200
+642	41	"Pork, throat, raw"	"E"	1	200
+643	1511	"Porridge, prepared (with full fat milk, without addition of sugar)"	"E"	1	200
+644	1512	"Porridge, prepared (with partially skimmed milk, without addition of sugar)"	"E"	1	200
+645	516	"Port, 18.5 vol%"	"E"	1	200
+646	12983	"Potato chips fat reduced"	"E"	1	200
+647	1057	"Potatoe, peeled, steamed (without addition of salt)"	"E"	1	200
+648	1599	"Potatoes au gratin dauphinois, prepared"	"E"	1	200
+649	1600	"Potatoes au gratin savoyard, prepared"	"E"	1	200
+650	860	"Potato flakes, with milk powder and salt (instant mashed potatoes)"	"E"	1	200
+651	813	"Potato, peeled, raw"	"E"	1	200
+652	1516	"Potato salad with mayonnaise yogurt dressing"	"E"	1	200
+653	1517	"Potato salad with oil and vinagre dressing"	"E"	1	200
+654	497	"Potato starch"	"E"	1	200
+655	1100	"Poultry (average excluding offal), raw"	"E"	1	200
+656	1108	"Poultry without skin (average excluding offal), raw"	"E"	1	200
+657	1109	"Poultry with skin (average), raw"	"E"	1	200
+658	947	"Pretzel sticks (dry lye pretzel)"	"E"	1	200
+659	558	"Processed cheese, 15% fidm, slice"	"E"	1	200
+660	560	"Processed cheese, 15% fidm, spreadable"	"E"	1	200
+661	559	"Processed cheese, 45% fidm, slice"	"E"	1	200
+662	561	"Processed cheese, 45% fidm, spreadable"	"E"	1	200
+663	563	"Processed cheese, 50% fidm, slice"	"E"	1	200
+664	565	"Processed cheese, 50% fidm, spreadable"	"E"	1	200
+665	475	"Prune, dried"	"E"	1	200
+666	479	"Prune plum, fresh"	"E"	1	200
+667	1531	"Prune plum pie, baked (with cake dough)"	"E"	1	200
+668	1529	"Prune plum pie, baked (with puff pastry)"	"E"	1	200
+669	1056	"Prune plum, stewed, drained (without addition of sugar)"	"E"	1	200
+670	874	"Prussian cookie"	"E"	1	200
+671	806	"Pudding, caramel"	"E"	1	200
+672	810	"Pudding, chocolate"	"E"	1	200
+673	809	"Pudding, vanilla"	"E"	1	200
+674	904	"Puff pastry home-made (with butter), raw"	"E"	1	200
+675	905	"Puff pastry home-made (with vegetable fat), raw"	"E"	1	200
+676	928	"Puff pastry sticks"	"E"	1	200
+677	1662	"Pumpkin piccata, prepared"	"E"	1	200
+678	480	"Pumpkin, raw"	"E"	1	200
+679	13404	"Pumpkin seed oil"	"E"	1	200
+680	276	"Pumpkin seeds"	"E"	1	200
+681	1020	"Pumpkin, steamed (without addition of salt)"	"E"	1	200
+682	1541	"Quiche Lorraine, baked (with cake dough)"	"E"	1	200
+683	1542	"Quiche Lorraine, baked (with puff pastry)"	"E"	1	200
+684	1055	"Quince, cooked, drained (without addition of sugar)"	"E"	1	200
+685	476	"Quince, fresh"	"E"	1	200
+686	13396	"Quinoa, cooked (without addition of salt and fat)"	"E"	1	200
+687	13394	"Quinoa, raw"	"E"	1	200
+688	532	"Raclette cheese"	"E"	1	200
+689	458	"Radicchio red, raw"	"E"	1	200
+690	361	"Radish, raw"	"E"	1	200
+691	456	"Radish, red, raw"	"E"	1	200
+692	477	"Raisins, dried (grape)/ sultanas"	"E"	1	200
+693	600	"Rapeseed oil"	"E"	1	200
+694	1069	"Rapeseed oil HOLL (high oleic, low linolenic)"	"E"	1	200
+695	917	"Rascal (Shortbread cookie with jam)"	"E"	1	200
+696	390	"Raspberry, raw"	"E"	1	200
+697	1665	"Ratatouille, prepared"	"E"	1	200
+698	1117	"Raw cured meat raw (average)"	"E"	1	200
+699	1114	"Raw sausages (average)"	"E"	1	200
+700	1115	"Raw sausages with interrupted maturation (average)"	"E"	1	200
+701	533	"Reblochon cheese"	"E"	1	200
+702	364	"Red cabbage, raw"	"E"	1	200
+703	1022	"Red cabbage, stewed (without addition of fat and salt)"	"E"	1	200
+704	1595	"Red currant pie, baked (with cake dough)"	"E"	1	200
+705	1593	"Red currant pie, baked (with puff pastry)"	"E"	1	200
+706	1592	"Red currant pie, baked (with sweet short pastry base)"	"E"	1	200
+707	1548	"Rhubarb pie, baked (with cake dough)"	"E"	1	200
+708	1547	"Rhubarb pie, baked (with puff pastry)"	"E"	1	200
+709	362	"Rhubarb, raw"	"E"	1	200
+710	1065	"Rice parboiled, cooked in salted water (uniodised)"	"E"	1	200
+711	419	"Rice parboiled, raw"	"E"	1	200
+712	1066	"Rice polished, cooked in salted water (uniodised)"	"E"	1	200
+713	427	"Rice polished, raw"	"E"	1	200
+714	1514	"Rice pudding, prepared (with full fat milk, without addition of sugar)"	"E"	1	200
+715	1513	"Rice pudding, prepared (with partially skimmed milk, without addition of sugar)"	"E"	1	200
+716	1067	"Rice unpolished, cooked in salted water (uniodised)"	"E"	1	200
+717	428	"Rice unpolished (wholemeal), raw"	"E"	1	200
+718	1465	"Ring cake grandmother style"	"E"	1	200
+719	1584	"Risotto without cheese, cooked"	"E"	1	200
+720	1189	"Ristretto with coffee cream, no sugar added"	"E"	1	200
+721	1675	"Riz Casimir with chicken, prepared"	"E"	1	200
+722	1677	"Riz Casimir with veal, prepared"	"E"	1	200
+723	468	"Rocket, raw"	"E"	1	200
+724	28	"Roe (deer), ragout, raw"	"E"	1	200
+725	488	"Roe (deer), raw"	"E"	1	200
+726	29	"Roe (deer), schnitzel, raw"	"E"	1	200
+727	13333	"Rolled smoked ham, cooked (without addition of fat and salt)"	"E"	1	200
+728	805	"Rollmops (pickled herring)"	"E"	1	200
+729	718	"Rollschinken, cured and smoked pork meat"	"E"	1	200
+730	441	"Romaine lettuce (cos lettuce)"	"E"	1	200
+731	1161	"Root and tuber vegetables (average), boiled (without addition of fat and salt)"	"E"	1	200
+732	1267	"Root and tuber vegetables (average), raw"	"E"	1	200
+733	1162	"Root and tuber vegetables (average), steamed (without addition of salt)"	"E"	1	200
+734	1163	"Root and tuber vegetables (average), stewed (without addition of fat and salt)"	"E"	1	200
+735	484	"Roquefort cheese"	"E"	1	200
+736	462	"Rosemary, fresh"	"E"	1	200
+737	858	"Rosti (shredded potatoes, ready to fry)"	"E"	1	200
+738	930	"Rusk"	"E"	1	200
+739	929	"Rusk wholemeal"	"E"	1	200
+740	1607	"Russian salad, prepared"	"E"	1	200
+741	824	"Rye bread from Valais"	"E"	1	200
+742	846	"Rye bread with rye grist"	"E"	1	200
+743	830	"Rye bread with sour dough"	"E"	1	200
+744	752	"Rye flour Type 1050"	"E"	1	200
+745	748	"Rye flour Type 815"	"E"	1	200
+746	749	"Rye flour (wholemeal) Type 1800"	"E"	1	200
+747	589	"Safflower oil"	"E"	1	200
+748	461	"Sage, raw"	"E"	1	200
+749	1201	"Salad dressing french style (with rapeseed oil)"	"E"	1	200
+750	1200	"Salad dressing italian style (with olive oil)"	"E"	1	200
+751	783	"Salametti"	"E"	1	200
+752	1094	"Salami budget type"	"E"	1	200
+753	784	"Salami Farmer style"	"E"	1	200
+754	1091	"Salami Nostrano type"	"E"	1	200
+755	13354	"Salmon, cultured, filet, steamed (without addition of fat and salt)"	"E"	1	200
+756	194	"Salmon, cultured, raw"	"E"	1	200
+757	193	"Salmon, smoked"	"E"	1	200
+758	210	"Salmon, wild, raw"	"E"	1	200
+759	1089	"Salsiz sausage"	"E"	1	200
+760	1687	"Saltimbocca, pan fried in rapeseed oil HOLL"	"E"	1	200
+761	10562	"Samosa, deep-fried"	"E"	1	200
+762	1551	"Sandwich (baguette bread) with cold cuts"	"E"	1	200
+763	1553	"Sandwich (baguette bread) with dried meat"	"E"	1	200
+764	1557	"Sandwich (baguette bread) with ham"	"E"	1	200
+765	1505	"Sandwich (baguette bread) with luncheon meat"	"E"	1	200
+766	1561	"Sandwich (baguette bread) with mozzarella"	"E"	1	200
+767	1549	"Sandwich (baguette bread) with raw ham"	"E"	1	200
+768	1555	"Sandwich (baguette bread) with salami"	"E"	1	200
+769	1559	"Sandwich (baguette bread) with semi hard cheese"	"E"	1	200
+770	1521	"Sandwich (baguette bread) with soft cheese"	"E"	1	200
+771	1552	"Sandwich (brown bread) with cold cuts"	"E"	1	200
+772	1554	"Sandwich (brown bread) with dried meat"	"E"	1	200
+773	1558	"Sandwich (brown bread) with ham"	"E"	1	200
+774	1506	"Sandwich (brown bread) with luncheon meat"	"E"	1	200
+775	1562	"Sandwich (brown bread) with mozzarella"	"E"	1	200
+776	1550	"Sandwich (brown bread) with raw ham"	"E"	1	200
+777	1556	"Sandwich (brown bread) with salami"	"E"	1	200
+778	1560	"Sandwich (brown bread) with semi hard cheese"	"E"	1	200
+779	1520	"Sandwich (brown bread) with soft cheese"	"E"	1	200
+780	780	"Saucisson sausage"	"E"	1	200
+781	13341	"Saucisson sausage, cooked (without addition of fat and salt)"	"E"	1	200
+782	647	"Sauerkraut, pickled"	"E"	1	200
+783	1568	"Sausage salad, prepared"	"E"	1	200
+784	1088	"Sausage Vaudois"	"E"	1	200
+785	1080	"Sausage, veal"	"E"	1	200
+786	1543	"Savoury cheese quiche, baked (with cake dough)"	"E"	1	200
+787	1544	"Savoury cheese quiche, baked (with puff pastry)"	"E"	1	200
+788	454	"Savoy cabbage, raw"	"E"	1	200
+789	1030	"Savoy cabbage, steamed (without addition of salt)"	"E"	1	200
+790	552	"Sbrinz"	"E"	1	200
+791	507	"Schabziger (Swiss green cheese)"	"E"	1	200
+792	1685	"Schnitzel bread with cocktail sauce"	"E"	1	200
+793	1686	"Schnitzel bread with tartare sauce"	"E"	1	200
+794	791	"Schützenwurst sausage"	"E"	1	200
+795	1602	"Scrambled eggs, prepared"	"E"	1	200
+796	1605	"Scrambled eggs with cheese, prepared"	"E"	1	200
+797	1606	"Scrambled eggs with ham, prepared"	"E"	1	200
+798	1604	"Scrambled eggs with mushrooms, prepared"	"E"	1	200
+799	1603	"Scrambled egg with herbs, prepared"	"E"	1	200
+800	1170	"Seeds, kernels, nuts (average), unsalted"	"E"	1	200
+801	833	"Semi-white bread"	"E"	1	200
+802	1463	"Semmeli (bread roll, white)"	"E"	1	200
+803	1510	"Semolina pudding, prepared (with full fat milk, without addition of sugar)"	"E"	1	200
+804	1509	"Semolina pudding, prepared (with partially skimmed milk, without addition of sugar)"	"E"	1	200
+805	1508	"Semolina slice, prepared (with full fat milk)"	"E"	1	200
+806	1507	"Semolina slice, prepared (with partially skimmed milk)"	"E"	1	200
+807	280	"Sesame seeds whole"	"E"	1	200
+808	1099	"Shellfish (average), raw"	"E"	1	200
+809	515	"Sherry, 18.5 vol%"	"E"	1	200
+810	875	"Short bread cookie (Sablé)"	"E"	1	200
+811	1175	"Short pastry base (with butter), sweet, raw"	"E"	1	200
+812	909	"Short pastry base (with vegetable fat), sweet, raw"	"E"	1	200
+813	1497	"Shrimp, boiled"	"E"	1	200
+814	1498	"Shrimp cocktail, prepared"	"E"	1	200
+815	766	"Shrimp, raw"	"E"	1	200
+816	578	"Skimmed milk powder"	"E"	1	200
+817	1203	"Smoked salami"	"E"	1	200
+818	954	"Soft caramel candies"	"E"	1	200
+819	13391	"Soft cheese, 45 to 54.9% fidm"	"E"	1	200
+820	631	"Soft cheese, 60% fidm"	"E"	1	200
+821	13392	"Soft cheese, at least 55% fidm"	"E"	1	200
+822	1197	"Soft cheese (average without fat reduced products)"	"E"	1	200
+823	485	"Soft cheese, Mascarpone"	"E"	1	200
+824	595	"Soft drink, with flavor, sweetened"	"E"	1	200
+825	10561	"Somosa, baked"	"E"	1	200
+826	892	"Sorbet, fruit"	"E"	1	200
+827	575	"Sour cream 15% fat"	"E"	1	200
+828	574	"Sour cream (crème fraîche) 35% fat"	"E"	1	200
+829	72	"Soya drink, plain"	"E"	1	200
+830	996	"Soya flour, defatted"	"E"	1	200
+831	995	"Soya flour, full fat"	"E"	1	200
+832	1061	"Soybean, cooked (without addition of fat and salt)"	"E"	1	200
+833	442	"Soybean, dried"	"E"	1	200
+834	603	"Soybean oil"	"E"	1	200
+835	466	"Soybean sprouts"	"E"	1	200
+836	551	"Sparkling wine, champagne"	"E"	1	200
+837	1399	"Spätzle flour"	"E"	1	200
+838	1043	"Spelt, fine flour (type 550)"	"E"	1	200
+839	1041	"Spelt, flour Ruch (type 1100)"	"E"	1	200
+840	1042	"Spelt, wholemeal flour (type 1900)"	"E"	1	200
+841	1566	"Spinach quiche, baked (with cake dough)"	"E"	1	200
+842	1567	"Spinach quiche, baked (with puff pastry)"	"E"	1	200
+843	365	"Spinach, raw"	"E"	1	200
+844	1025	"Spinach, steamed (without addition of salt)"	"E"	1	200
+845	646	"Spirits, 40 vol% (e.g. Vodka, gin)"	"E"	1	200
+846	518	"Spirits, grain, 40% vol (e.g. whisky)"	"E"	1	200
+847	644	"Spirits, Kirsch, Cherry Schnaps"	"E"	1	200
+848	520	"Spirits, sugar cane (e.g. rum)"	"E"	1	200
+849	519	"Spirits, wine (e.g. cognac, brandy)"	"E"	1	200
+850	1656	"Squash slices, breaded, prepared"	"E"	1	200
+851	764	"Squid, raw"	"E"	1	200
+852	792	"St. Gall Schüblig sausage"	"E"	1	200
+853	570	"St. Paulin cheese"	"E"	1	200
+854	385	"Strawberry, fresh"	"E"	1	200
+855	13418	"Strudel dough, raw"	"E"	1	200
+856	471	"Sugar, brown"	"E"	1	200
+857	465	"Sugar loaf chicory, raw"	"E"	1	200
+858	438	"Sugar pea, raw"	"E"	1	200
+859	1012	"Sugar pea, steamed (without addition of salt)"	"E"	1	200
+860	470	"Sugar, white"	"E"	1	200
+861	598	"Sunflower oil"	"E"	1	200
+862	1068	"Sunflower oil HO (high oleic), refined"	"E"	1	200
+863	281	"Sunflower seeds"	"E"	1	200
+864	770	"Surimi"	"E"	1	200
+865	632	"Sweet corn canned"	"E"	1	200
+866	1033	"Sweet corn (canned), heated (without addition of salt)"	"E"	1	200
+867	633	"Sweet corn cob, pickled"	"E"	1	200
+868	432	"Sweet corn, raw"	"E"	1	200
+869	1032	"Sweet corn, steamed"	"E"	1	200
+870	13406	"Sweet potato, raw"	"E"	1	200
+871	13407	"Sweet potato, steamed (without addition of salt)"	"E"	1	200
+872	602	"Sweet whey"	"E"	1	200
+873	450	"Swiss chard, raw"	"E"	1	200
+874	1016	"Swiss chard, steamed (without addition of salt)"	"E"	1	200
+875	782	"Swiss Salami, beef and pork"	"E"	1	200
+876	1132	"Syrup, ready to drink (dilution 1:5.5)"	"E"	1	200
+877	569	"Syrup undiluted"	"E"	1	200
+878	762	"Table salt iodized"	"E"	1	200
+879	10457	"Table salt iodized and fluoridized"	"E"	1	200
+880	634	"Table salt without iodine and fluoride"	"E"	1	200
+881	1609	"Taboulé, prepared (with Bulgur)"	"E"	1	200
+882	1610	"Taboulé, prepared (with Couscous)"	"E"	1	200
+883	1684	"Tartare sauce, home made with rapeseed mayonnaise"	"E"	1	200
+884	803	"Tea, no sugar added"	"E"	1	200
+885	796	"Terrine, game meat"	"E"	1	200
+886	495	"Tête de Moine"	"E"	1	200
+887	1487	"Thin pancakes, prepared"	"E"	1	200
+888	1496	"Thin pancakes with bacon, prepared"	"E"	1	200
+889	1489	"Thin pancakes with camembert cheese, prepared"	"E"	1	200
+890	1495	"Thin pancakes with ham, prepared"	"E"	1	200
+891	1491	"Thin pancakes with mushrooms, prepared"	"E"	1	200
+892	1494	"Thin pancakes with Nutella, prepared"	"E"	1	200
+893	1488	"Thin pancakes with sugar and cinnamon, prepared"	"E"	1	200
+894	1493	"Thin pancakes with vegetable filling, prepared"	"E"	1	200
+895	460	"Thyme, fresh"	"E"	1	200
+896	556	"Tilsiter, pasteurized milk, at least 45% fidm"	"E"	1	200
+897	557	"Tilsiter, raw milk, at least 45% fidm"	"E"	1	200
+898	490	"Tofu"	"E"	1	200
+899	564	"Tomato juice"	"E"	1	200
+900	636	"Tomato paste"	"E"	1	200
+901	637	"Tomato, peeled (pelati), canned"	"E"	1	200
+902	1618	"Tomato quiche, baked (with cake dough)"	"E"	1	200
+903	1617	"Tomato quiche, baked (with puff pastry)"	"E"	1	200
+904	348	"Tomato, raw"	"E"	1	200
+905	667	"Tomato sauce"	"E"	1	200
+906	670	"Tomato soup"	"E"	1	200
+907	1027	"Tomato, stewed (without addition of fat and salt)"	"E"	1	200
+908	615	"Tomme cheese"	"E"	1	200
+909	10378	"Tongue (average of veal and beef), raw"	"E"	1	200
+910	932	"Tortilla chips, corn-based"	"E"	1	200
+911	289	"Trout, raw"	"E"	1	200
+912	13349	"Trout, whole, boiled (without addition of fat and salt)"	"E"	1	200
+913	418	"Tuna in oil, drained"	"E"	1	200
+914	417	"Tuna in water, drained"	"E"	1	200
+915	1613	"Tuna salad on oil-vinagre-dressing (made from tuna in water)"	"E"	1	200
+916	713	"Turkey, breast (schnitzel, ground), raw"	"E"	1	200
+917	13275	"Turkey, brest, schnitzel, ground, pan fried (without addition of fat and salt)"	"E"	1	200
+918	887	"Tyrolese cake"	"E"	1	200
+919	536	"Vacherin Fribourgeois"	"E"	1	200
+920	534	"Vacherin Mont d'or"	"E"	1	200
+921	13413	"Vanille cream, cooked"	"E"	1	200
+922	1106	"Veal (average excluding offal, chop), raw"	"E"	1	200
+923	1071	"Veal, breast, cooked (without addition of fat and salt)"	"E"	1	200
+924	1	"Veal, breast, raw"	"E"	1	200
+925	13325	"Veal, chopped, pan fried  (without addition of fat and salt)"	"E"	1	200
+926	13	"Veal, chopped, raw"	"E"	1	200
+927	2	"Veal, chop, raw"	"E"	1	200
+928	14	"Veal, eye of round, raw"	"E"	1	200
+929	660	"Veal, filet, raw"	"E"	1	200
+930	3	"Veal, filet, steak, raw"	"E"	1	200
+931	673	"Veal, kidney, raw"	"E"	1	200
+932	13377	"Veal, knuckle, braised (whitout addition of fat and salt)"	"E"	1	200
+933	661	"Veal, knuckle, raw"	"E"	1	200
+934	10	"Veal, liver, raw"	"E"	1	200
+935	11	"Veal, minced, raw"	"E"	1	200
+936	1667	"Veal piccata, prepared"	"E"	1	200
+937	15	"Veal, ragout, raw"	"E"	1	200
+938	1669	"Veal ragout with gravy, prepared"	"E"	1	200
+939	662	"Veal, round, schnitzel, raw"	"E"	1	200
+940	1681	"Veal schnitzel, pan fried in rapeseed oil HOLL"	"E"	1	200
+941	13316	"Veal schnitzel, pan fried (without addition of fat and salt)"	"E"	1	200
+942	1073	"Veal, shoulder, roast in oven (without addition of fat and salt)"	"E"	1	200
+943	658	"Veal, shoulder, roast, raw"	"E"	1	200
+944	13324	"Veal,steak, pan fried (without addition of fat and salt)"	"E"	1	200
+945	672	"Veal, sweetbread, raw"	"E"	1	200
+946	674	"Veal, tongue, raw"	"E"	1	200
+947	1580	"Vegetable au gratin, baked"	"E"	1	200
+948	1666	"Vegetable lasagne, prepared"	"E"	1	200
+949	1152	"Vegetables (average), raw"	"E"	1	200
+950	514	"Vermouth, 15 vol%"	"E"	1	200
+951	1202	"Vinaigrette dressing (with rapeseed oil)"	"E"	1	200
+952	1693	"Vinegar"	"E"	1	200
+953	1199	"Vinegar-oil-salad dressing (with rapeseed oil)"	"E"	1	200
+954	1680	"Vitello tonnato with garnish"	"E"	1	200
+955	1679	"Vitello tonnato without garnish"	"E"	1	200
+956	271	"Walnut"	"E"	1	200
+957	13402	"Walnut oil"	"E"	1	200
+958	10542	"Wasabi Paste"	"E"	1	200
+959	371	"Water cress, raw"	"E"	1	200
+960	893	"Water ice"	"E"	1	200
+961	402	"Watermelon, fresh"	"E"	1	200
+962	822	"Weggli, bread roll made with butter"	"E"	1	200
+963	1273	"Weisswurst (veal sausage)"	"E"	1	200
+964	431	"Wheat bran, raw"	"E"	1	200
+965	204	"Wheat flour, bakery, type 550"	"E"	1	200
+966	203	"Wheat flour, high ash, type 1100"	"E"	1	200
+967	207	"Wheat flour, semi white, type 720"	"E"	1	200
+968	205	"Wheat flour, white, type 400"	"E"	1	200
+969	206	"Wheat flour, wholemeal, type 1700"	"E"	1	200
+970	430	"Wheat germ"	"E"	1	200
+971	593	"Wheat germ oil"	"E"	1	200
+972	1588	"Wheat risotto, cooked"	"E"	1	200
+973	734	"Wheat, soft, whole grain"	"E"	1	200
+974	897	"Wheat starch"	"E"	1	200
+975	939	"Wheat wolemeal flakes"	"E"	1	200
+976	823	"White bread"	"E"	1	200
+977	828	"White bread from Ticino"	"E"	1	200
+978	453	"White cabbage, raw"	"E"	1	200
+979	1028	"White cabbage, steamed (without addition of salt)"	"E"	1	200
+980	1029	"White cabbage, stewed (without addition of fat and salt)"	"E"	1	200
+981	211	"Whitefish, raw"	"E"	1	200
+982	1064	"Wholemeal pasta egg-free, cooked in salted water (uniodised)"	"E"	1	200
+983	801	"Wholemeal pasta egg-free, dry"	"E"	1	200
+984	802	"Wholemeal rice waffles"	"E"	1	200
+985	62	"Whole milk, pasteurized"	"E"	1	200
+986	585	"Whole milk powder"	"E"	1	200
+987	63	"Whole milk, UHT"	"E"	1	200
+988	821	"Wholewheat bread"	"E"	1	200
+989	1082	"Wienerli (Swiss sausage)"	"E"	1	200
+990	1589	"Wienerli (Swiss sausage), cooked"	"E"	1	200
+991	489	"Wild boar, raw"	"E"	1	200
+992	509	"Wine red, 12 vol%"	"E"	1	200
+993	10477	"Wine red, 13.5 vol%"	"E"	1	200
+994	508	"Wine red, 9 vol%"	"E"	1	200
+995	510	"Wine white, 11 vol%"	"E"	1	200
+996	511	"Wine white, 12.5 vol%"	"E"	1	200
+997	10478	"Wine white, spritzer, sour"	"E"	1	200
+998	10479	"Wine white, spritzer, sweet"	"E"	1	200
+999	763	"Yeast (baking), pressed"	"E"	1	200
+1000	910	"Yeast dough (with butter), sweet, raw"	"E"	1	200
+1001	1177	"Yeast dough (with vegetable fat), sweet, raw"	"E"	1	200
+1002	839	"Yeast, dried"	"E"	1	200
+1003	403	"Yellow plum, fresh"	"E"	1	200
+1004	1192	"Yoghurt with added sugar (average)"	"E"	1	200
+1005	58	"Yogurt Bifidus, plain"	"E"	1	200
+1006	54	"Yogurt, chocolate"	"E"	1	200
+1007	1612	"Yogurt dressing (without oil)"	"E"	1	200
+1008	590	"Yogurt flavored, low fat, with sweetener"	"E"	1	200
+1009	55	"Yogurt, hazelnut"	"E"	1	200
+1010	587	"Yogurt, low fat"	"E"	1	200
+1011	57	"Yogurt, mocca"	"E"	1	200
+1012	99	"Yogurt, mocca, organic"	"E"	1	200
+1013	52	"Yogurt natural"	"E"	1	200
+1014	53	"Yogurt, strawberry"	"E"	1	200
+1015	56	"Yogurt, vanilla"	"E"	1	200
+1016	588	"Yogurt with fruit, low fat, with sweetener"	"E"	1	200
+1017	759	"Zampone"	"E"	1	200
+1018	759	"Stuffed porc foot"	"E"	0	200
+1019	506	"Ziger white"	"E"	1	200
+1020	1661	"Zucchini piccata, prepared"	"E"	1	200
+1021	367	"Zucchini, raw"	"E"	1	200
+1022	1657	"Zucchini slices, breaded, prepared"	"E"	1	200
+1023	1031	"Zucchini, stewed (without addition of fat and salt)"	"E"	1	200
+1024	1251	"Aberlour 10 years old Malt Scotch Whisky (43 vol%)"	"E"	1	200
+1025	1252	"Absolut Vodka (40 vol%)"	"E"	1	200
+1026	13428	"Almond drink, plain (Average of branded products)"	"E"	1	200
+1027	13433	"Almond drink, with calcium and vitamin fortified (Average of branded foods)"	"E"	1	200
+1028	1253	"Amaro Ramazzotti (30 vol%)"	"E"	1	200
+1029	1254	"Ballantine's 12 years old blended Scotch Whisky (40 vol%)"	"E"	1	200
+1030	1255	"Ballantine's Finest blended Scotch Whisky (40 vol%)"	"E"	1	200
+1031	1160	"Beer, Lager (average product range)"	"E"	1	200
+1032	1159	"Beer, without alcohol (average product range)"	"E"	1	200
+1033	1145	"Calanda Lager (4.8 vol%)"	"E"	1	200
+1034	1146	"Calanda Lemon (2.4 vol%)"	"E"	1	200
+1035	1138	"Cardinal Lager (4.8 vol%)"	"E"	1	200
+1036	1155	"Cardinal sans alcool (<0.5 vol%)"	"E"	1	200
+1037	1139	"Carlsberg (5 vol%)"	"E"	1	200
+1038	1156	"Carlsberg Alkoholfrei (<0.5 vol%)"	"E"	1	200
+1039	1256	"Chivas Regal 12 years old blended Scotch Whisky (40 vol%)"	"E"	1	200
+1040	1153	"Clausthaler Classic (0.45 vol%)"	"E"	1	200
+1041	1154	"Clausthaler Extra Herb (0.45 vol%)"	"E"	1	200
+1042	1157	"Eichhof Alkoholfrei (0.4 vol%)"	"E"	1	200
+1043	1147	"Eichhof Hubertus (6 vol%)"	"E"	1	200
+1044	1148	"Eichhof Klosterbräu (5.1 vol%)"	"E"	1	200
+1045	1149	"Eichhof Lager (4.8 vol%)"	"E"	1	200
+1046	13435	"Energy drink, with sugar (Average of branded products)"	"E"	1	200
+1047	13436	"Energy drink, with sweetener (Average of branded products)"	"E"	1	200
+1048	1140	"Feldschlösschen 2.4 (2.4 vol%)"	"E"	1	200
+1049	1158	"Feldschlösschen Alkoholfrei (<0.5 vol%)"	"E"	1	200
+1050	1141	"Feldschlösschen Bügel (4.8 vol%)"	"E"	1	200
+1051	1142	"Feldschlösschen Hopfenperle (5.2 vol%)"	"E"	1	200
+1052	1143	"Feldschlösschen Original (4.8 vol%)"	"E"	1	200
+1053	1144	"Feldschlösschen Urtrüb (5 vol%)"	"E"	1	200
+1054	1257	"Four Roses Bourbon (40 vol%)"	"E"	1	200
+1055	1258	"Glenlivet 12 years old Malt Scotch Whisky (40 vol%)"	"E"	1	200
+1056	1259	"Grappa Fior di Vite Ramazzotti (40 vol%)"	"E"	1	200
+1057	13425	"Greek yogurt, with cream, plain (Average of branded products)"	"E"	1	200
+1058	1260	"Havana Club Anejo Reserva (40 vol%)"	"E"	1	200
+1059	1150	"Heineken Lager (5 vol%)"	"E"	1	200
+1060	1151	"Ittinger (5.6 vol%)"	"E"	1	200
+1061	1261	"Jameson Irish Whiskey (40 vol%)"	"E"	1	200
+1062	1262	"Malibu Coconut (21 vol%)"	"E"	1	200
+1063	13434	"Malt drink with cocoa, with vitamin and mineral fortified, powder (Average of branded prod"	"E"	1	200
+1064	538	"Mineral water, Adelbodner"	"E"	1	200
+1065	1171	"Mineral water, Adello"	"E"	1	200
+1066	540	"Mineral water, Allegra (Malix)"	"E"	1	200
+1067	1096	"Mineral water, Appenzell (Gontenbad)"	"E"	1	200
+1068	73	"Mineral water, Aproz (Aproz)"	"E"	1	200
+1069	104	"Mineral water, Aquella (Bouillets)"	"E"	1	200
+1070	541	"Mineral water, Arkina"	"E"	1	200
+1071	1178	"Mineral water Badoit (St Galmier)"	"E"	1	200
+1072	1172	"Mineral water, Cristallo (Lostorf)"	"E"	1	200
+1073	1046	"Mineral water, Cristalp (Saxon)"	"E"	1	200
+1074	1044	"Mineral water, Elmer"	"E"	1	200
+1075	48	"Mineral water, Eptinger"	"E"	1	200
+1076	521	"Mineral water, Evian (Cachat)"	"E"	1	200
+1077	522	"Mineral water, Henniez"	"E"	1	200
+1078	1173	"Mineral water, Knutwiler"	"E"	1	200
+1079	523	"Mineral water, Passugger (Theophilquelle)"	"E"	1	200
+1080	537	"Mineral water, Rhäzünser"	"E"	1	200
+1081	525	"Mineral water, San Pellegrino"	"E"	1	200
+1082	1095	"Mineral water, Valais (Montis)"	"E"	1	200
+1083	45	"Mineral water, Valser Classic/Naturelle (St. Petersquelle)"	"E"	1	200
+1084	1047	"Mineral water, Valser Silence (St. Paulsquelle)"	"E"	1	200
+1085	1179	"Mineral water Vichy-Célestins"	"E"	1	200
+1086	550	"Mineral water, Volvic"	"E"	1	200
+1087	548	"Mineral water, Zurzacher"	"E"	1	200
+1088	11525	"Naturaplan Bio Beer unfiltered without alcohol <0.5 vol% (Coop)"	"E"	1	200
+1089	13426	"Oat drink, plain (Average of branded products)"	"E"	1	200
+1090	13430	"Oat Drink, plain, with calcium fortified (Average of branded foods)"	"E"	1	200
+1091	1263	"Pastis 51 de Marseille (45 vol%)"	"E"	1	200
+1092	13427	"Rice drink, plain (Average of branded products)"	"E"	1	200
+1093	13429	"Rice drink, plain, with calcium fortified (Average of branded foods)"	"E"	1	200
+1094	1264	"Sandeman Ruby Porto (20 vol%)"	"E"	1	200
+1095	13432	"Soya drink, plain, with calcium and vitamin fortified (Average of branded foods)"	"E"	1	200
+1096	13431	"Soya drink, plain, with calcium fortified (Average of branded products)"	"E"	1	200
+1097	13422	"Soya sauce (Average of branded foods)"	"E"	1	200
+1098	1265	"Suze (20 vol%)"	"E"	1	200
+1099	13421	"Vanille sugar (Average of branded foods)"	"E"	1	200
+1100	1266	"Wodka Wyborowa (40 vol%)"	"E"	1	200
+1101	13424	"Worcester Sauce (Average of branded products)"	"E"	1	200
+1102	10533	"Agar Agar"	"D"	1	200
+1103	10536	"Agavensirup"	"D"	1	200
+1104	10536	"Agavendicksaft"	"D"	0	200
+1105	1478	"Älplermagronen, zubereitet"	"D"	1	200
+1106	13398	"Amaranth, Samen, gekocht (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1107	13397	"Amaranth, Samen, roh"	"D"	1	200
+1108	868	"Amaretti (Mandelgebäck)"	"D"	1	200
+1109	617	"Ananas, gezuckert (Konserve)"	"D"	1	200
+1110	377	"Ananas, roh"	"D"	1	200
+1111	618	"Ananas, ungezuckert (Konserve)"	"D"	1	200
+1112	1049	"Apfel, gedünstet, abgetropft (ohne Zugabe von Zucker)"	"D"	1	200
+1113	435	"Apfel, geschält, getrocknet"	"D"	1	200
+1114	435	"Dörrapfel"	"D"	0	200
+1115	1479	"Apfelkuchen, gebacken (mit Blätterteig)"	"D"	1	200
+1116	1479	"Apfelwähe"	"D"	0	200
+1117	1480	"Apfelkuchen, gebacken (mit Kuchenteig)"	"D"	1	200
+1118	627	"Apfelmus, gezuckert (Konserve)"	"D"	1	200
+1119	628	"Apfelmus, ungezuckert (Konserve)"	"D"	1	200
+1120	378	"Apfel, roh"	"D"	1	200
+1121	568	"Apfelsaft"	"D"	1	200
+1122	568	"Süssmost"	"D"	0	200
+1123	512	"Apfelwein, 4 vol%"	"D"	1	200
+1124	512	"Apfelmost"	"D"	0	200
+1125	512	"Saurer Most"	"D"	0	200
+1126	512	"Cider"	"D"	0	200
+1127	513	"Apfelwein, 6.2 vol%"	"D"	1	200
+1128	554	"Appenzeller, viertelfett"	"D"	1	200
+1129	553	"Appenzeller, vollfett"	"D"	1	200
+1130	1051	"Aprikose, gedünstet, abgetropft (ohne Zugabe von Zucker)"	"D"	1	200
+1131	1051	"Marille"	"D"	0	200
+1132	469	"Aprikose, getrocknet"	"D"	1	200
+1133	469	"Dörraprikose"	"D"	0	200
+1134	621	"Aprikose, gezuckert (Konserve)"	"D"	1	200
+1135	1481	"Aprikosenkuchen, gebacken (mit Blätterteig)"	"D"	1	200
+1136	1481	"Aprikosenwähe"	"D"	0	200
+1137	1482	"Aprikosenkuchen, gebacken (mit Kuchenteig)"	"D"	1	200
+1138	379	"Aprikose, roh"	"D"	1	200
+1139	623	"Aprikose, ungezuckert (Konserve)"	"D"	1	200
+1140	1003	"Aubergine, gedünstet (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1141	1003	"Eierfrucht"	"D"	0	200
+1142	1659	"Auberginen-Piccata, zubereitet"	"D"	1	200
+1143	1658	"Auberginenscheiben, paniert, zubereitet"	"D"	1	200
+1144	349	"Aubergine, roh"	"D"	1	200
+1145	10353	"Aufschnitt (Durchschnitt)"	"D"	1	200
+1146	380	"Avocado, roh"	"D"	1	200
+1147	763	"Bäckerhefe, gepresst"	"D"	1	200
+1148	763	"Bierhefe"	"D"	0	200
+1149	1577	"Bami Goreng, zubereitet"	"D"	1	200
+1150	740	"Banane, gedörrt"	"D"	1	200
+1151	740	"Bananenchips"	"D"	0	200
+1152	741	"Banane, getrocknet"	"D"	1	200
+1153	381	"Banane, roh"	"D"	1	200
+1154	464	"Basilikum, roh"	"D"	1	200
+1155	1248	"Basler Leckerli"	"D"	1	200
+1156	13344	"Bauernbratwurst, gebraten (ohne Zusatz von Fett un Salz)"	"D"	1	200
+1157	841	"Bauernbratwurst, roh"	"D"	1	200
+1158	841	"Schweinsbratwurst"	"D"	0	200
+1159	1268	"Bauernbrot"	"D"	1	200
+1160	1268	"Burebrot"	"D"	0	200
+1161	784	"Bauernsalami"	"D"	1	200
+1162	784	"Salami nach Bauernart"	"D"	0	200
+1163	787	"Bauernschüblig"	"D"	1	200
+1164	271	"Baumnuss"	"D"	1	200
+1165	271	"Walnuss"	"D"	0	200
+1166	831	"Baumnussbrot"	"D"	1	200
+1167	13402	"Baumnussöl"	"D"	1	200
+1168	12981	"Béchamelsauce hausgemacht"	"D"	1	200
+1169	1122	"Beeren (Durchschnitt), gekocht (ohne Zugabe von Zucker)"	"D"	1	200
+1170	1119	"Beeren (Durchschnitt), roh"	"D"	1	200
+1171	851	"Berliner"	"D"	1	200
+1172	851	"Pfannkuchen"	"D"	0	200
+1173	1211	"Berner Alpkäse"	"D"	1	200
+1174	1212	"Berner Hobelkäse"	"D"	1	200
+1175	790	"Berner Zungenwurst"	"D"	1	200
+1176	859	"Biber"	"D"	1	200
+1177	13420	"Bier, alkoholfrei"	"D"	1	200
+1178	839	"Bierhefe, getrocknet"	"D"	1	200
+1179	839	"Bäckerhefe"	"D"	0	200
+1180	839	"Trockenhefe"	"D"	0	200
+1181	839	"Hefepulver"	"D"	0	200
+1182	816	"Bier, Lager"	"D"	1	200
+1183	1183	"Bier Panache (Durchschnitt)"	"D"	1	200
+1184	789	"Bierwurst"	"D"	1	200
+1185	1198	"Birchermüesli, zubereitet (ungezuckert)"	"D"	1	200
+1186	1050	"Birne, gedünstet, abgetropft (ohne Zugabe von Zucker)"	"D"	1	200
+1187	433	"Birne, getrocknet"	"D"	1	200
+1188	433	"Dörrbirne"	"D"	0	200
+1189	433	"Trockenbirne"	"D"	0	200
+1190	620	"Birne, gezuckert (Konserve)"	"D"	1	200
+1191	1483	"Birnenkuchen, gebacken (mit Blätterteig)"	"D"	1	200
+1192	1483	"Birnenwähe"	"D"	0	200
+1193	1484	"Birnenkuchen, gebacken (mit Kuchenteig)"	"D"	1	200
+1194	562	"Birnensaft"	"D"	1	200
+1195	862	"Birnenweggen"	"D"	1	200
+1196	382	"Birne, roh"	"D"	1	200
+1197	626	"Birne, ungezuckert (Konserve)"	"D"	1	200
+1198	604	"Blanc battu mit Früchten, mit Süsstoffen"	"D"	1	200
+1199	13395	"Blanc battu, nature, mager"	"D"	1	200
+1200	904	"Blätterteig hausgemacht (Butter), ungebacken"	"D"	1	200
+1201	905	"Blätterteig hausgemacht (mit pflanzlichem Fett), ungebacken"	"D"	1	200
+1202	928	"Blätterteigstängel"	"D"	1	200
+1203	928	"Flûtes"	"D"	0	200
+1204	1165	"Blattgemüse (Durchschnitt exkl. Salate), gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+1205	1166	"Blattgemüse (Durchschnitt exkl. Salate), gedünstet (ohne Zugabe von Salz und Fett)"	"D"	1	200
+1206	1164	"Blattgemüse (Durchschnitt exkl. Salate), gekocht (ohne Zugabe von Salz und Fett)"	"D"	1	200
+1207	1127	"Blattsalat (Durchschnitt), roh"	"D"	1	200
+1208	1191	"Blauschimmelkäse (Durchschnitt)"	"D"	1	200
+1209	1004	"Blumenkohl, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+1210	350	"Blumenkohl, roh"	"D"	1	200
+1211	778	"Blutwurst"	"D"	1	200
+1212	13388	"Bohne (alle Arten), gekocht (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1213	13387	"Bohne (alle Arten), getrocknet"	"D"	1	200
+1214	13387	"Weisse Bohne"	"D"	0	200
+1215	13387	"Rote Bohne"	"D"	0	200
+1216	13387	"Borlotti Bohne"	"D"	0	200
+1217	1009	"Bohne, grün, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+1218	1009	"Gartenbohne"	"D"	0	200
+1219	473	"Bohne, grün, getrocknet"	"D"	1	200
+1220	473	"Dörrbohne"	"D"	0	200
+1221	353	"Bohne, grün, roh"	"D"	1	200
+1222	653	"Bolognaisesauce"	"D"	1	200
+1223	653	"Tomaten-Hackfleischsauce"	"D"	0	200
+1224	668	"Bouillon, Fleisch, zubereitet"	"D"	1	200
+1225	668	"Klare Brühe"	"D"	0	200
+1226	665	"Bouillon, Geflügel, zubereitet"	"D"	1	200
+1227	664	"Bouillon, Gemüse, zubereitet"	"D"	1	200
+1228	642	"Branchli (Milchschokolade mit Haselnusscrèmefüllung)"	"D"	1	200
+1229	642	"Schokoladenstängeli"	"D"	0	200
+1230	518	"Branntwein aus Getreide, 40 vol% (z.B. Whisky)"	"D"	1	200
+1231	518	"Getreideschnaps"	"D"	0	200
+1232	519	"Branntwein aus Wein (z.B.Cognac, Brandy)"	"D"	1	200
+1233	520	"Branntwein aus Zuckerrohr (z.B. Rum)"	"D"	1	200
+1234	520	"Zuckerrohrschnaps"	"D"	0	200
+1235	50	"Bratbutter"	"D"	1	200
+1236	650	"Bratensauce, gebunden"	"D"	1	200
+1237	651	"Bratensauce, klar"	"D"	1	200
+1238	705	"Bresaola"	"D"	1	200
+1239	616	"Brie, Rahm"	"D"	1	200
+1240	613	"Brie, vollfett"	"D"	1	200
+1241	1005	"Broccoli, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+1242	351	"Broccoli, roh"	"D"	1	200
+1243	383	"Brombeere, roh"	"D"	1	200
+1244	1594	"Brombeerkuchen, gebacken (mit Blätterteig)"	"D"	1	200
+1245	1594	"Brombeerwähe"	"D"	0	200
+1246	1596	"Brombeerkuchen, gebacken (mit Kuchenteig)"	"D"	1	200
+1247	1485	"Brombeerkuchen, gebacken (mit süssem Mürbeteig)"	"D"	1	200
+1248	10446	"Brot (Durchschnitt)"	"D"	1	200
+1249	1112	"Brühwürste geräuchert (Durchschnitt)"	"D"	1	200
+1250	1113	"Brühwürste ungeräuchert (Durchschnitt)"	"D"	1	200
+1251	371	"Brunnenkresse, roh"	"D"	1	200
+1252	864	"Brunsli"	"D"	1	200
+1253	421	"Buchweizen, Korn geschält"	"D"	1	200
+1254	420	"Buchweizenmehl"	"D"	1	200
+1255	669	"Bündner Gerstensuppe"	"D"	1	200
+1256	842	"Bürli (halbweiss)"	"D"	1	200
+1257	836	"Buttergipfeli, hell"	"D"	1	200
+1258	834	"Buttergipfeli, Vollkorn"	"D"	1	200
+1259	834	"Rusticogipfeli"	"D"	0	200
+1260	529	"Buttermilch"	"D"	1	200
+1261	822	"Butterweggli"	"D"	1	200
+1262	820	"Butterzopf"	"D"	1	200
+1263	1460	"Butterzopf, Vollkorn"	"D"	1	200
+1264	1188	"Café crème, ungezuckert"	"D"	1	200
+1265	877	"Cake Financier"	"D"	1	200
+1266	10486	"Calimocho (Rotwein mit Cola)"	"D"	1	200
+1267	622	"Camembert, halbfett"	"D"	1	200
+1268	619	"Camembert, Rahm"	"D"	1	200
+1269	614	"Camembert, vollfett"	"D"	1	200
+1270	1644	"Cannelloni mit Fleischfüllung, zubereitet"	"D"	1	200
+1271	1646	"Cannelloni mit Spinat-Ricotta-Füllung, zubereitet"	"D"	1	200
+1272	1121	"Cappuccino (ohne Schokoladenpulver), ungezuckert"	"D"	1	200
+1273	1692	"Capuns, zubereitet"	"D"	1	200
+1274	1692	"Mangoldwickel"	"D"	0	200
+1275	275	"Cashewnuss"	"D"	1	200
+1276	275	"Cashewkern"	"D"	0	200
+1277	1081	"Cervelat"	"D"	1	200
+1278	1081	"Chlöpfer"	"D"	0	200
+1279	1081	"Stumpen"	"D"	0	200
+1280	1081	"Bockwurst"	"D"	0	200
+1281	1037	"Champignon, gedünstet (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1282	629	"Champignon (Konserve)"	"D"	1	200
+1283	375	"Champignon, roh"	"D"	1	200
+1284	1006	"Chicorée, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+1285	1006	"Brüsseler Endivie"	"D"	0	200
+1286	447	"Chicorée, roh"	"D"	1	200
+1287	1648	"Chili con carne, zubereitet"	"D"	1	200
+1288	1007	"Chinakohl, gedünstet (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1289	1007	"Pekingkohl"	"D"	0	200
+1290	1007	"Selleriekohl"	"D"	0	200
+1291	1007	"Japankohl"	"D"	0	200
+1292	437	"Chinakohl, roh"	"D"	1	200
+1293	867	"Chräbeli (Anisgebäck)"	"D"	1	200
+1294	458	"Cicorino rot, roh"	"D"	1	200
+1295	1683	"Cocktailsauce, selbst zubereitet mit Rapsöl-Mayonnaise"	"D"	1	200
+1296	498	"Colagetränk, gezuckert"	"D"	1	200
+1297	499	"Colagetränk, mit Süssstoffen"	"D"	1	200
+1298	1573	"Coleslaw Salat, zubereitet"	"D"	1	200
+1299	715	"Coppa"	"D"	1	200
+1300	1649	"Cordon Bleu aus Kalbsplätzli, gebraten"	"D"	1	200
+1301	1650	"Cordon Bleu aus Schweinsplätzli, gebraten"	"D"	1	200
+1302	940	"Cornflakes"	"D"	1	200
+1303	758	"Cotechino"	"D"	1	200
+1304	1093	"Cotto (Fleischerzeugnis)"	"D"	1	200
+1305	950	"Cracker, Salzgebäck, Apérogebäck"	"D"	1	200
+1306	924	"Crèmeschnitte"	"D"	1	200
+1307	1489	"Crêpes mit Camembert, zubereitet"	"D"	1	200
+1308	1491	"Crêpes mit Champignonfüllung, zubereitet"	"D"	1	200
+1309	1493	"Crêpes mit Gemüsefüllung, zubereitet"	"D"	1	200
+1310	1494	"Crêpes mit Nutella, zubereitet"	"D"	1	200
+1311	1495	"Crêpes mit Schinken, zubereitet"	"D"	1	200
+1312	1496	"Crêpes mit Speck, zubereitet"	"D"	1	200
+1313	1488	"Crêpes mit Zimt und Zucker, zubereitet"	"D"	1	200
+1314	1487	"Crêpes nature, zubereitet"	"D"	1	200
+1315	1498	"Crevettencocktail, zubereitet"	"D"	1	200
+1316	384	"Dattel, getrocknet"	"D"	1	200
+1317	1041	"Dinkelmehl, Ruch, Typ 1100"	"D"	1	200
+1318	1042	"Dinkelmehl, Vollkorn, Typ 1900"	"D"	1	200
+1319	1043	"Dinkelmehl, weiss, Typ 550"	"D"	1	200
+1320	589	"Distelöl"	"D"	1	200
+1321	798	"Doppelrahm, pasteurisiert"	"D"	1	200
+1322	13350	"Dorsch, Filet, gedämpft (ohne Zusatz von Fett und Salz)"	"D"	1	200
+1323	285	"Dorsch, roh"	"D"	1	200
+1324	285	"Kabeljau"	"D"	0	200
+1325	10535	"Dulce de Leche"	"D"	1	200
+1326	10535	"Milchkonfitüre"	"D"	0	200
+1327	272	"Edelkastanie, roh"	"D"	1	200
+1328	272	"Marroni"	"D"	0	200
+1329	765	"Egli, roh"	"D"	1	200
+1330	765	"Flussbarsch"	"D"	0	200
+1331	517	"Eierlikör, 16.5 vol%"	"D"	1	200
+1332	1502	"Eieromeletten mit Käse, zubereitet"	"D"	1	200
+1333	1502	"Französische Omeletten"	"D"	0	200
+1334	1501	"Eieromeletten mit Schinken, zubereitet"	"D"	1	200
+1335	1503	"Eieromeletten mit Speck, zubereitet"	"D"	1	200
+1336	1500	"Eieromeletten, zubereitet"	"D"	1	200
+1337	1038	"Eierschwamm, gedünstet (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1338	1038	"Pfifferling"	"D"	0	200
+1339	376	"Eierschwamm, roh"	"D"	1	200
+1340	459	"Eisbergsalat, roh"	"D"	1	200
+1341	804	"Eistee, gezuckert"	"D"	1	200
+1342	555	"Emmentaler, vollfett"	"D"	1	200
+1343	467	"Endivie, roh"	"D"	1	200
+1344	467	"Frisée Salat"	"D"	0	200
+1345	902	"Engadiner Nusstorte"	"D"	1	200
+1346	1010	"Erbse, grün, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+1347	369	"Erbse, grün, roh"	"D"	1	200
+1348	630	"Erbse (Konserve)"	"D"	1	200
+1349	1011	"Erbse (Konserve), aufgewärmt (ohne Zugabe von Salz)"	"D"	1	200
+1350	815	"Erbsen und Karotten (Konserve)"	"D"	1	200
+1351	815	"Rüebli"	"D"	0	200
+1352	1034	"Erbsen und Karotten (Konserve), aufgewärmt (ohne Zugabe von Salz)"	"D"	1	200
+1353	13389	"Erbse, reif, getrocknet"	"D"	1	200
+1354	13389	"Erbse, geschält, getrocknet"	"D"	0	200
+1355	13390	"Erbse, reif, getrocknet, gekocht (ohne Zusatz von Fett und Salz)"	"D"	1	200
+1356	385	"Erdbeere, roh"	"D"	1	200
+1357	282	"Erdnuss"	"D"	1	200
+1358	751	"Erdnussbutter"	"D"	1	200
+1359	681	"Erdnuss-Flips"	"D"	1	200
+1360	407	"Erdnuss, geröstet"	"D"	1	200
+1361	596	"Erdnussöl"	"D"	1	200
+1362	1190	"Espresso crème, ungezuckert"	"D"	1	200
+1363	1693	"Essig"	"D"	1	200
+1364	1199	"Essig-Öl-Salatsauce (mit Rapsöl)"	"D"	1	200
+1365	13401	"Federkohl, gedünstet (ohne Zugabe von Salz und Fett)"	"D"	1	200
+1366	13401	"Grünkohl"	"D"	0	200
+1367	13400	"Federkohl, roh"	"D"	1	200
+1368	387	"Feige, getrocknet"	"D"	1	200
+1369	387	"Dörrfeige"	"D"	0	200
+1370	386	"Feige, roh"	"D"	1	200
+1371	211	"Felche, roh"	"D"	1	200
+1372	1008	"Fenchel, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+1373	352	"Fenchel, roh"	"D"	1	200
+1374	13345	"Fisch (Durchschnitt), Filet, gedämpft (ohne Zusatz von Fett und Salz)"	"D"	1	200
+1375	1098	"Fisch (Durchschnitt), roh"	"D"	1	200
+1376	773	"Fischstäbchen, paniert und vorfritiert"	"D"	1	200
+1377	1168	"Fischstäbchen (paniert und vorfritiert), gebraten in HOLL-Rapsöl"	"D"	1	200
+1378	1169	"Fischstäbchen (paniert und vorfritiert), im Ofen gebacken (ohne Zugabe von Fett)"	"D"	1	200
+1379	1504	"Flammenkuchen, gebacken"	"D"	1	200
+1380	1504	"Flammkuchen"	"D"	0	200
+1381	13419	"Flammenkuchenteig, ungebacken"	"D"	1	200
+1382	1111	"Fleisch (Durchschnitt exkl. Innereien), roh"	"D"	1	200
+1383	1084	"Fleischkäse"	"D"	1	200
+1384	1664	"Fleischlasagne, zubereitet"	"D"	1	200
+1385	13351	"Flunder, Filet, gedämpft (ohne Zusatz von Fett und Salz)"	"D"	1	200
+1386	481	"Flunder, roh"	"D"	1	200
+1387	1476	"Fondue alkoholfrei, zubereitet"	"D"	1	200
+1388	797	"Fondue klassisch, zubereitet"	"D"	1	200
+1389	1475	"Fondue moitié-moitié, zubereitet"	"D"	1	200
+1390	13349	"Forelle, ganz, gekocht (ohne Zusatz von Fett und Salz)"	"D"	1	200
+1391	289	"Forelle, roh"	"D"	1	200
+1392	289	"Bachforelle"	"D"	0	200
+1393	1515	"Fotzelschnitte ungezuckert"	"D"	1	200
+1394	536	"Freiburger Vacherin"	"D"	1	200
+1395	567	"Frischkäse, Doppelrahm"	"D"	1	200
+1396	1124	"Früchte (Durchschnitt), gekocht (ohne Zugabe von Zucker)"	"D"	1	200
+1397	1120	"Früchte (Durchschnitt), getrocknet"	"D"	1	200
+1398	1120	"Dörrfrüchte (Durchschnitt)"	"D"	0	200
+1399	1120	"Früchte, gedörrt (Durchschnitt)"	"D"	0	200
+1400	1123	"Früchte (Durchschnitt), roh"	"D"	1	200
+1401	1130	"Fruchtsaft (Durchschnitt), ungezuckert"	"D"	1	200
+1402	1131	"Fruchtsaft-Schorle (Durchschnitt, 60% Saft - 40% Wasser), ungezuckert"	"D"	1	200
+1403	775	"Fruchtsalat, gezuckert (Konserve)"	"D"	1	200
+1404	775	"Fruit Cocktail"	"D"	0	200
+1405	777	"Fruchtsalat, ungezuckert (Konserve)"	"D"	1	200
+1406	10456	"Fruchtwähe/-kuchen (Durchschnitt)"	"D"	1	200
+1407	10453	"Fruchtwähe/-kuchen mit Blätterteig (Durchschnitt)"	"D"	1	200
+1408	10454	"Fruchtwähe/-kuchen mit Kuchenteig (Durchschnitt)"	"D"	1	200
+1409	10455	"Fruchtwähe/-kuchen mit süssem Mürbeteig (Durchschnitt)"	"D"	1	200
+1410	817	"Fünfkornbier"	"D"	1	200
+1411	1497	"Garnele, gekocht"	"D"	1	200
+1412	1497	"Shrimp"	"D"	0	200
+1413	1497	"Scampi"	"D"	0	200
+1414	1497	"Crevette"	"D"	0	200
+1415	766	"Garnele, roh"	"D"	1	200
+1416	1100	"Geflügelfleisch (Durchschnitt exkl. Innereien), roh"	"D"	1	200
+1417	1109	"Geflügelfleisch mit Haut (Durchschnitt), roh"	"D"	1	200
+1418	1108	"Geflügelfleisch ohne Haut (Durchschnitt exkl. Innereien), roh"	"D"	1	200
+1419	1092	"Geflügellyoner"	"D"	1	200
+1420	13317	"Gehacktes (Durchschnitt aus Rind, Kalb, Schwein, Poulet), gebraten (ohne Zusatz von Fett u"	"D"	1	200
+1421	1105	"Gehacktes (Durchschnitt aus Rind, Kalb, Schwein, Poulet), roh"	"D"	1	200
+1422	1152	"Gemüse (Durchschnitt), roh"	"D"	1	200
+1423	1580	"Gemüsegratin, gebacken"	"D"	1	200
+1424	1666	"Gemüselasagne, zubereitet"	"D"	1	200
+1425	739	"Gerstenflocken"	"D"	1	200
+1426	1587	"Gerstotto, gekocht"	"D"	1	200
+1427	13318	"Geschnetzeltes (Durchschnitt aus Rind, Kalb, Schwein, Geflügel), gebraten (ohne Zusatz von"	"D"	1	200
+1428	1104	"Geschnetzeltes (Durchschnitt aus Rind, Kalb, Schwein, Geflügel), roh"	"D"	1	200
+1429	1696	"Getreideflocken (Durchschnitt)"	"D"	1	200
+1430	10406	"Gipfeli (Durchschnitt)"	"D"	1	200
+1431	507	"Glarner Schabziger"	"D"	1	200
+1432	507	"Glarner Kräuterkäse"	"D"	0	200
+1433	483	"Gorgonzola"	"D"	1	200
+1434	388	"Grapefruit (weiss oder rot), roh"	"D"	1	200
+1435	388	"Pampelmuse"	"D"	0	200
+1436	530	"Greyerzer, vollfett"	"D"	1	200
+1437	530	"Gruyère"	"D"	0	200
+1438	1509	"Griessbrei, zubereitet (mit teilentrahmter Milch, ohne Zugabe von Zucker)"	"D"	1	200
+1439	1510	"Griessbrei, zubereitet (mit Vollmilch, ohne Zugabe von Zucker)"	"D"	1	200
+1440	1507	"Griessschnitte, zubereitet (mit teilentrahmter Milch)"	"D"	1	200
+1441	1508	"Griessschnitte, zubereitet (mit Vollmilch)"	"D"	1	200
+1442	1272	"Grittibänz"	"D"	1	200
+1443	1465	"Gugelhopf Grossmutter Art"	"D"	1	200
+1444	684	"Gulaschsuppe"	"D"	1	200
+1445	951	"Gummibonbon mit Fruchtessenz"	"D"	1	200
+1446	491	"Gurke, in Essig eingelegt"	"D"	1	200
+1447	491	"Essiggurke"	"D"	0	200
+1448	491	"Cornichon"	"D"	0	200
+1449	354	"Gurke, roh"	"D"	1	200
+1450	354	"Salatgurke"	"D"	0	200
+1451	1582	"Hackbraten, im Ofen gebacken"	"D"	1	200
+1452	1583	"Hackplätzli (Rind), gebraten in Rapsöl HOLL"	"D"	1	200
+1453	1512	"Haferbrei, zubereitet (mit teilentrahmter Milch, ohne Zugabe von Zucker)"	"D"	1	200
+1454	1511	"Haferbrei, zubereitet (mit Vollmilch, ohne Zugabe von Zucker)"	"D"	1	200
+1455	198	"Haferflocken"	"D"	1	200
+1456	769	"Haferkleie"	"D"	1	200
+1457	13399	"Halbentrahmte Milch 1.5% Fett, UHT"	"D"	1	200
+1458	191	"Halbfettbutter"	"D"	1	200
+1459	67	"Halbrahm, pasteurisiert"	"D"	1	200
+1460	68	"Halbrahm, UHT"	"D"	1	200
+1461	833	"Halbweissbrot"	"D"	1	200
+1462	952	"Hartkaramellen, Hartbonbons"	"D"	1	200
+1463	1193	"Hart- und Halbhartkäse, vollfett (Durchschnitt)"	"D"	1	200
+1464	423	"Hartweizengriess, trocken"	"D"	1	200
+1465	486	"Hase (Durchschnitt), roh"	"D"	1	200
+1466	270	"Haselnuss"	"D"	1	200
+1467	903	"Haselnusskekse"	"D"	1	200
+1468	903	"Haselnussguetzli"	"D"	0	200
+1469	869	"Haselnussmakrone"	"D"	1	200
+1470	703	"Haselnuss-Schokolade-Brotaufstrich"	"D"	1	200
+1471	871	"Haselnussstängeli"	"D"	1	200
+1472	416	"Hecht, roh"	"D"	1	200
+1473	910	"Hefeteig (mit Butter), süss, ungebacken"	"D"	1	200
+1474	1177	"Hefeteig (mit pflanzlichem Fett), süss, ungebacken"	"D"	1	200
+1475	389	"Heidelbeere, roh"	"D"	1	200
+1476	753	"Heilbutt, roh"	"D"	1	200
+1477	390	"Himbeere, roh"	"D"	1	200
+1478	691	"Hinterschinken"	"D"	1	200
+1479	487	"Hirsch (Durchschnitt), roh"	"D"	1	200
+1480	12	"Hirsch, Entrecôte, roh"	"D"	1	200
+1481	938	"Hirseflocken, Vollkorn"	"D"	1	200
+1482	422	"Hirse, Korn geschält"	"D"	1	200
+1483	1586	"Hirsotto, gekocht"	"D"	1	200
+1484	666	"Hollandaisesauce"	"D"	1	200
+1485	436	"Holunderbeere, schwarz, roh"	"D"	1	200
+1486	472	"Honig (Blütenhonig)"	"D"	1	200
+1487	399	"Honigmelone, roh"	"D"	1	200
+1488	399	"Zuckermelone"	"D"	0	200
+1489	1590	"Hot Dog in Weissbrot mit Ketchup und Senf"	"D"	1	200
+1490	1070	"Hühnerei, ganz, festgekocht"	"D"	1	200
+1491	290	"Hühnerei, ganz, roh"	"D"	1	200
+1492	410	"Hühnereigelb, roh (Eidotter)"	"D"	1	200
+1493	411	"Hühnereiweiss, roh (Eiklar)"	"D"	1	200
+1494	1134	"Hülsenfrüchte (Durchschnitt), gekocht (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1495	1133	"Hülsenfrüchte (Durchschnitt), getrocknet"	"D"	1	200
+1496	505	"Hüttenkäse, nature"	"D"	1	200
+1497	505	"Cottage cheese"	"D"	0	200
+1498	866	"Instant-Kartoffelstock, zubereitet (mit Wasser und Butter)"	"D"	1	200
+1499	652	"Jägersauce"	"D"	1	200
+1500	58	"Joghurt Bifidus, nature"	"D"	1	200
+1501	53	"Joghurt, Erdbeer"	"D"	1	200
+1502	1192	"Joghurt gezuckert (Durchschnitt)"	"D"	1	200
+1503	55	"Joghurt, Haselnuss"	"D"	1	200
+1504	590	"Joghurt mit Aroma, mager, mit Süssstoffen"	"D"	1	200
+1505	588	"Joghurt mit Früchten, mager, mit Süssstoffen"	"D"	1	200
+1506	57	"Joghurt, Mokka"	"D"	1	200
+1507	99	"Joghurt, Mokka, Bio"	"D"	1	200
+1508	52	"Joghurt, nature"	"D"	1	200
+1509	587	"Joghurt, nature, mager"	"D"	1	200
+1510	1612	"Joghurt-Salatsauce (ohne Öl)"	"D"	1	200
+1511	54	"Joghurt, Schokolade"	"D"	1	200
+1512	56	"Joghurt, Vanille"	"D"	1	200
+1513	391	"Johannisbeere, rot, roh"	"D"	1	200
+1514	392	"Johannisbeere, schwarz, roh"	"D"	1	200
+1515	1593	"Johannisbeerkuchen, gebacken (mit Blätterteig)"	"D"	1	200
+1516	1593	"Johannisbeerwähe"	"D"	0	200
+1517	1595	"Johannisbeerkuchen, gebacken (mit Kuchenteig)"	"D"	1	200
+1518	1592	"Johannisbeerkuchen, gebacken (mit süssem Mürbeteig)"	"D"	1	200
+1519	983	"Kaffee löslich, Pulver"	"D"	1	200
+1520	983	"Instant-Kaffee"	"D"	0	200
+1521	69	"Kaffeerahm"	"D"	1	200
+1522	994	"Kaffee, schwarz, ungezuckert"	"D"	1	200
+1523	583	"Kakaobutter"	"D"	1	200
+1524	581	"Kakaopulver"	"D"	1	200
+1525	393	"Kaki, roh"	"D"	1	200
+1526	1071	"Kalb, Brust, gekocht (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1527	1	"Kalb, Brust, roh"	"D"	1	200
+1528	662	"Kalb, Eckstück, roh"	"D"	1	200
+1529	662	"Plätzli"	"D"	0	200
+1530	660	"Kalb, Filet, roh"	"D"	1	200
+1531	1106	"Kalbfleisch (Durchschnitt exkl. Innereien, Kotelett), roh"	"D"	1	200
+1532	11	"Kalb, Gehacktes, roh"	"D"	1	200
+1533	11	"Hackfleisch"	"D"	0	200
+1534	13325	"Kalb, Geschnetzeltes, gebraten (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1535	13	"Kalb, Geschnetzeltes, roh"	"D"	1	200
+1536	13377	"Kalb, Haxe, geschmort (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1537	661	"Kalb, Haxe, roh"	"D"	1	200
+1538	2	"Kalb, Kotelett, roh"	"D"	1	200
+1539	10	"Kalb, Leber, roh"	"D"	1	200
+1540	672	"Kalb, Milken, roh"	"D"	1	200
+1541	672	"Bries"	"D"	0	200
+1542	673	"Kalb, Niere, roh"	"D"	1	200
+1543	13324	"Kalb, Nierstück, Steak, gebraten (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1544	3	"Kalb, Nierstück, Steak, roh"	"D"	1	200
+1545	14	"Kalb, Runder Mocken, roh"	"D"	1	200
+1546	14	"Saftplätzli"	"D"	0	200
+1547	1080	"Kalbsbratwurst"	"D"	1	200
+1548	1073	"Kalb, Schulter, Braten, im Ofen gebraten (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1549	658	"Kalb, Schulter, Braten, roh"	"D"	1	200
+1550	1667	"Kalbspiccata, zubereitet"	"D"	1	200
+1551	1681	"Kalbsplätzli, gebraten in HOLL-Rapsöl"	"D"	1	200
+1552	13316	"Kalbsplätzli, gebraten (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1553	1669	"Kalbsragout mit Sauce, zubereitet"	"D"	1	200
+1554	1669	"Voressen"	"D"	0	200
+1555	15	"Kalb, Voressen, roh"	"D"	1	200
+1556	15	"Ragout"	"D"	0	200
+1557	674	"Kalb, Zunge, roh"	"D"	1	200
+1558	764	"Kalmar, roh"	"D"	1	200
+1559	764	"Seppia"	"D"	0	200
+1560	764	"Polpo"	"D"	0	200
+1561	764	"Calamare"	"D"	0	200
+1562	764	"Tintenfisch"	"D"	0	200
+1563	13329	"Kaninchen (Durchschnitt), gekocht (ohne Zusatz von Fett und Salz)"	"D"	1	200
+1564	686	"Kaninchen (Durchschnitt), roh"	"D"	1	200
+1565	16	"Kaninchen, Filet, roh"	"D"	1	200
+1566	1002	"Karotte, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+1567	566	"Karottensaft"	"D"	1	200
+1568	566	"Rüeblisaft"	"D"	0	200
+1569	355	"Karotte, roh"	"D"	1	200
+1570	860	"Kartoffelflocken, mit Milchpulver und Salz (Instant-Kartoffelstock)"	"D"	1	200
+1571	860	"Instant-Kartoffelstock"	"D"	0	200
+1572	1057	"Kartoffel, geschält, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+1573	1057	"Gschwellti"	"D"	0	200
+1574	813	"Kartoffel, geschält, roh"	"D"	1	200
+1575	1599	"Kartoffelgratin dauphinois, zubereitet"	"D"	1	200
+1576	1600	"Kartoffelgratin Savoyer Art, zubereitet"	"D"	1	200
+1577	1517	"Kartoffelsalat mit Essig-Öl-Sauce"	"D"	1	200
+1578	1516	"Kartoffelsalat mit Mayonnaise-Joghurt-Sauce"	"D"	1	200
+1579	497	"Kartoffelstärke"	"D"	1	200
+1580	1519	"Kartoffelstock, zubereitet (mit Rahm und Butter)"	"D"	1	200
+1581	1518	"Kartoffelstock, zubereitet (mit teilentrahmter Milch und Butter)"	"D"	1	200
+1582	863	"Kartoffelstock, zubereitet (mit Vollmilch und Butter)"	"D"	1	200
+1583	539	"Käse in Salzlake (Kuhmilch)"	"D"	1	200
+1584	549	"Käse in Salzlake (Schaf- und Ziegenmilch)"	"D"	1	200
+1585	549	"Feta"	"D"	0	200
+1586	1544	"Käsekuchen, gebacken (mit Blätterteig)"	"D"	1	200
+1587	1544	"Käsewähe"	"D"	0	200
+1588	1543	"Käsekuchen, gebacken (mit Kuchenteig)"	"D"	1	200
+1589	60	"Käsereibutter"	"D"	1	200
+1590	1601	"Käseschnitte, zubereitet"	"D"	1	200
+1591	1572	"Kebab im Fladenbrot"	"D"	1	200
+1592	1012	"Kefe, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+1593	1012	"Kiefelerbse"	"D"	0	200
+1594	1012	"Zuckerschote"	"D"	0	200
+1595	438	"Kefe, roh"	"D"	1	200
+1596	635	"Ketchup"	"D"	1	200
+1597	1059	"Kichererbse, gekocht (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1598	439	"Kichererbse, getrocknet"	"D"	1	200
+1599	644	"Kirsch"	"D"	1	200
+1600	644	"Kirschbranntwein"	"D"	0	200
+1601	644	"Kirschwasser"	"D"	0	200
+1602	644	"Kirschschnaps"	"D"	0	200
+1603	644	"Kirschenbrand"	"D"	0	200
+1604	1052	"Kirsche, gedünstet, abgetropft (ohne Zugabe von Zucker)"	"D"	1	200
+1605	1545	"Kirschenkuchen, gebacken (mit Blätterteig)"	"D"	1	200
+1606	1545	"Kirschenwähe"	"D"	0	200
+1607	1546	"Kirschenkuchen, gebacken (mit Kuchenteig)"	"D"	1	200
+1608	394	"Kirsche, roh"	"D"	1	200
+1609	395	"Kiwi, roh"	"D"	1	200
+1610	918	"Knäckebrot, Vollkorn"	"D"	1	200
+1611	920	"Knäckebrot, Vollkorn mit Leinsamen"	"D"	1	200
+1612	919	"Knäckebrot, Vollkorn mit Sesam"	"D"	1	200
+1613	356	"Knoblauch, roh"	"D"	1	200
+1614	1013	"Knollensellerie, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+1615	357	"Knollensellerie, roh"	"D"	1	200
+1616	1399	"Knöpflimehl"	"D"	1	200
+1617	1399	"Spätzlimehl"	"D"	0	200
+1618	51	"Kochbutter"	"D"	1	200
+1619	1118	"Kochpökelware (Durchschnitt)"	"D"	1	200
+1620	762	"Kochsalz mit Jod"	"D"	1	200
+1621	10457	"Kochsalz mit Jod und Fluor"	"D"	1	200
+1622	10457	"Speisesalz"	"D"	0	200
+1623	634	"Kochsalz ohne Jod und Fluor"	"D"	1	200
+1624	704	"Kochspeck"	"D"	1	200
+1625	1116	"Kochwürste (Durchschnitt)"	"D"	1	200
+1626	10582	"Kohlgemüse (Durchschnitt), gekocht (ohne Zugabe von Salz und Fett)"	"D"	1	200
+1627	1167	"Kohlgemüse (Durchschnitt), roh"	"D"	1	200
+1628	1014	"Kohlrabi, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+1629	1014	"Rübkohl"	"D"	0	200
+1630	449	"Kohlrabi, roh"	"D"	1	200
+1631	601	"Kokosfett"	"D"	1	200
+1632	888	"Kokosmakronen"	"D"	1	200
+1633	284	"Kokosnuss"	"D"	1	200
+1634	742	"Kokosnuss, getrocknet (Kokosrapseln, Kokosflocken)"	"D"	1	200
+1635	526	"Kondensmilch, gezuckert"	"D"	1	200
+1636	527	"Kondensmilch, ungezuckert"	"D"	1	200
+1637	696	"Konfitüre"	"D"	1	200
+1638	696	"Marmelade"	"D"	0	200
+1639	697	"Konfitüre, energievermindert, mit Süssstoffen"	"D"	1	200
+1640	448	"Kopfsalat, roh"	"D"	1	200
+1641	13322	"Kotelett (Durchschnitt aus Kalb, Schwein, Lamm), gebraten (ohne Zusatz von Fett und Salz)"	"D"	1	200
+1642	1107	"Kotelett (Durchschnitt aus Kalb, Schwein, Lamm), roh"	"D"	1	200
+1643	1099	"Krustentiere (Durchschnitt), roh"	"D"	1	200
+1644	1176	"Kuchenteig (mit Butter), ungebacken"	"D"	1	200
+1645	1176	"Wähenteig"	"D"	0	200
+1646	906	"Kuchenteig (mit pflanzlichem Fett), ungebacken"	"D"	1	200
+1647	13417	"Kuchenteig, Vollkorn (mit Butter), ungebacken"	"D"	1	200
+1648	13416	"Kuchenteig, Vollkorn (mit pflanzichem Fett), ungebacken"	"D"	1	200
+1649	1020	"Kürbis, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+1650	276	"Kürbiskerne"	"D"	1	200
+1651	13404	"Kürbiskernöl"	"D"	1	200
+1652	1662	"Kürbis-Piccata, zubereitet"	"D"	1	200
+1653	480	"Kürbis, roh"	"D"	1	200
+1654	480	"Riesenkürbis"	"D"	0	200
+1655	1656	"Kürbisscheiben, paniert, zubereitet"	"D"	1	200
+1656	193	"Lachs, geräuchert"	"D"	1	200
+1657	210	"Lachs, wild, roh"	"D"	1	200
+1658	13354	"Lachs, Zucht, Filet, gedämpft (ohne Zusatz von Fett und Salz)"	"D"	1	200
+1659	194	"Lachs, Zucht, roh"	"D"	1	200
+1660	13273	"Lamm, Filet, medium gebraten (ohne Zusatz von Fett und Salz)"	"D"	1	200
+1661	675	"Lamm, Filet, roh"	"D"	1	200
+1662	13304	"Lamm, Gigot, gebraten (ohne Zusatz von Fett und Salz)"	"D"	1	200
+1663	4	"Lamm, Gigot, roh (Schweiz, Neuseeland)"	"D"	1	200
+1664	4	"Keule"	"D"	0	200
+1665	5	"Lamm, Kotelett, roh (Schweiz)"	"D"	1	200
+1666	17	"Lamm, Nierstück, roh (Australien, Neuseeland)"	"D"	1	200
+1667	18	"Lamm, Racks, roh (Australien, Neuseeland)"	"D"	1	200
+1668	1673	"Lammragout mit Sauce, zubereitet"	"D"	1	200
+1669	1110	"Lamm/Schaf (Durchschnitt exkl. Innereien, Kotelett), roh"	"D"	1	200
+1670	19	"Lamm, Voressen, roh (Schweiz)"	"D"	1	200
+1671	1090	"Landjäger"	"D"	1	200
+1672	1184	"Latte macchiato, ungezuckert"	"D"	1	200
+1673	441	"Lattich, roh"	"D"	1	200
+1674	1015	"Lauch, gedünstet (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1675	358	"Lauch, roh"	"D"	1	200
+1676	832	"Laugenbrötli"	"D"	1	200
+1677	832	"Silserli"	"D"	0	200
+1678	947	"Laugengebäck trocken (Bretzel, Sticks)"	"D"	1	200
+1679	835	"Laugengipfeli"	"D"	1	200
+1680	835	"Silsergipfeli"	"D"	0	200
+1681	13320	"Leber (Durchschnitt aus Rind, Kalb, Schwein), gebraten (ohne Zusatz von Fett und Salz)"	"D"	1	200
+1682	10377	"Leber (Durchschnitt aus Rind, Kalb, Schwein), roh"	"D"	1	200
+1683	776	"Leberwurst"	"D"	1	200
+1684	880	"Lebkuchen"	"D"	1	200
+1685	993	"Lebkuchen mit Schokoladeüberzug"	"D"	1	200
+1686	13405	"Leinöl, kaltgepresst"	"D"	1	200
+1687	277	"Leinsamen"	"D"	1	200
+1688	10534	"Lemon Curd"	"D"	1	200
+1689	10534	"Zitronencrème"	"D"	0	200
+1690	531	"Limburger (Münster)"	"D"	1	200
+1691	595	"Limonade, mit Aroma, gezuckert"	"D"	1	200
+1692	1060	"Linse, ganz, gekocht (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1693	370	"Linse, ganz, getrocknet"	"D"	1	200
+1694	13386	"Linse, geschält, gekocht (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1695	13385	"Linse, geschält, getrocknet"	"D"	1	200
+1696	900	"Linzertorte"	"D"	1	200
+1697	852	"Löffelbiscuit"	"D"	1	200
+1698	786	"Luganighe"	"D"	1	200
+1699	1083	"Lyoner"	"D"	1	200
+1700	878	"Madeleine"	"D"	1	200
+1701	578	"Magermilchpulver"	"D"	1	200
+1702	64	"Magermilch, UHT"	"D"	1	200
+1703	879	"Mailänderli"	"D"	1	200
+1704	932	"Mais-Chips (Apérogebäck)"	"D"	1	200
+1705	1032	"Mais, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+1706	1032	"Zuckermais"	"D"	0	200
+1707	1032	"Gemüsemais"	"D"	0	200
+1708	1619	"Maisgriess, gekocht"	"D"	1	200
+1709	1619	"Polenta"	"D"	0	200
+1710	425	"Maisgriess, trocken"	"D"	1	200
+1711	412	"Maiskeimöl"	"D"	1	200
+1712	633	"Maiskölbchen, in Essig eingelegt"	"D"	1	200
+1713	432	"Mais, roh"	"D"	1	200
+1714	426	"Maisstärke"	"D"	1	200
+1715	397	"Mandarine, roh"	"D"	1	200
+1716	273	"Mandel"	"D"	1	200
+1717	269	"Mandel, geröstet, gesalzen"	"D"	1	200
+1718	278	"Mandel, ohne Fett geröstet, gesalzen"	"D"	1	200
+1719	1016	"Mangold, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+1720	1016	"Krautstiel"	"D"	0	200
+1721	450	"Mangold, roh"	"D"	1	200
+1722	396	"Mango, roh"	"D"	1	200
+1723	208	"Margarine"	"D"	1	200
+1724	898	"Marmorkuchen"	"D"	1	200
+1725	898	"Marmorcake"	"D"	0	200
+1726	496	"Marzipan"	"D"	1	200
+1727	485	"Mascarpone"	"D"	1	200
+1728	771	"Mayonnaise"	"D"	1	200
+1729	772	"Mayonnaise, kalorienvermindert"	"D"	1	200
+1730	1682	"Mayonnaise, selbst zubereitet mit Rapsöl"	"D"	1	200
+1731	1135	"Mehl (Durchschnitt)"	"D"	1	200
+1732	1136	"Mehl, hell (Durchschnitt)"	"D"	1	200
+1733	1524	"Mehlomeletten mit Champignonfüllung, zubereitet"	"D"	1	200
+1734	1525	"Mehlomeletten mit Gemüsefüllung, zubereitet"	"D"	1	200
+1735	1523	"Mehlomeletten mit Käse, zubereitet"	"D"	1	200
+1736	1695	"Mehlomeletten mit Nutella, zubereitet"	"D"	1	200
+1737	1526	"Mehlomeletten mit Schinken, zubereitet"	"D"	1	200
+1738	1527	"Mehlomeletten mit Speck, zubereitet"	"D"	1	200
+1739	1694	"Mehlomeletten mit Zimt und Zucker, zubereitet"	"D"	1	200
+1740	1522	"Mehlomeletten, zubereitet"	"D"	1	200
+1741	732	"Melasse, Melassesirup"	"D"	1	200
+1742	854	"Meringue"	"D"	1	200
+1743	761	"Miesmuschel, roh"	"D"	1	200
+1744	1194	"Milch (Durchschnitt)"	"D"	1	200
+1745	1185	"Milchkaffee dunkel, ungezuckert"	"D"	1	200
+1746	1185	"Schale"	"D"	0	200
+1747	1186	"Milchkaffee hell, ungezuckert"	"D"	1	200
+1748	1187	"Milchkaffee, ungezuckert"	"D"	1	200
+1749	1513	"Milchreis, zubereitet (mit teilentrahmter Milch, ohne Zugabe von Zucker)"	"D"	1	200
+1750	1514	"Milchreis, zubereitet (mit Vollmilch, ohne Zugabe von Zucker)"	"D"	1	200
+1751	195	"Milchschokolade"	"D"	1	200
+1752	654	"Milchschokolade mit Alkoholfüllung"	"D"	1	200
+1753	655	"Milchschokolade mit Crèmefüllung (Gianduja, Nougat)"	"D"	1	200
+1754	643	"Milchschokolade mit Mandel-Honig-Nougat"	"D"	1	200
+1755	612	"Milchschokolade mit Nüssen"	"D"	1	200
+1756	641	"Milchschokolade mit Weinbeeren, Nüssen und Mandeln"	"D"	1	200
+1757	671	"Minestrone"	"D"	1	200
+1758	1087	"Minipic Würstchen"	"D"	1	200
+1759	1053	"Mirabelle, gedünstet, abgetropft (ohne Zugabe von Zucker)"	"D"	1	200
+1760	403	"Mirabelle, roh"	"D"	1	200
+1761	602	"Molke, süss"	"D"	1	200
+1762	602	"Süssmolke"	"D"	0	200
+1763	1039	"Morchel, gedünstet (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1764	457	"Morchel, roh"	"D"	1	200
+1765	819	"Mortadella"	"D"	1	200
+1766	717	"Mostbröckli"	"D"	1	200
+1767	82	"Mozzarella"	"D"	1	200
+1768	1175	"Mürbeteig (mit Butter), süss, ungebacken"	"D"	1	200
+1769	909	"Mürbeteig (mit pflanzlichem Fett), süss, ungebacken"	"D"	1	200
+1770	844	"Mütschli"	"D"	1	200
+1771	1579	"Nasi Goreng, zubereitet"	"D"	1	200
+1772	404	"Nektarine, roh"	"D"	1	200
+1773	913	"Nussgipfel aus Blätterteig"	"D"	1	200
+1774	914	"Nussgipfel aus Hefeteig"	"D"	1	200
+1775	372	"Nüsslisalat, roh"	"D"	1	200
+1776	372	"Feldsalat"	"D"	0	200
+1777	372	"Rapunzelsalat"	"D"	0	200
+1778	915	"Nussschnecke aus Hefeteig"	"D"	1	200
+1779	915	"Hefeschnecke"	"D"	0	200
+1780	818	"Ofen-Frites, tiefgekühlt"	"D"	1	200
+1781	818	"Ofen-Pommes"	"D"	0	200
+1782	10545	"Olive, gefüllt mit Hackfleisch, frittiert"	"D"	1	200
+1783	492	"Olive, grün"	"D"	1	200
+1784	591	"Olivenöl"	"D"	1	200
+1785	493	"Olive, schwarz"	"D"	1	200
+1786	572	"Orangennektar"	"D"	1	200
+1787	576	"Orangensaft"	"D"	1	200
+1788	577	"Orangensaft, angereichert mit Vitamin C"	"D"	1	200
+1789	405	"Orange, roh"	"D"	1	200
+1790	405	"Apfelsine"	"D"	0	200
+1791	708	"Palmöl - Palmfett"	"D"	1	200
+1792	716	"Pancetta"	"D"	1	200
+1793	202	"Panettone"	"D"	1	200
+1794	750	"Paniermehl"	"D"	1	200
+1795	750	"Semmelmehl"	"D"	0	200
+1796	779	"Pantli"	"D"	1	200
+1797	663	"Paprika (Gewürz)"	"D"	1	200
+1798	279	"Paranuss"	"D"	1	200
+1799	845	"Pariserbrot"	"D"	1	200
+1800	845	"Baguette"	"D"	0	200
+1801	845	"Parisette"	"D"	0	200
+1802	482	"Parmesan"	"D"	1	200
+1803	482	"Parmiggiano"	"D"	0	200
+1804	986	"Passionsfrucht, roh"	"D"	1	200
+1805	986	"Maracuja"	"D"	0	200
+1806	774	"Pâté de campagne"	"D"	1	200
+1807	1017	"Peperoni, grün, gedünstet (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1808	359	"Peperoni, grün, roh"	"D"	1	200
+1809	1018	"Peperoni, rot, gedünstet (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1810	360	"Peperoni, rot, roh"	"D"	1	200
+1811	373	"Petersilie, roh"	"D"	1	200
+1812	373	"Peterli"	"D"	0	200
+1813	463	"Pfefferminze, roh"	"D"	1	200
+1814	1670	"Pferderagout mit Sauce, zubereitet"	"D"	1	200
+1815	13328	"Pferd, Filet, gebraten (ohne Zusatz von Fett und Salz)"	"D"	1	200
+1816	685	"Pferd, Filet, roh"	"D"	1	200
+1817	624	"Pfirsich, gezuckert (Konserve)"	"D"	1	200
+1818	401	"Pfirsich, roh"	"D"	1	200
+1819	625	"Pfirsich, ungezuckert (Konserve)"	"D"	1	200
+1820	1054	"Pflaume, gedünstet, abgetropft (ohne Zugabe von Zucker)"	"D"	1	200
+1821	475	"Pflaume, getrocknet"	"D"	1	200
+1822	475	"Dörrpflaume"	"D"	0	200
+1823	475	"Backpflaume"	"D"	0	200
+1824	1528	"Pflaumenkuchen, gebacken (mit Blätterteig)"	"D"	1	200
+1825	1528	"Pflaumenwähe"	"D"	0	200
+1826	1530	"Pflaumenkuchen, gebacken (mit Kuchenteig)"	"D"	1	200
+1827	474	"Pflaume, roh"	"D"	1	200
+1828	1129	"Pilz (Durchschnitt), gedünstet (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1829	1128	"Pilz (Durchschnitt), roh"	"D"	1	200
+1830	1585	"Pilzrisotto, gekocht"	"D"	1	200
+1831	683	"Pilzsauce, gebunden"	"D"	1	200
+1832	688	"Pilzsuppe"	"D"	1	200
+1833	283	"Pinienkerne"	"D"	1	200
+1834	274	"Pistazie"	"D"	1	200
+1835	1532	"Pizza al tonno, gebacken"	"D"	1	200
+1836	1532	"Pizza mit Thon"	"D"	0	200
+1837	1533	"Pizza Calzone, gebacken"	"D"	1	200
+1838	1534	"Pizza Hawaii, gebacken"	"D"	1	200
+1839	1535	"Pizza Margherita, gebacken"	"D"	1	200
+1840	1540	"Pizza mit Gemüse, gebacken"	"D"	1	200
+1841	1536	"Pizza mit Mascarpone und Rucola, gebacken"	"D"	1	200
+1842	1537	"Pizza Prosciutto e Funghi, gebacken"	"D"	1	200
+1843	1537	"Pizza mit Schinken und Pilzen"	"D"	0	200
+1844	1538	"Pizza Prosciutto, gebacken"	"D"	1	200
+1845	1538	"Pizza mit Schinken"	"D"	0	200
+1846	1539	"Pizza Quattro Formaggi, gebacken"	"D"	1	200
+1847	907	"Pizzateig (mit Olivenöl), ungebacken"	"D"	1	200
+1848	13319	"Plätzli (Durchschnitt aus Geflügel, Kalb, Rind, Schwein), gebraten (ohne Zusatz von Fett u"	"D"	1	200
+1849	1101	"Plätzli (Durchschnitt aus Rind, Kalb, Schwein, Geflügel), roh"	"D"	1	200
+1850	10546	"Polenta nera (aus Maisgriess und Buchweizenmehl), gekocht"	"D"	1	200
+1851	12982	"Pommes Chips"	"D"	1	200
+1852	12983	"Pommes Chips fettreduziert"	"D"	1	200
+1853	10450	"Pommes Frites (im Ofen gebacken), ungesalzen"	"D"	1	200
+1854	10449	"Pommes Frites (in HO Sonnenblumenöl fritiert), ungesalzen"	"D"	1	200
+1855	424	"Popcorn"	"D"	1	200
+1856	424	"Puffmais"	"D"	0	200
+1857	516	"Portwein, 18.5 vol%"	"D"	1	200
+1858	516	"Porto"	"D"	0	200
+1859	21	"Poulet, Brust, mit Haut, roh (Frankreich)"	"D"	1	200
+1860	20	"Poulet, Brust, mit Haut, roh (Schweiz)"	"D"	1	200
+1861	23	"Poulet, Brust, ohne Haut, roh (Frankreich)"	"D"	1	200
+1862	22	"Poulet, Brust, ohne Haut, roh (Schweiz)"	"D"	1	200
+1863	13276	"Poulet, Brust, Schnitzel oder Geschnetzeltes, gebraten (ohne Zusatz von Fett und Salz)"	"D"	1	200
+1864	680	"Poulet, Brust, Schnitzel, roh"	"D"	1	200
+1865	680	"Geschnetzeltes"	"D"	0	200
+1866	13309	"Poulet, ganz, mit Haut, gebraten (ohne Zusatz von Fett und Salz)"	"D"	1	200
+1867	711	"Poulet, ganz, mit Haut, roh"	"D"	1	200
+1868	13310	"Poulet, Schenkel, mit Haut, gebraten (ohne Zusatz von Fett und Salz)"	"D"	1	200
+1869	712	"Poulet, Schenkel, mit Haut, roh"	"D"	1	200
+1870	25	"Poulet, Schenkel, mit Haut, roh (Frankreich)"	"D"	1	200
+1871	24	"Poulet, Schenkel, mit Haut, roh (Schweiz)"	"D"	1	200
+1872	27	"Poulet, Schenkel, ohne Haut, roh (Frankreich)"	"D"	1	200
+1873	26	"Poulet, Schenkel, ohne Haut, roh (Schweiz)"	"D"	1	200
+1874	987	"Preiselbeere, roh"	"D"	1	200
+1875	987	"Moosbeere"	"D"	0	200
+1876	874	"Prussien"	"D"	1	200
+1877	874	"Palmiers"	"D"	0	200
+1878	806	"Pudding, Caramel"	"D"	1	200
+1879	806	"Flan"	"D"	0	200
+1880	810	"Pudding, Schokolade"	"D"	1	200
+1881	809	"Pudding, Vanille"	"D"	1	200
+1882	1182	"Quarkblätterteig (mit Butter), ungebacken"	"D"	1	200
+1883	1181	"Quarkblätterteig (mit pflanzlichem Fett), ungebacken"	"D"	1	200
+1884	13393	"Quark, nature, halbfett"	"D"	1	200
+1885	71	"Quark, nature, mager"	"D"	1	200
+1886	70	"Quark, nature, Rahm"	"D"	1	200
+1887	1542	"Quiche Lorraine, gebacken (mit Blätterteig)"	"D"	1	200
+1888	1541	"Quiche Lorraine, gebacken (mit Kuchenteig)"	"D"	1	200
+1889	13396	"Quinoa, gekocht (ohne Zugabe von Salz und Fett)"	"D"	1	200
+1890	13394	"Quinoa, roh"	"D"	1	200
+1891	1055	"Quitte, gekocht, abgetropft (ohne Zugabe von Zucker)"	"D"	1	200
+1892	476	"Quitte, roh"	"D"	1	200
+1893	532	"Raclettekäse"	"D"	1	200
+1894	456	"Radieschen, roh"	"D"	1	200
+1895	1195	"Rahm (Durchschnitt)"	"D"	1	200
+1896	694	"Rahmglace, Frucht"	"D"	1	200
+1897	694	"Rahmeis"	"D"	0	200
+1898	953	"Rahmkaramellen"	"D"	1	200
+1899	953	"Rahmbonbons"	"D"	0	200
+1900	1019	"Rande, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+1901	1019	"Rote Beete"	"D"	0	200
+1902	451	"Rande, roh"	"D"	1	200
+1903	600	"Rapsöl"	"D"	1	200
+1904	1069	"Rapsöl HOLL (high oleic, low linolenic)"	"D"	1	200
+1905	1665	"Ratatouille, zubereitet"	"D"	1	200
+1906	1203	"Rauchsalami"	"D"	1	200
+1907	533	"Reblochon"	"D"	1	200
+1908	488	"Reh (Durchschnitt), roh"	"D"	1	200
+1909	28	"Reh, Ragout, roh"	"D"	1	200
+1910	28	"Rehpfeffer"	"D"	0	200
+1911	29	"Reh, Schnitzel, roh"	"D"	1	200
+1912	1196	"Reibkäse"	"D"	1	200
+1913	1065	"Reis parboiled, gekocht in Salzwasser (unjodiert)"	"D"	1	200
+1914	419	"Reis parboiled, trocken"	"D"	1	200
+1915	1066	"Reis poliert, gekocht in Salzwasser (unjodiert)"	"D"	1	200
+1916	427	"Reis poliert, trocken"	"D"	1	200
+1917	1067	"Reis unpoliert, gekocht in Salzwasser (unjodiert)"	"D"	1	200
+1918	1067	"Vollkornreis"	"D"	0	200
+1919	428	"Reis unpoliert, trocken"	"D"	1	200
+1920	361	"Rettich, roh"	"D"	1	200
+1921	1547	"Rhabarberkuchen, gebacken (mit Blätterteig)"	"D"	1	200
+1922	1547	"Rhabarberwähe"	"D"	0	200
+1923	1548	"Rhabarberkuchen, gebacken (mit Kuchenteig)"	"D"	1	200
+1924	362	"Rhabarber, roh"	"D"	1	200
+1925	1072	"Rind, Brust, gekocht (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1926	719	"Rind, Brust, roh"	"D"	1	200
+1927	640	"Rind, Eckstück, roh"	"D"	1	200
+1928	13258	"Rind, Entrecôte, medium gebraten (ohne Zusatz von Fett und Salz)"	"D"	1	200
+1929	720	"Rind, Entrecôte, roh"	"D"	1	200
+1930	30	"Rind, Entrecôte, roh (Schweiz)"	"D"	1	200
+1931	31	"Rind, Entrecôte, roh (USA)"	"D"	1	200
+1932	13262	"Rind, Filet, medium gebraten (ohne Zustatz von Fett und Salz)"	"D"	1	200
+1933	639	"Rind, Filet, roh"	"D"	1	200
+1934	1103	"Rindfleisch (Durchschnitt exkl. Innereien, Rippensteak), roh"	"D"	1	200
+1935	13297	"Rind, Gehacktes, gebraten (ohne Zusatz von Fett und Salz)"	"D"	1	200
+1936	6	"Rind, Gehacktes, roh"	"D"	1	200
+1937	37	"Rind, Geschnetzeltes, roh"	"D"	1	200
+1938	648	"Rind, Hals, roh"	"D"	1	200
+1939	648	"Gulasch"	"D"	0	200
+1940	32	"Rind, Hohrücken, roh (Schweiz)"	"D"	1	200
+1941	33	"Rind, Hohrücken, roh (USA)"	"D"	1	200
+1942	657	"Rind, Leber, roh"	"D"	1	200
+1943	34	"Rind, Runder Mocken, roh"	"D"	1	200
+1944	1075	"Rind, Schulter, Braten medium, im Ofen gebraten (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1945	1074	"Rind, Schulter, Braten rare, im Ofen gebraten (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1946	638	"Rind, Schulter, Braten, roh"	"D"	1	200
+1947	1076	"Rind, Schulter, Braten well done, im Ofen gebraten (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1948	13291	"Rind, Siedfleisch, durchzogen, gekocht (ohne Zusatz von Fett und Salz)"	"D"	1	200
+1949	35	"Rind, Siedfleisch, durchzogen,  roh"	"D"	1	200
+1950	13292	"Rind, Siedfleisch, mager, gekocht (ohne Zusatz von Fett and Salz)"	"D"	1	200
+1951	36	"Rind, Siedfleisch, mager, roh"	"D"	1	200
+1952	1672	"Rindsragout mit Sauce, zubereitet"	"D"	1	200
+1953	38	"Rind, Voressen, roh"	"D"	1	200
+1954	656	"Rind, Zunge, roh"	"D"	1	200
+1955	701	"Rippli (Nierstück), roh"	"D"	1	200
+1956	1584	"Risotto ohne Käse, gekocht"	"D"	1	200
+1957	1189	"Ristretto crème, ungezuckert"	"D"	1	200
+1958	1677	"Riz Casimir mit Kalbfleisch, zubereitet"	"D"	1	200
+1959	1675	"Riz Casimir mit Poulet, zubereitet"	"D"	1	200
+1960	830	"Roggenbrot mit Sauerteig"	"D"	1	200
+1961	748	"Roggenmehl, halbweiss, Typ 815"	"D"	1	200
+1962	752	"Roggenmehl, Ruch, Typ 1050"	"D"	1	200
+1963	749	"Roggenmehl, Vollkorn, Schrot, Typ 1800"	"D"	1	200
+1964	846	"Roggenschrotbrot"	"D"	1	200
+1965	707	"Rohessspeck"	"D"	1	200
+1966	707	"Bauernspeck"	"D"	0	200
+1967	707	"Bauernspeck, roh, geräuchert"	"D"	0	200
+1968	1117	"Rohpökelwaren (Durchschnitt)"	"D"	1	200
+1969	693	"Rohschinken"	"D"	1	200
+1970	1114	"Rohwürste/Dauerwürste (Durchschnitt)"	"D"	1	200
+1971	1115	"Rohwürste mit abgebrochener Reifung (Durchschnitt)"	"D"	1	200
+1972	429	"Rollgerste"	"D"	1	200
+1973	429	"Gerstengraupen"	"D"	0	200
+1974	805	"Rollmops"	"D"	1	200
+1975	805	"Hering, sauer"	"D"	0	200
+1976	718	"Rollschinken"	"D"	1	200
+1977	13333	"Rollschinken, gekocht (ohne Zusatz von Fett und Salz)"	"D"	1	200
+1978	484	"Roquefort"	"D"	1	200
+1979	1021	"Rosenkohl, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+1980	363	"Rosenkohl, roh"	"D"	1	200
+1981	477	"Rosine, getrocknet"	"D"	1	200
+1982	477	"Weinbeere"	"D"	0	200
+1983	477	"Sultanine"	"D"	0	200
+1984	462	"Rosmarin, roh"	"D"	1	200
+1985	858	"Rösti, Fertigprodukt"	"D"	1	200
+1986	1022	"Rotkohl, gedünstet (ohne Zugabe von Fett und Salz)"	"D"	1	200
+1987	1022	"Rotkraut"	"D"	0	200
+1988	1022	"Blaukraut"	"D"	0	200
+1989	364	"Rotkohl, roh"	"D"	1	200
+1990	829	"Ruchbrot"	"D"	1	200
+1991	468	"Rucola, roh"	"D"	1	200
+1992	468	"Rauke"	"D"	0	200
+1993	916	"Rüeblitorte"	"D"	1	200
+1994	916	"Rüeblikuchen"	"D"	0	200
+1995	916	"Rüeblicake"	"D"	0	200
+1996	1604	"Rührei mit Champignons, zubereitet"	"D"	1	200
+1997	1605	"Rührei mit Käse, zubereitet"	"D"	1	200
+1998	1603	"Rührei mit Kräutern, zubereitet"	"D"	1	200
+1999	1606	"Rührei mit Schinken, zubereitet"	"D"	1	200
+2000	1602	"Rührei, zubereitet"	"D"	1	200
+2001	901	"Rührteigcake Gleichschwer"	"D"	1	200
+2002	1607	"Russischer Salat, zubereitet"	"D"	1	200
+2003	875	"Sablé, Butter"	"D"	1	200
+2004	783	"Salametti"	"D"	1	200
+2005	1094	"Salami (Billiglinie)"	"D"	1	200
+2006	1091	"Salami Typ Nostrano"	"D"	1	200
+2007	1201	"Salatsauce französisch (mit Rapsöl)"	"D"	1	200
+2008	1200	"Salatsauce italienisch (mit Olivenöl)"	"D"	1	200
+2009	461	"Salbei, roh"	"D"	1	200
+2010	1089	"Salsiz"	"D"	1	200
+2011	1687	"Saltimbocca, gebraten in HOLL-Rapsöl"	"D"	1	200
+2012	1170	"Samen, Kerne, Nüsse (Durchschnitt), ungesalzen"	"D"	1	200
+2013	10562	"Samosa, frittiert"	"D"	1	200
+2014	10561	"Samosa, gebacken"	"D"	1	200
+2015	1551	"Sandwich (Baguette) mit Aufschnitt"	"D"	1	200
+2016	1505	"Sandwich (Baguette) mit Fleischkäse"	"D"	1	200
+2017	1559	"Sandwich (Baguette) mit Halbhartkäse"	"D"	1	200
+2018	1561	"Sandwich (Baguette) mit Mozzarella"	"D"	1	200
+2019	1549	"Sandwich (Baguette) mit Rohschinken"	"D"	1	200
+2020	1555	"Sandwich (Baguette) mit Salami"	"D"	1	200
+2021	1557	"Sandwich (Baguette) mit Schinken"	"D"	1	200
+2022	1553	"Sandwich (Baguette) mit Trockenfleisch"	"D"	1	200
+2023	1521	"Sandwich (Baguette) mit Weichkäse"	"D"	1	200
+2024	1552	"Sandwich (Ruchbrot) mit Aufschnitt"	"D"	1	200
+2025	1506	"Sandwich (Ruchbrot) mit Fleischkäse"	"D"	1	200
+2026	1560	"Sandwich (Ruchbrot) mit Halbhartkäse"	"D"	1	200
+2027	1562	"Sandwich (Ruchbrot) mit Mozzarella"	"D"	1	200
+2028	1550	"Sandwich (Ruchbrot) mit Rohschinken"	"D"	1	200
+2029	1556	"Sandwich (Ruchbrot) mit Salami"	"D"	1	200
+2030	1558	"Sandwich (Ruchbrot) mit Schinken"	"D"	1	200
+2031	1554	"Sandwich (Ruchbrot) mit Trockenfleisch"	"D"	1	200
+2032	1520	"Sandwich (Ruchbrot) mit Weichkäse"	"D"	1	200
+2033	414	"Sardelle im Öl, abgetropft"	"D"	1	200
+2034	10532	"Sardellenpaste"	"D"	1	200
+2035	413	"Sardine im Öl, abgetropft"	"D"	1	200
+2036	757	"Sardine, roh"	"D"	1	200
+2037	781	"Saucisse aux choux"	"D"	1	200
+2038	780	"Saucisson"	"D"	1	200
+2039	13341	"Saucisson, gekocht (ohne Zusatz von Fett und Salz)"	"D"	1	200
+2040	1088	"Saucisson vaudois"	"D"	1	200
+2041	647	"Sauerkraut, in Essig eingelegt"	"D"	1	200
+2042	647	"Sauerkohl"	"D"	0	200
+2043	574	"Sauerrahm"	"D"	1	200
+2044	574	"Crème fraîche"	"D"	0	200
+2045	575	"Saurer Halbrahm"	"D"	1	200
+2046	552	"Sbrinz"	"D"	1	200
+2047	767	"Scampi (Kaisergranat), roh"	"D"	1	200
+2048	13384	"Schafmilch"	"D"	1	200
+2049	551	"Schaumwein"	"D"	1	200
+2050	551	"Sekt"	"D"	0	200
+2051	551	"Prosecco"	"D"	0	200
+2052	551	"Champagner"	"D"	0	200
+2053	563	"Schmelzkäse, Scheibe, Rahm"	"D"	1	200
+2054	558	"Schmelzkäse, Scheibe, viertelfett"	"D"	1	200
+2055	559	"Schmelzkäse, Scheibe, vollfett"	"D"	1	200
+2056	565	"Schmelzkäse, streichfähig, Rahm"	"D"	1	200
+2057	560	"Schmelzkäse, streichfähig, viertelfett"	"D"	1	200
+2058	561	"Schmelzkäse, streichfähig, vollfett"	"D"	1	200
+2059	374	"Schnittlauch, roh"	"D"	1	200
+2060	1685	"Schnitzelbrot mit Cocktailsauce"	"D"	1	200
+2061	1685	"Plätzlibrot"	"D"	0	200
+2062	1686	"Schnitzelbrot mit Tartarsauce"	"D"	1	200
+2063	196	"Schokolade, dunkel (bitter)"	"D"	1	200
+2064	807	"Schokoladencrème"	"D"	1	200
+2065	889	"Schokoladengugelhopf"	"D"	1	200
+2066	960	"Schokoladenpulver"	"D"	1	200
+2067	197	"Schokolade, weiss"	"D"	1	200
+2068	415	"Scholle, roh"	"D"	1	200
+2069	415	"Goldbutt"	"D"	0	200
+2070	791	"Schützenwurst"	"D"	1	200
+2071	883	"Schwarzwälder Kirschtorte"	"D"	1	200
+2072	1023	"Schwarzwurzel, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+2073	452	"Schwarzwurzel, roh"	"D"	1	200
+2074	39	"Schwein, Brustspitz, roh"	"D"	1	200
+2075	13270	"Schwein, Eckstück, Plätzli, gebraten (ohne Zusatz von Fett und Salz)"	"D"	1	200
+2076	679	"Schwein, Eckstück, roh"	"D"	1	200
+2077	1102	"Schweinefleisch (Durchschnitt exkl. Innereien, Kotelett, Haxe), roh"	"D"	1	200
+2078	594	"Schweineschmalz"	"D"	1	200
+2079	13269	"Schwein, Filet, gebraten (ohne Zusatz von Fett und Salz)"	"D"	1	200
+2080	677	"Schwein, Filet, roh"	"D"	1	200
+2081	7	"Schwein, Gehacktes, roh"	"D"	1	200
+2082	13285	"Schwein, Geschnetzeltes, gebraten (ohne Zusatz von Fett und Salz)"	"D"	1	200
+2083	40	"Schwein, Geschnetzeltes, roh"	"D"	1	200
+2084	13284	"Schwein, Hals, Steak, gebraten (ohne Zusatz von Fett und Salz)"	"D"	1	200
+2085	41	"Schwein, Hals, Steak, roh"	"D"	1	200
+2086	13289	"Schwein, Haxe, geschmort (ohne zusatz von Fett und Salz)"	"D"	1	200
+2087	678	"Schwein, Haxe, roh"	"D"	1	200
+2088	13283	"Schwein, Kotelett, gebraten (ohne Zusatz von Fett und Salz)"	"D"	1	200
+2089	8	"Schwein, Kotelett, roh"	"D"	1	200
+2090	689	"Schwein, Leber, roh"	"D"	1	200
+2091	42	"Schwein, Nierstück, roh"	"D"	1	200
+2092	43	"Schwein, Runder Mocken, roh"	"D"	1	200
+2093	1077	"Schwein, Schulter, Braten medium, im Ofen gebraten (ohne Zugabe von Fett und Salz)"	"D"	1	200
+2094	676	"Schwein, Schulter, Braten, roh"	"D"	1	200
+2095	1079	"Schwein, Schulter, Braten well done, im Ofen gebraten (ohne Zugabe von Fett und Salz)"	"D"	1	200
+2096	1668	"Schweinspiccata, zubereitet"	"D"	1	200
+2097	1671	"Schweinsragout mit Sauce, zubereitet"	"D"	1	200
+2098	1086	"Schweinswurst"	"D"	1	200
+2099	9	"Schwein, Voressen, roh"	"D"	1	200
+2100	782	"Schweizer Salami, Schweine- und Rindfleisch"	"D"	1	200
+2101	760	"Seehecht, roh"	"D"	1	200
+2102	754	"Seelachs, roh"	"D"	1	200
+2103	754	"Kohlfisch"	"D"	0	200
+2104	754	"Köhler"	"D"	0	200
+2105	754	"Pollack"	"D"	0	200
+2106	755	"Seezunge, roh"	"D"	1	200
+2107	1660	"Sellerie-Piccata, zubereitet"	"D"	1	200
+2108	1655	"Selleriescheiben, paniert, zubereitet"	"D"	1	200
+2109	1463	"Semmeli"	"D"	1	200
+2110	280	"Sesamsamen ungeschält"	"D"	1	200
+2111	515	"Sherry, 18.5 vol%"	"D"	1	200
+2112	515	"Jerez"	"D"	0	200
+2113	1697	"Siedfleischsalat, zubereitet"	"D"	1	200
+2114	494	"Silberzwiebel, in Essig eingelegt"	"D"	1	200
+2115	569	"Sirup unverdünnt"	"D"	1	200
+2116	1132	"Sirup zubereitet (verdünnt im Verhältnis 1:5.5)"	"D"	1	200
+2117	1061	"Sojabohne, gekocht (ohne Zugabe von Fett und Salz)"	"D"	1	200
+2118	442	"Sojabohne, getrocknet"	"D"	1	200
+2119	72	"Soja Drink, nature"	"D"	1	200
+2120	72	"Sojamilch"	"D"	0	200
+2121	996	"Sojamehl, entfettet"	"D"	1	200
+2122	995	"Sojamehl, vollfett"	"D"	1	200
+2123	603	"Sojaöl"	"D"	1	200
+2124	466	"Sojasprossen, roh"	"D"	1	200
+2125	466	"Sojakeime"	"D"	0	200
+2126	281	"Sonnenblumenkerne"	"D"	1	200
+2127	598	"Sonnenblumenöl"	"D"	1	200
+2128	1068	"Sonnenblumenöl HO (high oleic), raffiniert"	"D"	1	200
+2129	892	"Sorbet, Frucht"	"D"	1	200
+2130	1024	"Spargel, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+2131	443	"Spargel, roh"	"D"	1	200
+2132	1025	"Spinat, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+2133	1567	"Spinatkuchen, gebacken (mit Blätterteig)"	"D"	1	200
+2134	1567	"Spinatwähe"	"D"	0	200
+2135	1566	"Spinatkuchen, gebacken (mit Kuchenteig)"	"D"	1	200
+2136	365	"Spinat, roh"	"D"	1	200
+2137	646	"Spirituosen 40 vol% (z.B. Vodka, Gin)"	"D"	1	200
+2138	917	"Spitzbube (Mürbeteiggebäck mit Konfitüre)"	"D"	1	200
+2139	400	"Stachelbeere, roh"	"D"	1	200
+2140	1026	"Stangensellerie, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+2141	366	"Stangensellerie, roh"	"D"	1	200
+2142	1040	"Steinpilz, gedünstet (ohne Zugabe von Fett und Salz)"	"D"	1	200
+2143	455	"Steinpilz, roh"	"D"	1	200
+2144	843	"St. Galler Bürli (halbweiss)"	"D"	1	200
+2145	792	"St. Galler Schüblig"	"D"	1	200
+2146	570	"St. Paulin"	"D"	1	200
+2147	13418	"Strudelteig, ungebacken"	"D"	1	200
+2148	770	"Surimi"	"D"	1	200
+2149	13407	"Süsskartoffel, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+2150	13406	"Süsskartoffel, roh"	"D"	1	200
+2151	1609	"Taboulé, zubereitet (mit Bulgur)"	"D"	1	200
+2152	1610	"Taboulé, zubereitet (mit Couscous)"	"D"	1	200
+2153	1684	"Tartarsauce, selbst zubereitet mit Rapsöl-Mayonnaise"	"D"	1	200
+2154	803	"Tee, ungezuckert"	"D"	1	200
+2155	1611	"Teigwarenauflauf mit Schinken, zubereitet"	"D"	1	200
+2156	1062	"Teigwaren mit Ei, gekocht im Salzwasser (unjodiert)"	"D"	1	200
+2157	1062	"Eierteigwaren"	"D"	0	200
+2158	799	"Teigwaren mit Ei, trocken"	"D"	1	200
+2159	1063	"Teigwaren ohne Ei, gekocht im Salzwasser (unjodiert)"	"D"	1	200
+2160	800	"Teigwaren ohne Ei, trocken"	"D"	1	200
+2161	1064	"Teigwaren ohne Ei, Vollkorn, gekocht im Salzwasser (unjodiert)"	"D"	1	200
+2162	801	"Teigwaren ohne Ei, Vollkorn, trocken"	"D"	1	200
+2163	1598	"Teigwarensalat mit französischer Sauce"	"D"	1	200
+2164	1597	"Teigwarensalat mit italienischer Sauce"	"D"	1	200
+2165	59	"Teilentrahmte Milch, pasteurisiert"	"D"	1	200
+2166	61	"Teilentrahmte Milch, UHT"	"D"	1	200
+2167	828	"Tessinerbrot"	"D"	1	200
+2168	495	"Tête de Moine"	"D"	1	200
+2169	418	"Thon im Öl, abgetropft"	"D"	1	200
+2170	417	"Thon im Wasser, abgetropft"	"D"	1	200
+2171	1613	"Thonsalat an Essig-Öl-Sauce (aus Thon im Wasser)"	"D"	1	200
+2172	756	"Thunfisch, roh"	"D"	1	200
+2173	460	"Thymian, roh"	"D"	1	200
+2174	556	"Tilsiter, pasteurisiert, vollfett"	"D"	1	200
+2175	557	"Tilsiter, Rohmilch, vollfett"	"D"	1	200
+2176	887	"Tirolercake"	"D"	1	200
+2177	827	"Toastbrot mit Butter"	"D"	1	200
+2178	826	"Toastbrot mit Pflanzenölen"	"D"	1	200
+2179	490	"Tofu"	"D"	1	200
+2180	1027	"Tomate, gedünstet (ohne Zugabe von Fett und Salz)"	"D"	1	200
+2181	637	"Tomate, geschält (Konserve)"	"D"	1	200
+2182	637	"Pelati"	"D"	0	200
+2183	1617	"Tomatenkuchen, gebacken (mit Blätterteig)"	"D"	1	200
+2184	1617	"Tomatenwähe"	"D"	0	200
+2185	1618	"Tomatenkuchen, gebacken (mit Kuchenteig)"	"D"	1	200
+2186	636	"Tomatenpüree"	"D"	1	200
+2187	636	"Tomatenmark"	"D"	0	200
+2188	564	"Tomatensaft"	"D"	1	200
+2189	667	"Tomatensauce"	"D"	1	200
+2190	670	"Tomatensuppe"	"D"	1	200
+2191	348	"Tomate, roh"	"D"	1	200
+2192	615	"Tomme"	"D"	1	200
+2193	592	"Traubenkernöl"	"D"	1	200
+2194	573	"Traubensaft"	"D"	1	200
+2195	768	"Traubenzucker"	"D"	1	200
+2196	768	"Glukose"	"D"	0	200
+2197	768	"Dextrose"	"D"	0	200
+2198	478	"Traube, roh"	"D"	1	200
+2199	478	"Weintraube"	"D"	0	200
+2200	47	"Trinkwasser (Mittelwert Schweiz)"	"D"	1	200
+2201	709	"Trockenfleisch"	"D"	1	200
+2202	709	"Hobelfleisch"	"D"	0	200
+2203	709	"Bündnerfleisch"	"D"	0	200
+2204	13275	"Truthahn, Brust, Schnitzel oder Geschnetzeltes, grebraten (ohne Zusatz von Fett und Salz)"	"D"	1	200
+2205	713	"Truthahn, Brust, Schnitzel oder Geschnetzeltes, roh"	"D"	1	200
+2206	534	"Vacherin Mont d'Or"	"D"	1	200
+2207	13413	"Vanillecrème, gekocht"	"D"	1	200
+2208	1202	"Vinaigrette (mit Rapsöl)"	"D"	1	200
+2209	1680	"Vitello tonnato mit Garnitur"	"D"	1	200
+2210	1679	"Vitello tonnato ohne Garnitur"	"D"	1	200
+2211	802	"Vollkornreiswaffel"	"D"	1	200
+2212	62	"Vollmilch, pasteurisiert"	"D"	1	200
+2213	585	"Vollmilchpulver"	"D"	1	200
+2214	63	"Vollmilch, UHT"	"D"	1	200
+2215	65	"Vollrahm, pasteurisiert"	"D"	1	200
+2216	66	"Vollrahm, UHT"	"D"	1	200
+2217	692	"Vorderschinken"	"D"	1	200
+2218	49	"Vorzugsbutter"	"D"	1	200
+2219	824	"Walliser Roggenbrot"	"D"	1	200
+2220	10542	"Wasabi Paste"	"D"	1	200
+2221	893	"Wassereis"	"D"	1	200
+2222	893	"Wasserglacé"	"D"	0	200
+2223	402	"Wassermelone, roh"	"D"	1	200
+2224	954	"Weichkaramellen, Bonbons"	"D"	1	200
+2225	631	"Weichkäse, Doppelrahm"	"D"	1	200
+2226	1197	"Weichkäse (Durchschnitt ohne fettreduzierte Varianten)"	"D"	1	200
+2227	13392	"Weichkäse, Rahm"	"D"	1	200
+2228	13391	"Weichkäse, vollfett"	"D"	1	200
+2229	509	"Wein rot, 12 vol%"	"D"	1	200
+2230	509	"Rotwein"	"D"	0	200
+2231	10477	"Wein rot, 13.5 vol%"	"D"	1	200
+2232	508	"Wein rot, 9 vol%"	"D"	1	200
+2233	510	"Wein weiss, 11 vol%"	"D"	1	200
+2234	510	"Weisswein"	"D"	0	200
+2235	511	"Wein weiss, 12.5 vol%"	"D"	1	200
+2236	10478	"Wein weiss, gespritzt, sauer"	"D"	1	200
+2237	10479	"Wein weiss, gespritzt, süss"	"D"	1	200
+2238	823	"Weissbrot"	"D"	1	200
+2239	1028	"Weisskohl, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+2240	1029	"Weisskohl, gedünstet (ohne Zugabe von Fett und Salz)"	"D"	1	200
+2241	453	"Weisskohl, roh"	"D"	1	200
+2242	1273	"Weisswurst"	"D"	1	200
+2243	939	"Weizenflocken, Vollkorn"	"D"	1	200
+2244	430	"Weizenkeime"	"D"	1	200
+2245	593	"Weizenkeimöl"	"D"	1	200
+2246	431	"Weizenkleie"	"D"	1	200
+2247	431	"Speisekleie"	"D"	0	200
+2248	204	"Weizenmehl (Backmehl), Typ 550"	"D"	1	200
+2249	207	"Weizenmehl, halbweiss, Typ 720"	"D"	1	200
+2250	203	"Weizenmehl, Ruch, Typ 1100"	"D"	1	200
+2251	206	"Weizenmehl, Vollkorn, Typ 1700"	"D"	1	200
+2252	205	"Weizenmehl, weiss, Typ 400"	"D"	1	200
+2253	1588	"Weizenotto, gekocht"	"D"	1	200
+2254	897	"Weizenstärke"	"D"	1	200
+2255	821	"Weizenvollkornbrot"	"D"	1	200
+2256	821	"Grahambrot"	"D"	0	200
+2257	734	"Weizen (Weichweizen), ganzes Korn"	"D"	1	200
+2258	514	"Wermut, 15 vol%"	"D"	1	200
+2259	514	"Wermutwein"	"D"	0	200
+2260	514	"Wermuth"	"D"	0	200
+2261	514	"Vermouth"	"D"	0	200
+2262	1082	"Wienerli"	"D"	1	200
+2263	1589	"Wienerli, gekocht"	"D"	1	200
+2264	13281	"Wildfleisch (Durchschnitt), gekocht (ohne Zusatz von Fett und Salz)"	"D"	1	200
+2265	1125	"Wildfleisch (Durchschnitt), roh"	"D"	1	200
+2266	796	"Wildfleischterrine"	"D"	1	200
+2267	489	"Wildschwein (Durchschnitt), roh"	"D"	1	200
+2268	1030	"Wirz, gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+2269	1030	"Wirsingkohl"	"D"	0	200
+2270	454	"Wirz, roh"	"D"	1	200
+2271	1569	"Wurst-Käse-Salat, zubereitet"	"D"	1	200
+2272	1568	"Wurstsalat, zubereitet"	"D"	1	200
+2273	1162	"Wurzel- und Knollengemüse (Durchschnitt), gedämpft (ohne Zugabe von Salz)"	"D"	1	200
+2274	1163	"Wurzel- und Knollengemüse (Durchschnitt), gedünstet (ohne Zugabe von Fett und Salz)"	"D"	1	200
+2275	1161	"Wurzel- und Knollengemüse (Durchschnitt), gekocht (ohne Zugabe von Fett und Salz)"	"D"	1	200
+2276	1267	"Wurzel- und Knollengemüse (Durchschnitt), roh"	"D"	1	200
+2277	759	"Zampone"	"D"	1	200
+2278	759	"Gefüllter Schweinsfuss"	"D"	0	200
+2279	687	"Ziege (Durchschnitt), roh"	"D"	1	200
+2280	528	"Ziegenmilch"	"D"	1	200
+2281	506	"Ziger weiss"	"D"	1	200
+2282	876	"Zimtstern"	"D"	1	200
+2283	605	"Zitronensaft"	"D"	1	200
+2284	398	"Zitrone, roh"	"D"	1	200
+2285	1126	"Zitrusfrüchte (Durchschnitt), roh"	"D"	1	200
+2286	1031	"Zucchetti, gedünstet (ohne Zugabe von Fett und Salz)"	"D"	1	200
+2287	1031	"Zucchini"	"D"	0	200
+2288	1661	"Zucchetti-Piccata, zubereitet"	"D"	1	200
+2289	367	"Zucchetti, roh"	"D"	1	200
+2290	1657	"Zucchettischeiben, paniert, zubereitet"	"D"	1	200
+2291	471	"Zucker, braun"	"D"	1	200
+2292	465	"Zuckerhutsalat, roh"	"D"	1	200
+2293	632	"Zuckermais (Konserve)"	"D"	1	200
+2294	1033	"Zuckermais (Konserve), aufgewärmt (ohne Zugabe von Salz)"	"D"	1	200
+2295	470	"Zucker, weiss"	"D"	1	200
+2296	470	"Saccharose"	"D"	0	200
+2297	470	"Kristallzucker"	"D"	0	200
+2298	882	"Zuger Kirschtorte"	"D"	1	200
+2299	10378	"Zunge (Durchschnitt aus Kalb und Rind), roh"	"D"	1	200
+2300	1056	"Zwetschge, gedünstet, abgetropft (ohne Zugabe von Zucker)"	"D"	1	200
+2301	1529	"Zwetschgenkuchen, gebacken (mit Blätterteig)"	"D"	1	200
+2302	1529	"Zwetschgenwähe"	"D"	0	200
+2303	1531	"Zwetschgenkuchen, gebacken (mit Kuchenteig)"	"D"	1	200
+2304	479	"Zwetschge, roh"	"D"	1	200
+2305	930	"Zwieback"	"D"	1	200
+2306	929	"Zwieback, Vollkorn"	"D"	1	200
+2307	1035	"Zwiebel, gedünstet (ohne Zugabe von Fett und Salz)"	"D"	1	200
+2308	1036	"Zwiebel, geröstet (ohne Zugabe von Fett und Salz)"	"D"	1	200
+2309	1615	"Zwiebelkuchen, gebacken (mit Blätterteig)"	"D"	1	200
+2310	1615	"Zwiebelwähe"	"D"	0	200
+2311	1616	"Zwiebelkuchen, gebacken (mit Kuchenteig)"	"D"	1	200
+2312	368	"Zwiebel, roh"	"D"	1	200
+2313	1251	"Aberlour 10 years old Malt Scotch Whisky (43 vol%)"	"D"	1	200
+2314	1252	"Absolut Vodka (40 vol%)"	"D"	1	200
+2315	1253	"Amaro Ramazzotti (30 vol%)"	"D"	1	200
+2316	1254	"Ballantine's 12 years old blended Scotch Whisky (40 vol%)"	"D"	1	200
+2317	1255	"Ballantine's Finest blended Scotch Whisky (40 vol%)"	"D"	1	200
+2318	1159	"Bier, alkoholfrei (Durchschnitt Produktsortiment)"	"D"	1	200
+2319	1160	"Bier, Lager (Durchschnitt Produktsortiment)"	"D"	1	200
+2320	1145	"Calanda Lager (4.8 vol%)"	"D"	1	200
+2321	1146	"Calanda Lemon (2.4 vol%)"	"D"	1	200
+2322	1138	"Cardinal Lager (4.8 vol%)"	"D"	1	200
+2323	1155	"Cardinal sans alcool (<0.5 vol%)"	"D"	1	200
+2324	1156	"Carlsberg Alkoholfrei (<0.5 vol%)"	"D"	1	200
+2325	1139	"Carlsberg (Lagerbier, 5 vol%)"	"D"	1	200
+2326	1256	"Chivas Regal 12 years old blended Scotch Whisky (40 vol%)"	"D"	1	200
+2327	1153	"Clausthaler Classic (0.45 vol%)"	"D"	1	200
+2328	1154	"Clausthaler Extra Herb (0.45 vol%)"	"D"	1	200
+2329	1157	"Eichhof Alkoholfrei (0.4 vol%)"	"D"	1	200
+2330	1147	"Eichhof Hubertus (Spezialbier dunkel, 6 vol%)"	"D"	1	200
+2331	1148	"Eichhof Klosterbräu (Spezialbier Zwickel trüb, 5.1 vol%)"	"D"	1	200
+2332	1149	"Eichhof Lager (4.8 vol%)"	"D"	1	200
+2333	13435	"Energy Drink, gezuckert  (Durchschnitt von Markenprodukten)"	"D"	1	200
+2334	13436	"Energy Drink, mit Süssstoffen (Durchschnitt von Markenprodukten)"	"D"	1	200
+2335	1140	"Feldschlösschen 2.4 (Leichtbier, 2.4 vol%)"	"D"	1	200
+2336	1158	"Feldschlösschen Alkoholfrei (<0.5 vol%)"	"D"	1	200
+2337	1141	"Feldschlösschen Bügel (Lagerbier, 4.8 vol%)"	"D"	1	200
+2338	1142	"Feldschlösschen Hopfenperle (Spezialbier hell, 5.2 vol%)"	"D"	1	200
+2339	1143	"Feldschlösschen Original (Lagerbier, 4.8 vol%)"	"D"	1	200
+2340	1144	"Feldschlösschen Urtrüb (3-Kornbier naturtrüb, 5 vol%)"	"D"	1	200
+2341	1257	"Four Roses Bourbon (40 vol%)"	"D"	1	200
+2342	1258	"Glenlivet 12 years old Malt Scotch Whisky (40 vol%)"	"D"	1	200
+2343	1259	"Grappa Fior di Vite Ramazzotti (40 vol%)"	"D"	1	200
+2344	13430	"Hafer Drink, nature, Calcium angereichert (Durchschnitt von Markenprodukten)"	"D"	1	200
+2345	13426	"Hafer Drink, nature (Durchschnitt von Markenprodukten)"	"D"	1	200
+2346	1260	"Havana Club Anejo Reserva (40 vol%)"	"D"	1	200
+2347	1150	"Heineken Lager (5 vol%)"	"D"	1	200
+2348	1151	"Ittinger (Spezialbier Amber, 5.6 vol%)"	"D"	1	200
+2349	1261	"Jameson Irish Whiskey (40 vol%)"	"D"	1	200
+2350	13425	"Joghurt, nach griechischer Art, mit Rahm, nature (Durchschnitt von Markenprodukten)"	"D"	1	200
+2351	1262	"Malibu Coconut (21 vol%)"	"D"	1	200
+2352	13434	"Malzgetränk mit Kakao, Vitamine und Mineralien angereichert, pulver (Durchschnitt von Mark"	"D"	1	200
+2353	13433	"Mandel Drink, nature, Calcium und Vitaminen angereichert (Durchschnitt von Markenprodukten"	"D"	1	200
+2354	13428	"Mandel Drink, nature (Durchschnitt von Markenprodukten)"	"D"	1	200
+2355	538	"Mineralwasser Adelbodner"	"D"	1	200
+2356	1171	"Mineralwasser Adello"	"D"	1	200
+2357	540	"Mineralwasser Allegra (Malix)"	"D"	1	200
+2358	1096	"Mineralwasser Appenzell (Gontenbad)"	"D"	1	200
+2359	73	"Mineralwasser Aproz (Aproz)"	"D"	1	200
+2360	104	"Mineralwasser Aquella (Bouillets)"	"D"	1	200
+2361	541	"Mineralwasser Arkina"	"D"	1	200
+2362	1178	"Mineralwasser Badoit (St Galmier)"	"D"	1	200
+2363	1172	"Mineralwasser Cristallo (Lostorf)"	"D"	1	200
+2364	1046	"Mineralwasser Cristalp (Saxon)"	"D"	1	200
+2365	1044	"Mineralwasser Elmer"	"D"	1	200
+2366	48	"Mineralwasser Eptinger"	"D"	1	200
+2367	521	"Mineralwasser Evian (Cachat)"	"D"	1	200
+2368	522	"Mineralwasser Henniez"	"D"	1	200
+2369	1173	"Mineralwasser Knutwiler"	"D"	1	200
+2370	523	"Mineralwasser Passugger (Theophilquelle)"	"D"	1	200
+2371	537	"Mineralwasser Rhäzünser"	"D"	1	200
+2372	525	"Mineralwasser San Pellegrino"	"D"	1	200
+2373	1095	"Mineralwasser Valais (Montis)"	"D"	1	200
+2374	45	"Mineralwasser Valser Classic/Naturelle (St. Petersquelle)"	"D"	1	200
+2375	1047	"Mineralwasser Valser Silence (St. Paulsquelle)"	"D"	1	200
+2376	1179	"Mineralwasser Vichy-Célestins"	"D"	1	200
+2377	550	"Mineralwasser Volvic"	"D"	1	200
+2378	548	"Mineralwasser Zurzacher"	"D"	1	200
+2379	11525	"Naturaplan Bio Bier naturtrüb alkoholfrei <0.5 vol% (Coop)"	"D"	1	200
+2380	1263	"Pastis 51 de Marseille (45 vol%)"	"D"	1	200
+2381	13429	"Reis Drink, nature, Calcium angereichert (Durchschnitt von Markenprodukten)"	"D"	1	200
+2382	13427	"Reis Drink, nature (Durchschnitt von Markenprodukten)"	"D"	1	200
+2383	1264	"Sandeman Ruby Porto (20 vol%)"	"D"	1	200
+2384	13431	"Soja Drink, nature, Calcium angereichert (Durchschnitt von Markenprodukten)"	"D"	1	200
+2385	13432	"Soja Drink, nature, Calcium und Vitaminen angereichert (Durchschnitt von Markenprodukten)"	"D"	1	200
+2386	13422	"Sojasauce (Durchschnitt von Markenprodukten)"	"D"	1	200
+2387	1265	"Suze (20 vol%)"	"D"	1	200
+2388	13421	"Vanille Zucker (Durchschnitt von Markenprodukten)"	"D"	1	200
+2389	1266	"Wodka Wyborowa (40 vol%)"	"D"	1	200
+2390	13424	"Worcester Sauce (Durchschnitt von Markenprodukten)"	"D"	1	200
+2391	379	"Abricot, cru"	"0"	1	200
+2392	1051	"Abricot, cuit,  égoutté (sans adjonction de sucre)"	"F"	1	200
+2393	623	"Abricot, non sucré, conserve"	"F"	1	200
+2394	469	"Abricot, sec"	"F"	1	200
+2395	621	"Abricot, sucré, conserve"	"F"	1	200
+2396	10533	"Agar Agar"	"F"	1	200
+2397	5	"Agneau, côtelette, crue (Suisse)"	"F"	1	200
+2398	675	"Agneau, filet, cru"	"F"	1	200
+2399	17	"Agneau, filet, cru (Australie, Nouvelle-Zélande)"	"F"	1	200
+2400	17	"Coquille"	"F"	0	200
+2401	13273	"Agneau, filet, grillé à point (sans adjonction de graisse ni de sel)"	"F"	1	200
+2402	4	"Agneau, gigot, cru (Suisse, Nouvelle-Zélande)"	"F"	1	200
+2403	13304	"Agneau, gigot, rôti (sans adjonction de graisse ni de sel)"	"F"	1	200
+2404	1110	"Agneau/mouton (moyenne sans abats ni côtelette), cru"	"F"	1	200
+2405	18	"Agneau, rack, crue (Australie, Nouvelle-Zélande)"	"F"	1	200
+2406	19	"Agneau, ragoût, cru (Suisse)"	"F"	1	200
+2407	1126	"Agrume (moyenne), crue"	"F"	1	200
+2408	356	"Ail, cru"	"F"	1	200
+2409	987	"Airelle rouge, crue"	"F"	1	200
+2410	273	"Amande"	"-"	1	200
+2411	269	"Amande, grillée, salée"	"n"	1	200
+2412	278	"Amande, grillée sans graisse, salée"	"F"	1	200
+2414	13398	"Amarante, grain, cuit (sans adjonction de graisse ni de sel)"	"F"	1	200
+2415	868	"Amaretti (biscuits aux amandes)"	"F"	1	200
+2416	897	"Amidon de blé"	"F"	1	200
+2417	897	"Amidon de froment"	"F"	0	200
+2418	377	"Ananas, cru"	"3"	1	200
+2419	618	"Ananas, non sucré , conserve"	"F"	1	200
+2420	617	"Ananas, sucré, conserve"	"F"	1	200
+2421	414	"Anchois à l'huile, égouttée"	"F"	1	200
+2424	1024	"Asperge, à la vapeur (sans adjonction de sel)"	"F"	1	200
+2425	443	"Asperge, crue"	"F"	1	200
+2426	1003	"Aubergine, à l'étuvée (sans adjonction de graisse ni de sel)"	"F"	1	200
+2428	380	"Avocat, cru"	"n"	1	200
+2429	198	"Avoine, flocons"	"F"	1	200
+2430	529	"Babeurre"	"F"	1	200
+2431	845	"Baguette parisienne"	"F"	1	200
+2432	436	"Baie de sureau noir, crue"	"F"	1	200
+2433	1119	"Baie (moyenne), crue"	"F"	1	200
+2434	1122	"Baie (moyenne), cuite (sans adjonction de sucre)"	"F"	1	200
+2435	1577	"Bami Goreng, préparé"	"F"	1	200
+2437	740	"Banane, déshydratée (chips)"	"F"	1	200
+2438	741	"Banane, mi-sèche"	"F"	1	200
+2439	741	"Banane, séchée"	"F"	0	200
+2440	464	"Basilic, cru"	"F"	1	200
+2441	773	"Bâtonnet de poisson, pané et préfrit"	"F"	1	200
+2442	1169	"Bâtonnet de poisson (pané et préfrit), au four (sans adjonction de graisse)"	"F"	1	200
+2443	1168	"Bâtonnet de poisson (pané et préfrit), grillé au colza HOLL"	"F"	1	200
+2444	871	"Bâtonnets aux noisettes"	"F"	1	200
+2445	1212	"Berner Hobelkäse (fromage à rebibes)"	"F"	1	200
+2446	1016	"Bette, à la vapeur (sans adjonction de sel)"	"F"	1	200
+2447	450	"Bette, crue"	"2"	1	200
+2448	450	"Côte de bette"	"2"	0	200
+2449	1019	"Betterave rouge, à la vapeur (sans adjonction se sel)"	"F"	1	200
+2450	451	"Betterave rouge, crue"	"N"	1	200
+2451	451	"Racine rouge"	"N"	0	200
+2452	50	"Beurre à rôtir"	"F"	1	200
+2453	751	"Beurre d'arachides"	"F"	1	200
+2454	751	"Beurre de cacahuète"	"F"	0	200
+2455	583	"Beurre de cacao"	"F"	1	200
+2457	51	"Beurre de cuisine"	"F"	1	200
+2458	60	"Beurre de fromagerie"	"F"	1	200
+2459	191	"Beurre mi-gras"	"F"	1	200
+2460	859	"Biber"	"F"	1	200
+2461	817	"Bière aux cinq céréales"	"F"	1	200
+2462	816	"Bière blonde"	"F"	1	200
+2463	1183	"Bière panachée (moyenne)"	"F"	1	200
+2464	13420	"Bière, sans alcool"	"F"	1	200
+2465	1198	"Birchermüesli, préparé (non sucré)"	"F"	1	200
+2466	930	"Biscottes"	"F"	1	200
+2467	930	"Zwieback"	"F"	0	200
+2468	929	"Biscottes complètes"	"F"	1	200
+2469	903	"Biscuits aux noisettes"	"F"	1	200
+2470	604	"Blanc battu aux fruits, édulcoré"	"F"	1	200
+2471	13395	"Blanc battu, nature, maigre"	"N"	1	200
+2472	411	"Blanc d'oeuf, cru"	"F"	1	200
+2473	939	"Blé, flocons complets"	"F"	1	200
+2474	734	"Blé tendre, grains entiers"	"F"	1	200
+2475	734	"Froment"	"F"	0	200
+2476	35	"Boeuf, bouilli, entremêlé, cru"	"F"	1	200
+2477	13291	"Boeuf, bouilli entremêlé, cuit (sans adjonction de graisse ni de sel)"	"F"	1	200
+2478	36	"Boeuf, bouilli, maigre, cru"	"F"	1	200
+2479	13292	"Boeuf, bouilli maigre, cuit (sans adjonction de graisse ni de sel)"	"F"	1	200
+2480	640	"Boeuf, coin, tranche, cru"	"F"	1	200
+2481	648	"Boeuf, cou, ragoût (goulache), cru"	"F"	1	200
+2482	37	"Boeuf, émincé, cru"	"1"	1	200
+2483	720	"Boeuf, entrecôte, cru"	"F"	1	200
+2484	30	"Boeuf, entrecôte, cru (Suisse)"	"F"	1	200
+2485	31	"Boeuf, entrecôte, cru (USA)"	"F"	1	200
+2486	13258	"Boeuf, entrecôte, grillée à point (sans adjonction de graisse ni sel)"	"F"	1	200
+2487	32	"Boeuf, entrecôte parisienne, cru (Suisse)"	"F"	1	200
+2488	33	"Boeuf, entrecôte parisienne, cru (USA)"	"F"	1	200
+2489	1075	"Boeuf, épaule, rôti au four à point (sans adjonction de graisse ni de sel)"	"F"	1	200
+2490	1076	"Boeuf, épaule, rôti au four bien cuit (sans adjonction de graisse ni de sel)"	"F"	1	200
+2491	1074	"Boeuf, épaule, rôti au four, saignant (sans adjonction de graisse ni de sel)"	"F"	1	200
+2492	638	"Boeuf, épaule, rôti, crue"	"F"	1	200
+2493	639	"Boeuf, filet, cru"	"F"	1	200
+2494	13262	"Boeuf, filet, grillé à point (sans adjonction de graisse ni sel)"	"F"	1	200
+2495	657	"Boeuf, foie, cru"	"F"	1	200
+2496	6	"Boeuf, haché, cru"	"1"	1	200
+2497	13297	"Boeuf, hâché, grillé (sans adjonction de graisse ni de sel)"	"F"	1	200
+2498	656	"Boeuf, langue, crue"	"F"	1	200
+2499	34	"Boeuf, pièce ronde, tranche, cru"	"F"	1	200
+2500	719	"Boeuf, poitrine, cru"	"F"	1	200
+2501	1072	"Boeuf, poitrine, cuit (sans adjonction de graisse ni de sel)"	"F"	1	200
+2502	38	"Boeuf, ragoût, cru"	"F"	1	200
+2503	72	"Boisson de soja, nature"	"N"	1	200
+2504	72	"Lait de soja"	"N"	0	200
+2505	1040	"Bolet, à l'étuvée (sans adjonction de graisse ni de sel)"	"F"	1	200
+2506	455	"Bolet, cru"	"F"	1	200
+2507	455	"Cèpe"	"F"	0	200
+2508	952	"Bonbon dur"	"F"	1	200
+2509	951	"Bonbon gélifié à l'arome de fruit"	"F"	1	200
+2510	1272	"Bonhomme en pâte"	"F"	1	200
+2511	778	"Boudin"	"F"	1	200
+2512	776	"Boudin blanc"	"F"	1	200
+2513	776	"Saucisse grise"	"F"	0	200
+2514	664	"Bouillon de légumes, preparé"	"F"	1	200
+2515	665	"Bouillon de poule, preparé"	"F"	1	200
+2516	668	"Bouillon de viande, preparé"	"F"	1	200
+2517	791	"Boule de Bâle"	"F"	1	200
+2518	851	"Boule de Berlin"	"F"	1	200
+2519	705	"Bresaola"	"F"	1	200
+2520	947	"Bretzel, sticks salés, secs"	"F"	1	200
+2522	613	"Brie, gras"	"F"	1	200
+2523	416	"Brochet, cru"	"F"	1	200
+2524	1005	"Brocoli, à la vapeur (sans adjonction de sel)"	"F"	1	200
+2526	864	"Brun de Bâle"	"F"	1	200
+2527	843	"Bürli de St. Gall (farine mi-blanche)"	"F"	1	200
+2528	13350	"Cabillaud, filet, à la vapeur (sans adjonction de graisse ni de sel)"	"F"	1	200
+2529	282	"Cacahuète"	"2"	1	200
+2530	282	"Arachide"	"2"	0	200
+2531	407	"Cacahuète, grillée"	"F"	1	200
+2532	581	"Cacao en poudre"	"F"	1	200
+2533	1186	"Café au lait (claire), non sucré"	"F"	1	200
+2534	1186	"Renversé"	"F"	0	200
+2535	1185	"Café au lait (foncé), non sucré"	"F"	1	200
+2536	1185	"Renversé"	"F"	0	200
+2537	1187	"Café au lait, non sucré"	"F"	1	200
+2538	1187	"Renversé"	"F"	0	200
+2539	1188	"Café crème, non sucré"	"F"	1	200
+2540	983	"Café instantané, poudre"	"F"	1	200
+2541	994	"Café, noir, non sucré"	"F"	1	200
+2542	877	"Cake financier"	"F"	1	200
+2543	898	"Cake marbré"	"F"	1	200
+2544	887	"Cake tyrolien"	"F"	1	200
+2545	764	"Calamar, cru"	"F"	1	200
+2546	10486	"Calimocho (Vin rouge avec cola)"	"F"	1	200
+2548	614	"Camembert, gras"	"F"	1	200
+2550	1644	"Cannellonis à la viande, préparés"	"F"	1	200
+2551	1646	"Cannellonis aux épinards à la ricotta, préparés"	"F"	1	200
+2552	1121	"Cappuccino (sans poudre de chocolat), non sucré"	"F"	1	200
+2553	1692	"Capuns, préparés"	"F"	1	200
+2554	954	"Caramel mou"	"F"	1	200
+2555	953	"Caramel mou à la crème"	"F"	1	200
+2556	1002	"Carotte, à la vapeur (sans adjonction de sel)"	"F"	1	200
+2557	355	"Carotte, crue"	"-"	1	200
+2558	701	"Carré (filet), cru"	"F"	1	200
+2559	415	"Carrelet, cru"	"F"	1	200
+2560	415	"Plie"	"F"	0	200
+2561	392	"Cassis, cru"	"F"	1	200
+2562	1026	"Céleri branche, à la vapeur (sans adjonction de sel)"	"F"	1	200
+2563	366	"Céleri branche, cru"	"F"	1	200
+2564	1013	"Céleri-rave, à la vapeur (sans adjonction de sel)"	"F"	1	200
+2565	357	"Céleri-rave, cru"	"F"	1	200
+2566	357	"Céleri pomme"	"F"	0	200
+2567	12	"Cerf, entrecôte, crue"	"F"	1	200
+2568	487	"Cerf (moyenne), cru"	"F"	1	200
+2569	394	"Cerise, crue"	"n"	1	200
+2570	1052	"Cerise, cuite,  égouttée (sans adjonction de sucre)"	"F"	1	200
+2572	1037	"Champignon, à l'étuvée (sans adjonction de graisse ni de sel)"	"F"	1	200
+2573	375	"Champignon, cru"	"0"	1	200
+2574	629	"Champignons de Paris, conserve"	"F"	1	200
+2575	1129	"Champignons (moyenne), à l'étuvée (sans adjonction de graisse ni de sel)"	"F"	1	200
+2576	1128	"Champignons (moyenne), crus"	"F"	1	200
+2577	1038	"Chanterelle, à l'étuvée (sans adjonction de graisse ni de sel)"	"F"	1	200
+2578	376	"Chanterelle, crue"	"F"	1	200
+2579	750	"Chapelure"	"F"	1	200
+2580	750	"Panure"	"F"	0	200
+2581	1092	"Charcuterie  de volaille"	"F"	1	200
+2582	10353	"Charcuterie (moyenne)"	"F"	1	200
+2583	272	"Châtaigne, crue"	"n"	1	200
+2584	862	"Chausson aux poires"	"F"	1	200
+2585	685	"Cheval, filet, cru"	"F"	1	200
+2586	13328	"Cheval, filet, grillé à point (sans adjonction de graisse ni de sel)"	"F"	1	200
+2587	687	"Chèvre (moyenne), crue"	"F"	1	200
+2588	29	"Chevreuil, escalope, cru"	"F"	1	200
+2589	488	"Chevreuil (moyenne), crue"	"F"	1	200
+2590	28	"Chevreuil, ragoût (civet), cru"	"F"	1	200
+2591	465	"Chicorée pain de sucre, crue"	"F"	1	200
+2596	1648	"Chili con carne, préparé"	"F"	1	200
+2597	932	"Chips de maïs"	"F"	1	200
+2598	195	"Chocolat au lait"	"F"	1	200
+2599	612	"Chocolat au lait, avec noisettes"	"F"	1	200
+2600	643	"Chocolat au lait, avec nougat aux amandes et au miel"	"F"	1	200
+2601	641	"Chocolat au lait avec raisins secs, noisettes et amandes"	"F"	1	200
+2602	642	"Chocolat au lait, fourré à la crème de noisettes"	"F"	1	200
+2603	642	"Branche"	"F"	0	200
+2604	655	"Chocolat au lait fourré à la crème (Gianduja, Nougat)"	"F"	1	200
+2605	654	"Chocolat au lait fourré à lâ€˜alcool"	"F"	1	200
+2606	197	"Chocolat blanc"	"F"	1	200
+2607	960	"Chocolat en poudre"	"F"	1	200
+2608	196	"Chocolat noir"	"F"	1	200
+2609	1028	"Chou blanc, à la vapeur (sans adjonction de sel)"	"F"	1	200
+2610	1029	"Chou blanc, à l'étuvée (sans adjonction de graisse ni de sel)"	"F"	1	200
+2611	453	"Chou blanc, cru"	"F"	1	200
+2612	647	"Choucroute, mariné dans du vinaigre"	"F"	1	200
+2613	1021	"Chou de Bruxelles, à la vapeur (sans adjonction de sel)"	"F"	1	200
+2614	363	"Chou de Bruxelles, cru"	"F"	1	200
+2615	1007	"Chou de Chine, à l'étuvée (sans adjonction de graisse ni de sel)"	"F"	1	200
+2616	437	"Chou de Chine, cru"	"F"	1	200
+2617	437	"Chou chinois"	"F"	0	200
+2618	1004	"Chou-fleur, à la vapeur (sans adjonction de sel)"	"F"	1	200
+2620	1030	"Chou frisé, à la vapeur (sans adjonction de sel)"	"F"	1	200
+2621	454	"Chou frisé (pommé), cru"	"F"	1	200
+2622	13401	"Chou plume, à l'étuvée (sans adjonction de sel ni de graisse)"	"F"	1	200
+2623	13401	"Chou frisé non pommé"	"F"	0	200
+2624	13400	"Chou plume, cru"	"1"	1	200
+2625	13400	"Chou frisé non pommé"	"1"	0	200
+2626	1014	"Chou-pomme, à la vapeur (sans adjonction de sel)"	"F"	1	200
+2627	1014	"Chou-rave"	"F"	0	200
+2630	1022	"Chou rouge, à l'étuvée (sans adjonction de graisse ni de sel)"	"F"	1	200
+2631	364	"Chou rouge, cru"	"3"	1	200
+2632	374	"Ciboulette, crue"	"F"	1	200
+2633	512	"Cidre de pomme, 4 vol%"	"F"	1	200
+2634	513	"Cidre de pomme, 6.2 vol%"	"F"	1	200
+2635	398	"Citron, cru"	"F"	1	200
+2636	1498	"Cocktail au crevette, préparé"	"F"	1	200
+2637	874	"Coeurs de France"	"F"	1	200
+2638	476	"Coing, cru"	"F"	1	200
+2639	1055	"Coing, cuit, égoutté (sans adjonction de sucre)"	"F"	1	200
+2640	636	"Concentré de tomates"	"F"	1	200
+2641	636	"Purée de tomates"	"F"	0	200
+2643	696	"Confiture"	"F"	1	200
+2644	697	"Confiture, avec valeur énergétique réduite, édulcorée"	"F"	1	200
+2645	715	"Coppa"	"F"	1	200
+2646	917	"Coquin (Sablés à la confiture)"	"F"	1	200
+2647	1650	"Cordon bleu de porc, sauté"	"F"	1	200
+2648	1649	"Cordon bleu de veau, sauté"	"F"	1	200
+2649	211	"Corégone / Lavaret, cru"	"F"	1	200
+2650	211	"Féra"	"F"	0	200
+2651	940	"Cornflakes"	"F"	1	200
+2652	491	"Cornichon au vinaigre"	"F"	1	200
+2653	758	"Cotechino"	"F"	1	200
+2654	13322	"Côtelette (moyenne de veau, boeuf, agneau), grillée (sans adjonction de graisse ni de sel)"	"F"	1	200
+2655	1107	"Côtelette (moyenne de veau, porc, agneau), crue"	"2"	1	200
+2658	1093	"Cotto (produit à base de viande)"	"F"	1	200
+2659	1020	"Courge, à la vapeur (sans adjonction de sel)"	"F"	1	200
+2660	480	"Courge, crue"	"n"	1	200
+2661	480	"Potiron"	"n"	0	200
+2662	1031	"Courgette, à la vapeur (sans sel ni graisse)"	"F"	1	200
+2663	367	"Courgette, crue"	"n"	1	200
+2664	950	"Crackers, biscuits salés"	"F"	1	200
+2665	69	"Crème à café UHT"	"F"	1	200
+2668	13413	"Crème à la vanille, cuite"	"F"	1	200
+2669	807	"Crème au chocolat"	"F"	1	200
+2670	10532	"Crème d'anchois"	"F"	1	200
+2671	1195	"Crème (en moyenne)"	"F"	1	200
+2672	65	"Crème entière, pasteurisée"	"O"	1	200
+2674	694	"Crème glacée, aux fruits"	"F"	1	200
+2675	694	"Glace"	"F"	0	200
+2676	1489	"Crêpes au camembert, préparés"	"F"	1	200
+2677	1495	"Crêpes au jambon, préparés"	"F"	1	200
+2678	1496	"Crêpes au lard, préparés"	"F"	1	200
+2679	1494	"Crêpes au Nutella, préparés"	"F"	1	200
+2680	1488	"Crêpes au sucre et cannelle, préparés"	"F"	1	200
+2681	1491	"Crêpes aux champignons, préparés"	"F"	1	200
+2682	1493	"Crêpes aux légumes, préparés"	"F"	1	200
+2683	1487	"Crêpes nature, préparés"	"F"	1	200
+2684	371	"Cresson, cru"	"F"	1	200
+2685	766	"Crevette, crue"	"F"	1	200
+2686	1497	"Crevette, cuite"	"F"	1	200
+2687	834	"Croissant au beurre, complet"	"F"	1	200
+2688	914	"Croissant aux noisette, pâte levée"	"F"	1	200
+2689	913	"Croissant aux noisettes, pâte feuilletée"	"F"	1	200
+2690	836	"Croissant blanc au beurre"	"F"	1	200
+2691	835	"Croissant de Sils"	"F"	1	200
+2692	10406	"Croissant (moyenne)"	"F"	1	200
+2693	1601	"Croûte au fromage, préparée"	"F"	1	200
+2694	1099	"Crustacé, cru (moyen)"	"F"	1	200
+2696	67	"Demi-crème, pasteurisée"	"2"	1	200
+2697	68	"Demi-crème, UHT"	"2"	1	200
+2699	713	"Dinde, poitrine, escalope ou émincé, crue"	"1"	1	200
+2700	13275	"Dinde, poitrine, escalope ou émincé, grillée (sans adjonction de graisse ni de sel)"	"F"	1	200
+2701	798	"Double crème, pasteurisée"	"F"	1	200
+2702	10535	"Dulce de Leche"	"F"	1	200
+2703	10535	"Confiture au lait"	"F"	0	200
+2704	520	"Eau-de-vie de canne à sucre (p.ex. Rhum)"	"F"	1	200
+2705	518	"Eau-de-vie de céréales, 40% vol (p.ex. Whisky)"	"F"	1	200
+2706	644	"Eau-de-vie de cerises (Kirsch)"	"F"	1	200
+2707	519	"Eau-de-vie de vin (p. ex. Cognac, brandy)"	"F"	1	200
+2708	47	"Eau potable (en moyenne en Suisse)"	"F"	1	200
+2709	646	"Eaux-de-vie, 40 vol% (p.ex. Vodka, Gin)"	"F"	1	200
+2710	13318	"Emincé (moyenne de veau, boeuf, porc, volaille), grillée (sans adjonction de graisse ni de"	"F"	1	200
+2711	555	"Emmentaler, gras"	"n"	1	200
+2712	1006	"Endive, à la vapeur (sans adjonction de sel)"	"F"	1	200
+2713	1006	"Chicorée de Bruxelles"	"F"	0	200
+2714	447	"Endive, crue"	"0"	1	200
+2715	447	"Chicorée de Bruxelles"	"0"	0	200
+2716	1025	"Épinard, à la vapeur (sans adjonction de sel)"	"F"	1	200
+2717	365	"Épinard, cru"	"n"	1	200
+2718	1681	"Escalope de veau, grillée au colza HOLL"	"F"	1	200
+2719	1101	"Escalope (moyenne de veau, boeuf, porc, poulet), crue"	"O"	1	200
+2720	13319	"Escalope (moyenne de volaille, veau, boeuf, porc), grillée (sans adjonction de graisse ni "	"F"	1	200
+2721	915	"Escargot aux noisette, pâte levée"	"F"	1	200
+2722	876	"Etoiles à la cannelle"	"F"	1	200
+2723	1190	"Expresso crème, non sucré"	"F"	1	200
+2724	1399	"Farine à spätzli"	"F"	1	200
+2725	1136	"Farine claire (moyenne)"	"F"	1	200
+2726	206	"Farine de blé, complète, type 1700"	"F"	1	200
+2727	206	"Froment"	"F"	0	200
+2728	203	"Farine de blé (farine bise), type 1100"	"F"	1	200
+2731	205	"Farine de blé (farine fleur), type 400"	"F"	1	200
+2732	207	"Farine de blé (farine mi-blanche), type 720"	"F"	1	200
+2733	1041	"Farine d'épeautre bise, type 1100"	"F"	1	200
+2734	1043	"Farine d'épeautre blanche, type 550"	"F"	1	200
+2735	1042	"Farine d'épeautre, complète, type 1900"	"2"	1	200
+2736	420	"Farine de sarrasin"	"N"	1	200
+2737	420	"Blé noir"	"N"	0	200
+2738	749	"Farine de seigle, complète egrugée, type 1800"	"F"	1	200
+2739	752	"Farine de seigle, type 1050"	"N"	1	200
+2740	748	"Farine de seigle, type 815"	"F"	1	200
+2741	996	"Farine de soja, dégraissée"	"F"	1	200
+2742	995	"Farine de soja, entière"	"F"	1	200
+2743	1135	"Farine (moyenne)"	"F"	1	200
+2744	426	"Fécule de maïs"	"F"	1	200
+2745	426	"Amidon de maîs"	"F"	0	200
+2746	497	"Fécule de pommes de terre"	"F"	1	200
+2747	497	"Amidon de pommes de terre"	"F"	0	200
+2748	1008	"Fenouil, à la vapeur (sans adjonction de sel)"	"F"	1	200
+2749	352	"Fenouil, cru"	"N"	1	200
+2752	924	"Feuilleté à la crème"	"F"	1	200
+2753	1061	"Fève de soja, cuite (sans adjonction de graisse ni de sel)"	"F"	1	200
+2754	442	"Fève de soja, sèche"	"F"	1	200
+2755	386	"Figue, crue"	"F"	1	200
+2757	809	"Flan à la vanille"	"F"	1	200
+2758	809	"Pouding"	"F"	0	200
+2759	806	"Flan au caramel"	"F"	1	200
+2760	810	"Flan au chocolat"	"F"	1	200
+2761	753	"Flétan, cru"	"F"	1	200
+2762	481	"Flet, cru"	"F"	1	200
+2763	13351	"Flet, filet, à la vapeur (sans adjonction de graisse ni de sel)"	"F"	1	200
+2764	681	"Flips aux cacahuètes"	"F"	1	200
+2765	1696	"Flocons de céréales (moyenne)"	"F"	1	200
+2766	860	"Flocons de pomme de terre, avec poudre de lait et sel (purée instantanée)"	"F"	1	200
+2767	928	"Flûte feuilletté"	"F"	1	200
+2768	13320	"Foie (moyenne de boeuf, veau, porc, volaille), grillé (sans adjonction de graisse ni de se"	"F"	1	200
+2769	10377	"Foie (moyenne de veau, boeuf, porc, poulet), cru"	"O"	1	200
+2770	797	"Fondue classique, préparé"	"F"	1	200
+2771	1475	"Fondue moitié-moitié, préparé"	"F"	1	200
+2772	1476	"Fondue sans alcool, préparé"	"F"	1	200
+2773	385	"Fraise, crue"	"9"	1	200
+2774	390	"Framboise, crue"	"9"	1	200
+2775	818	"Frites au four, surgelées"	"F"	1	200
+2776	13392	"Fromage affiné à pâte molle, à la crème"	"-"	1	200
+2777	13391	"Fromage affiné à pâte molle, gras"	"9"	1	200
+2778	1193	"Fromage à pâte dure et mi-dure, grasse (en moyenne)"	"F"	1	200
+2779	631	"Fromage à pâte molle, double crème"	"F"	1	200
+2780	1197	"Fromage à pâte molle (en moyenne sans produits en matières grasses reduites)"	"F"	1	200
+2782	507	"Fromage aux herbes glaronnais"	"F"	1	200
+2783	507	"Schabziger"	"F"	0	200
+2784	1191	"Fromage bleu (moyenne)"	"F"	1	200
+2785	1211	"Fromage des alpes bernoises"	"F"	1	200
+2786	1084	"Fromage d'Italie"	"F"	1	200
+2787	565	"Fromage fondu à tartiner, à la crème"	"F"	1	200
+2788	561	"Fromage fondu à tartiner, au lait entier"	"F"	1	200
+2789	560	"Fromage fondu à tartiner, quart-gras"	"F"	1	200
+2790	563	"Fromage fondu en tranches, à la crème"	"F"	1	200
+2793	567	"Fromage frais, double crème"	"F"	1	200
+2794	1196	"Fromage râpé"	"F"	1	200
+2795	986	"Fruit de la passion, cru"	"F"	1	200
+2796	986	"Grenadille"	"F"	0	200
+2797	1123	"Fruit (moyenne), cru"	"F"	1	200
+2798	1124	"Fruit (moyenne), cuit (sans adjonction de sucre)"	"F"	1	200
+2799	1120	"Fruits (moyenne), séchés"	"F"	1	200
+2800	802	"Gallette de riz complet"	"F"	1	200
+2801	901	"Gateau au beurre"	"F"	1	200
+2802	1543	"Gateau au fromage, cuit au four (pâte à gateau)"	"F"	1	200
+2803	1544	"Gateau au fromage, cuit au four (pâte feuilletée)"	"F"	1	200
+2804	902	"Gateau au noix d' Engadine"	"F"	1	200
+2805	916	"Gateau aux carottes"	"F"	1	200
+2806	1566	"Gateau aux épinards, cuit au four (pâte à gateau)"	"F"	1	200
+2807	1567	"Gateau aux épinards, cuit au four (pâte feuilletée)"	"F"	1	200
+2808	1616	"Gateau aux oignons, cuit au four (pâte à gateau)"	"F"	1	200
+2809	1615	"Gateau aux oignons, cuit au four (pâte feuilletée)"	"F"	1	200
+2810	1617	"Gateau aux tomates, cuit au four (pâte feuilletée)"	"F"	1	200
+2811	1618	"Gateu aux tomates, cuit au four (pâte à gateau)"	"F"	1	200
+2812	1090	"Gendarme"	"F"	1	200
+2814	1125	"Gibier (moyenne), cru"	"F"	1	200
+2815	13281	"Gibier (moyenne), cuit (sans adjonction de graisse ni de sel)"	"F"	1	200
+2816	893	"Glace à l'eau"	"F"	1	200
+2818	276	"Graine de courge"	"n"	1	200
+2819	277	"Graine de lin"	"4"	1	200
+2820	280	"Graine de sésame"	"n"	1	200
+2821	281	"Graine de tournesol"	"-"	1	200
+2822	1170	"Graines oléagineuses (moyenne), non salés"	"F"	1	200
+2823	1170	"Fruits à coque"	"F"	0	200
+2824	708	"Graisse de palme - Huile de palme"	"F"	1	200
+2825	1580	"Gratin de légumes, cuit au four"	"F"	1	200
+2826	1611	"Gratin de pâtes au jambon, préparé"	"F"	1	200
+2827	1599	"Gratin de pommes de terre dauphinois, préparé"	"F"	1	200
+2828	1600	"Gratin de pommes de terre savoyard, préparé"	"F"	1	200
+2829	400	"Groseille à maquereau, crue"	"F"	1	200
+2830	391	"Groseille rouge, crue"	"F"	1	200
+2831	391	"Raisinet"	"F"	0	200
+2833	1583	"Hamburger (boeuf), grillé au colza HOLL"	"F"	1	200
+2834	13388	"Haricot commun (tout type), grain mature, cuit (sans adjonction de graisse ni de sel)"	"F"	1	200
+2835	13387	"Haricot commun (tout type), grain mature, sec"	"-"	1	200
+2836	13387	"Haricot blanc"	"-"	0	200
+2837	1009	"Haricot (vert), à la vapeur (sans adjonction de sel)"	"F"	1	200
+2838	353	"Haricot vert, cru"	"F"	1	200
+2839	473	"Haricot (vert) sec, cru"	"2"	1	200
+2840	1590	"Hot Dog en pain blanc avec ketchup et moutarde"	"F"	1	200
+2841	596	"Huile d'arachide"	"2"	1	200
+2842	589	"Huile de chardon"	"F"	1	200
+2843	589	"Huile de carthame"	"F"	0	200
+2844	601	"Huile de coco"	"F"	1	200
+2845	600	"Huile de colza"	"2"	1	200
+2846	1069	"Huile de colza HOLL (high oleic, low linolenic)"	"F"	1	200
+2847	593	"Huile de germes de blé"	"F"	1	200
+2848	13404	"Huile de graines de courge"	"F"	1	200
+2849	13405	"Huile de lin, pressée à froid"	"F"	1	200
+2850	412	"Huile de maïs"	"F"	1	200
+2851	13402	"Huile de noix"	"F"	1	200
+2852	592	"Huile de pépins de raisin"	"F"	1	200
+2853	603	"Huile de soja"	"F"	1	200
+2854	598	"Huile de tournesol"	"2"	1	200
+2855	1068	"Huile de tournesol HO, raffinée"	"F"	1	200
+2856	591	"Huile d'olive"	"2"	1	200
+2857	693	"Jambon cru"	"F"	1	200
+2858	691	"Jambon cuit de derrière"	"F"	1	200
+2859	692	"Jambon cuit de devant"	"F"	1	200
+2860	13333	"Jambon roulé, cuit (sans adjonction de graisse ni de sel)"	"F"	1	200
+2861	410	"Jaune d'oeuf, cru"	"F"	1	200
+2862	566	"Jus de carotte"	"F"	1	200
+2863	605	"Jus de citron"	"F"	1	200
+2864	1131	"Jus de fruit dilué (60% jus - 40 % eau), non sucré (moyenne)"	"F"	1	200
+2865	1130	"Jus de fruit, non sucré (moyenne)"	"F"	1	200
+2866	562	"Jus de poire"	"F"	1	200
+2867	568	"Jus de pomme"	"F"	1	200
+2868	573	"Jus de raisin"	"F"	1	200
+2869	564	"Jus de tomate"	"F"	1	200
+2870	576	"Jus d'orange"	"F"	1	200
+2871	577	"Jus d'orange, enrichi de vitamine C"	"F"	1	200
+2872	393	"Kaki, cru"	"F"	1	200
+2873	1572	"Kebab en fougasse"	"F"	1	200
+2874	635	"Ketchup"	"F"	1	200
+2875	395	"Kiwi, cru"	"-"	1	200
+2876	889	"Kouglof au chocolat"	"F"	1	200
+2877	1465	"Kouglof façon Grand-mère"	"F"	1	200
+2878	527	"Lait condensé, non sucré"	"F"	1	200
+2879	526	"Lait condensé, sucré"	"2"	1	200
+2881	528	"Lait de chèvre"	"1"	1	200
+2883	578	"Lait écrémé en poudre"	"F"	1	200
+2884	64	"Lait écrémé, UHT"	"F"	1	200
+2885	1194	"Lait (en moyenne)"	"F"	1	200
+2886	585	"Lait entier en poudre"	"F"	1	200
+2887	62	"Lait entier, pasteurisé"	"1"	1	200
+2888	63	"Lait entier, UHT"	"1"	1	200
+2889	59	"Lait partiellement écrémé, pasteurisé"	"2"	1	200
+2890	61	"Lait partiellement écrémé, UHT"	"2"	1	200
+2891	441	"Laitue, crue"	"F"	1	200
+2893	767	"Langoustine, crue"	"F"	1	200
+2894	10378	"Langue (moyenne de veau et boeuf), crue"	"F"	1	200
+2895	16	"Lapin, filet, cru"	"F"	1	200
+2896	686	"Lapin (moyenne), cru"	"F"	1	200
+2897	13329	"Lapin (moyenne), cuit (sans adjonction de graisse ni de sel)"	"F"	1	200
+2898	704	"Lard à cuire, fumé"	"9"	1	200
+2899	707	"Lard à manger cru"	"F"	1	200
+2900	707	"Lard de campagne, fumé"	"F"	0	200
+2901	1666	"Lasagne de légume, préparée"	"F"	1	200
+2902	1664	"Lasagne de viande, préparée"	"F"	1	200
+2903	1184	"Latte macchiato, non sucré"	"F"	1	200
+2904	1248	"Leckerli de Bâle"	"F"	1	200
+2905	1167	"Légumes crucifères (famille des choux) moyenne, crus"	"F"	1	200
+2906	10582	"Légumes crucifères (famille des choux) moyenne, cuits (sans adjonction de sel ni de graiss"	"F"	1	200
+2907	1165	"Légumes feuille (moyenne sans salade), à la vapeur  (sans adjonction de sel)"	"F"	1	200
+2908	1166	"Légumes feuille (moyenne sans salade), à l'étuvée (sans adjonction de graisse ni de sel)"	"F"	1	200
+2909	1164	"Légumes feuille (moyenne sans salade), cuits (sans adjonction de graisse ni de sel)"	"F"	1	200
+2910	1152	"Légumes (moyenne), crus"	"F"	1	200
+2911	1162	"Légumes racines et tubercules (moyenne), à la vapeur (sans adjonction de sel)"	"F"	1	200
+2912	1163	"Légumes racines et tubercules (moyenne), à l'étuvée (sans adjonctions de graisse ni de sel"	"F"	1	200
+2913	1267	"Légumes racines et tubercules (moyenne), crues"	"F"	1	200
+2914	1161	"Légumes racines et tubercules (moyenne), cuites (sans adjonction de graisse ni de sel)"	"F"	1	200
+2915	1134	"Légumineuses (moyenne), cuites (sans adjonction de sel ni de graisse)"	"F"	1	200
+2916	1133	"Légumineuses (moyenne), séchées"	"F"	1	200
+2917	10534	"Lemon Curd"	"F"	1	200
+2918	10534	"Crème de citron"	"F"	0	200
+2919	13386	"Lentille, décortiquée, cuite (sans adjonction de graisse ni de sel)"	"F"	1	200
+2920	13385	"Lentille, décortiquée, sèche"	"3"	1	200
+2921	1060	"Lentille, entière, cuite (sans adjonction de graisse ni de sel)"	"F"	1	200
+2922	370	"Lentille, entière, sèche"	"3"	1	200
+2923	839	"Levure de bière, séchée"	"F"	1	200
+2924	763	"Levure de boulangerie, pressée"	"9"	1	200
+2925	754	"Lieu noir, cru"	"F"	1	200
+2926	754	"Colin noir"	"F"	0	200
+2927	486	"Lièvre (moyenne), cru"	"F"	1	200
+2928	531	"Limburger/Münster"	"F"	1	200
+2929	595	"Limonade, avec arômes, sucrée"	"F"	1	200
+2930	517	"Liqueur aux oeufs, 16.5 vol%"	"F"	1	200
+2931	517	"Cognac aux Å“ufs"	"F"	0	200
+2932	786	"Luganiga"	"F"	1	200
+2933	888	"Macaron au coco"	"F"	1	200
+2934	1478	"Macaronis de l'alpage, préparés"	"F"	1	200
+2935	869	"Macarons aux noisettes"	"F"	1	200
+2936	777	"Macédoine de fruits, non sucrée, conserve"	"F"	1	200
+2937	775	"Macédoine de fruits, sucrée, conserve"	"F"	1	200
+2938	372	"Mâche, crue"	"-"	1	200
+2939	372	"Rampon"	"-"	0	200
+2940	878	"Madeleines"	"F"	1	200
+2941	1032	"Maïs doux, à la vapeur (sans adjonction de sel)"	"F"	1	200
+2942	632	"Maïs doux, conserve"	"F"	1	200
+2943	1033	"Maïs doux  (conserve), réchauffé (sans adjonction de sel)"	"F"	1	200
+2944	432	"Maïs doux, cru"	"F"	1	200
+2945	432	"Mais sucré"	"F"	0	200
+2946	633	"Maïs doux en épis au vinaigre"	"F"	1	200
+2947	397	"Mandarine, crue"	"0"	1	200
+2948	396	"Mangue, crue"	"3"	1	200
+2949	208	"Margarine"	"F"	1	200
+2950	485	"Mascarpone"	"2"	1	200
+2951	496	"Massepain"	"F"	1	200
+2952	771	"Mayonnaise"	"2"	1	200
+2953	772	"Mayonnaise, avec valeur énergétique réduite"	"2"	1	200
+2954	1682	"Mayonnaise, préparée à la maison avec de l'huile de colza"	"F"	1	200
+2955	732	"Mélasse, sirop de mélasse"	"F"	1	200
+2956	399	"Melon, à chaire orange, cru"	"0"	1	200
+2957	463	"Menthe, crue"	"F"	1	200
+2958	854	"Meringue"	"F"	1	200
+2959	760	"Merlu, cru"	"F"	1	200
+2960	760	"Colin"	"F"	0	200
+2961	472	"Miel (miel de fleurs)"	"F"	1	200
+2962	879	"Milanais"	"F"	1	200
+2963	938	"Millet, flocons complets"	"N"	1	200
+2964	422	"Millet, grains décortiqués"	"F"	1	200
+2965	671	"Minestrone"	"F"	1	200
+2966	403	"Mirabelle, crue"	"F"	1	200
+2967	1053	"Mirabelle, cuite,  égouttée (sans adjonction de sucre)"	"F"	1	200
+2968	1039	"Morille, à l'étuvée (sans adjonction de graisse ni de sel)"	"F"	1	200
+2969	457	"Morille, crue"	"F"	1	200
+2970	819	"Mortadella"	"F"	1	200
+2971	285	"Morue, cru"	"F"	1	200
+2972	285	"Cabillaud"	"F"	0	200
+2973	717	"Mostbröckli"	"F"	1	200
+2974	761	"Moule, crue"	"F"	1	200
+2975	82	"Mozzarella"	"n"	1	200
+2976	383	"Mûre, crue"	"F"	1	200
+2977	389	"Myrtille, crue"	"F"	1	200
+2978	1579	"Nasi Goreng, préparé"	"F"	1	200
+2979	572	"Nectar d'orange"	"F"	1	200
+2980	404	"Nectarine, crue"	"0"	1	200
+2981	270	"Noisette"	"n"	1	200
+2982	271	"Noix"	"-"	1	200
+2983	275	"Noix de cajou"	"n"	1	200
+2984	284	"Noix de coco"	"N"	1	200
+2985	742	"Noix de coco, sèche"	"F"	1	200
+2986	742	"Coco râpé"	"F"	0	200
+2987	279	"Noix du Brésil"	"4"	1	200
+2988	290	"Oeuf de poule, entier, cru"	"-"	1	200
+2989	1070	"Oeuf de poule, entier, cuit dur"	"F"	1	200
+2990	1605	"Oeufs brouillés au fromage, préparés"	"F"	1	200
+2991	1606	"Oeufs brouillés au jambon, préparés"	"F"	1	200
+2992	1604	"Oeufs brouillés aux champignons, préparés"	"F"	1	200
+2993	1603	"Oeufs brouillés aux herbes, préparés"	"F"	1	200
+2994	1602	"Oeufs brouillés, préparés"	"F"	1	200
+2995	1035	"Oignon, à l'étuvée (sans adjonction de graisse ni de sel)"	"F"	1	200
+2996	494	"Oignon au vinaigre"	"F"	1	200
+2997	368	"Oignon, cru"	"n"	1	200
+2998	1036	"Oignon, grillés (sans adjonction de graisse ni de sel)"	"F"	1	200
+2999	493	"Olive, noire"	"F"	1	200
+3000	10545	"Olives farcies avec de la viande hachée, frites"	"F"	1	200
+3001	492	"Olive, verte"	"F"	1	200
+3002	1523	"Omelette à la farine au fromage, préparée"	"F"	1	200
+3003	1523	"Crêpes"	"F"	0	200
+3004	1526	"Omelette à la farine au jambon, préparée"	"F"	1	200
+3005	1527	"Omelette à la farine au lard, préparée"	"F"	1	200
+3006	1695	"Omelette à la farine au Nutella, préparée"	"F"	1	200
+3007	1694	"Omelette à la farine au sucre et cannelle, préparée"	"F"	1	200
+3008	1524	"Omelette à la farine aux champignons, préparée"	"F"	1	200
+3009	1525	"Omelette à la farine aux légumes, préparée"	"F"	1	200
+3010	1522	"Omelette à la farine, préparée"	"F"	1	200
+3011	1502	"Omelette à la française au fromage, préparée"	"F"	1	200
+3012	1501	"Omelette à la française au jambon, préparée"	"F"	1	200
+3013	1503	"Omelette à la française au lard, préparée"	"F"	1	200
+3014	1500	"Omelette à la française, préparée"	"F"	1	200
+3015	405	"Orange, crue"	"0"	1	200
+3016	739	"Orge, flocons"	"F"	1	200
+3017	429	"Orge perlé"	"F"	1	200
+3018	429	"Orge mondé"	"F"	0	200
+3019	846	"Pain au gruau de seigle"	"F"	1	200
+3020	831	"Pain aux noix"	"F"	1	200
+3021	829	"Pain bis"	"F"	1	200
+3022	823	"Pain blanc"	"F"	1	200
+3023	821	"Pain complet de froment"	"F"	1	200
+3024	821	"Pain graham"	"F"	0	200
+3025	918	"Pain croustillant, au blé entier"	"F"	1	200
+3026	920	"Pain croustillant, au blé entier, au grains de lin"	"F"	1	200
+3027	919	"Pain croustillant, au blé entier, au sésame"	"F"	1	200
+3028	826	"Pain de mie à huile végétale"	"F"	1	200
+3029	826	"Pain toast"	"F"	0	200
+3030	827	"Pain de mie au beurre"	"F"	1	200
+3031	880	"Pain d'épice"	"F"	1	200
+3032	993	"Pain d'épice, enrobé de chocolat"	"F"	1	200
+3033	830	"Pain de seigle au levain"	"F"	1	200
+3034	824	"Pain de seigle valaisan"	"F"	1	200
+3035	833	"Pain mi-blanc"	"F"	1	200
+3036	10446	"Pain (moyenne)"	"F"	1	200
+3037	1268	"Pain paysan"	"F"	1	200
+3038	1515	"Pain perdu non sucré"	"F"	1	200
+3039	828	"Pain tessinois"	"F"	1	200
+3040	388	"Pamplemousse (blanc ou rouge), cru"	"0"	1	200
+3041	388	"Grapefruit"	"0"	0	200
+3042	716	"Pancetta"	"F"	1	200
+3043	202	"Panettone"	"F"	1	200
+3044	779	"Pantli"	"F"	1	200
+3045	663	"Paprika (épice)"	"F"	1	200
+3047	402	"Pastèque, crue"	"F"	1	200
+3048	13407	"Patate douce, à la vapeur (sans adjonction de sel)"	"F"	1	200
+3050	13419	"Pâte à flammekueche, crue"	"F"	1	200
+3051	13419	"Pâte à tarte flambée, crue"	"F"	0	200
+3052	1176	"Pâte à gateau (avec beurre), crue"	"F"	1	200
+3053	906	"Pâte à gateau (avec graisse végétale), crue"	"F"	1	200
+3054	907	"Pâte à pizza (avec graisse végétale), crue"	"F"	1	200
+3055	13418	"Pâte à strudel, crue"	"F"	1	200
+3056	703	"Pâte à tartiner aux noisettes et au chocolat"	"F"	1	200
+3057	13417	"Pâte brisée, à la farine complète (avec beurre), crue"	"F"	1	200
+3058	13416	"Pâte brisée, à la farine complète (avec graisse végétale), crue"	"F"	1	200
+3059	1175	"Pâte brisée (avec beurre), sucrée, crue"	"F"	1	200
+3060	909	"Pâte brisée (avec graisse végétale), sucrée, crue"	"F"	1	200
+3061	774	"Pâté de campagne"	"F"	1	200
+3062	1182	"Pâte feuilletée au séré (avec beurre), crue"	"F"	1	200
+3063	1181	"Pâte feuilletée au séré (avec graisse végétale), crue"	"F"	1	200
+3064	905	"Pâte feuilletée faite maison (avec graisse végétale), crue"	"F"	1	200
+3065	904	"Pâte feuillettée faite maison (au beurre), crue"	"F"	1	200
+3066	910	"Pâte lévée (avec beurre), sucrée, crue"	"F"	1	200
+3067	1177	"Pâte lévée (avec graisse végétale), sucrée, crue"	"F"	1	200
+3068	1064	"Pâtes alimentaires au blé complet, cuites à l'eau salée (sel non iodé)"	"F"	1	200
+3069	801	"Pâtes alimentaires au blé complet, sèches"	"F"	1	200
+3070	1062	"Pâtes alimentaires aux oeufs, cuites à l'eau salée (sel non iodé)"	"F"	1	200
+3071	799	"Pâtes alimentaires aux oeufs, sèches"	"F"	1	200
+3072	1063	"Pâtes alimentaires sans oeufs, cuites à l'eau salée (sel non iodé)"	"F"	1	200
+3073	800	"Pâtes alimentaires sans oeufs, sèches"	"F"	1	200
+3074	10542	"Pâte wasabi"	"N"	1	200
+3075	401	"Pêche, crue"	"-"	1	200
+3076	625	"Pêche, non sucrée, conserve"	"F"	1	200
+3077	624	"Pêche, sucrée, conserve"	"F"	1	200
+3078	852	"Pélerines"	"F"	1	200
+3079	852	"Biscuits à la cuillère"	"F"	0	200
+3080	765	"Perche, crue"	"F"	1	200
+3081	373	"Persil, cru"	"F"	1	200
+3082	1086	"Petite saucisse de porc, à pocher"	"F"	1	200
+3083	867	"Petit gâteau à l'anice"	"F"	1	200
+3084	867	"Crête de coq"	"F"	0	200
+3085	602	"Petit lait, doux"	"F"	1	200
+3086	844	"Petit pain"	"F"	1	200
+3087	844	"Rosette"	"F"	0	200
+3088	822	"Petit pain au lait"	"F"	1	200
+3089	842	"Petit pain Bürli (farine mi-blanche)"	"F"	1	200
+3090	832	"Petit pain de Sils"	"F"	1	200
+3091	1463	"Petit pain Semmeli"	"F"	1	200
+3092	369	"Petit-poid, cru"	"F"	1	200
+3093	1010	"Petit-pois, à la vapeur (sans adjonction de sel)"	"F"	1	200
+3094	630	"Petit-pois, conserve"	"0"	1	200
+3095	1011	"Petit-pois (conserve), réchauffé (sans adjonction de sel)"	"F"	1	200
+3096	815	"Petit-pois et carottes, conserve"	"F"	1	200
+3097	456	"Petit radis, cru"	"N"	1	200
+3098	1034	"Petits-pois et carottes, réchauffés (sans adjonction de sel)"	"F"	1	200
+3099	1659	"Piccata d'aubergines, préparée"	"F"	1	200
+3100	1660	"Piccata de céléris, préparée"	"F"	1	200
+3101	1662	"Piccata de courges, préparée"	"F"	1	200
+3102	1668	"Piccata de porc, préparée"	"F"	1	200
+3103	1667	"Piccata de veau, préparée"	"F"	1	200
+3104	283	"Pignon de pin"	"n"	1	200
+3105	274	"Pistache"	"F"	1	200
+3106	1538	"Pizza au jambon, cuite au four"	"F"	1	200
+3107	1537	"Pizza au jambon et champignon, cuite au four"	"F"	1	200
+3108	1536	"Pizza au mascarpone et roquette, cuite au four"	"F"	1	200
+3109	1532	"Pizza au thon, cuite au four"	"F"	1	200
+3110	1540	"Pizza aux légumes, cuite au four"	"F"	1	200
+3111	1539	"Pizza aux quatre fromages, cuite au four"	"F"	1	200
+3112	1533	"Pizza Calzone, cuite au four"	"F"	1	200
+3113	1534	"Pizza Hawaii, cuite au four"	"F"	1	200
+3114	1535	"Pizza Margherite, cuite au four"	"F"	1	200
+3115	1015	"Poireau, à l'étuvée (sans adjonction de graisse ni de sel)"	"F"	1	200
+3118	382	"Poire, crue"	"n"	1	200
+3119	1050	"Poire, cuite,  égouttée (sans adjonction de sucre)"	"F"	1	200
+3120	626	"Poire, non sucrée, conserve"	"F"	1	200
+3121	433	"Poire, séchée"	"F"	1	200
+3122	620	"Poire, sucrée, conserve"	"F"	1	200
+3123	1059	"Pois chiche, cuit (sans adjonction de graisse ni de sel)"	"F"	1	200
+3124	439	"Pois chiche, sec"	"2"	1	200
+3125	13390	"Pois, grain mature, cuit (sans adjonction de graisse ni de sel)"	"F"	1	200
+3126	13389	"Pois, grain mature, décortiqué, sec"	"3"	1	200
+3127	13389	"Pois cassé"	"3"	0	200
+3128	1012	"Pois mange-tout, à la vapeur (sans adjonction de sel)"	"F"	1	200
+3129	438	"Pois mange-tout, cru"	"F"	1	200
+3130	438	"Pois gourmand"	"F"	0	200
+3131	1098	"Poisson (moyen), cru"	"F"	1	200
+3132	13345	"Poisson (moyenne), filet, à la vapeur (sans adjonction de graisse ni de sel)"	"F"	1	200
+3133	1018	"Poivron, rouge, à l'étuvée (sans adjonction de graisse ni de sel)"	"F"	1	200
+3135	1017	"Poivron, vert, à l'étuvée (sans adjonction de graisse ni de sel)"	"F"	1	200
+3136	359	"Poivron, vert, cru"	"F"	1	200
+3137	10546	"Polenta nera, préparée"	"F"	1	200
+3138	378	"Pomme, crue"	"n"	1	200
+3139	1049	"Pomme, cuite,  égouttée (sans adjonction de sucre)"	"F"	1	200
+3140	1057	"Pomme de terre, épluchée, à la vapeur (sans adjonction de sel)"	"F"	1	200
+3142	435	"Pomme, pelée, sechée"	"F"	1	200
+3143	12982	"Pommes Chips"	"F"	1	200
+3144	12983	"Pommes Chips à matière grasse réduite"	"F"	1	200
+3145	10450	"Pommes frites (cuites au four), non salées"	"F"	1	200
+3146	10449	"Pommes frites (frites dans de l'huile de tournesol HO), non salées"	"F"	1	200
+3147	424	"Popcorn"	"F"	1	200
+3148	424	"Maïs éclaté"	"F"	0	200
+3149	8	"Porc, côtelette, crue"	"F"	1	200
+3150	13284	"Porc, côtelette, grillée (sans adjonction de graisse ni de sel)"	"F"	1	200
+3151	13283	"Porc, côtelette, grillé (sans adjonction de graisse ni de sel)"	"F"	1	200
+3152	41	"Porc, cou, steak, cru"	"F"	1	200
+3153	40	"Porc, émincé, cru"	"F"	1	200
+3154	13285	"Porc, émincé, grillé (sans adjonction de graisse ni de sel)"	"F"	1	200
+3155	1077	"Porc, épaule, rôti au four à point (sans adjonction de graisse ni de sel)"	"F"	1	200
+3156	1079	"Porc,  épaule, rôti au four bien cuit  (sans adjonction de graisse ni de sel)"	"F"	1	200
+3157	676	"Porc, épaule, rôti, cru"	"F"	1	200
+3158	42	"Porc, filet, cru"	"F"	1	200
+3159	677	"Porc, filet mignon, cru"	"F"	1	200
+3160	13269	"Porc, filet mignon, rôti (sans adjonction de graisse ni de sel)"	"F"	1	200
+3161	689	"Porc, foie, cru"	"F"	1	200
+3162	39	"Porc, fricassée, cru"	"F"	1	200
+3163	7	"Porc, haché, cru"	"F"	1	200
+3164	13289	"Porc, jarret, braisé (sans adjonction de graisse ni de sel)"	"F"	1	200
+3165	678	"Porc, jarret, cru"	"F"	1	200
+3166	679	"Porc, noix, tranche, crue"	"F"	1	200
+3167	13270	"Porc, noix, tranche, grillée (sans adjonction de graisse ni de sel)"	"F"	1	200
+3168	43	"Porc, pièce ronde, tranche, cru"	"F"	1	200
+3169	9	"Porc, ragoût, cru"	"F"	1	200
+3170	1511	"Porridge, préparé (avec du lait entier, sans adjonction de sucre)"	"F"	1	200
+3171	1512	"Porridge, préparé (avec du lait partiellement écrémé, sans adjonction de sucre)"	"F"	1	200
+3172	1587	"Potée à l'orge, cuite"	"F"	1	200
+3173	1588	"Potée au blé, cuite"	"F"	1	200
+3174	1586	"Potée au millet, cuite"	"F"	1	200
+3175	13310	"Poulet, cuisse avec la peau, rôti (sans adjonction de graisse ni de sel)"	"F"	1	200
+3176	712	"Poulet, cuisse, avec peau, crue"	"-"	1	200
+3177	25	"Poulet, cuisse, avec peau, crue (France)"	"F"	1	200
+3178	24	"Poulet, cuisse, avec peau, crue (Suisse)"	"1"	1	200
+3179	27	"Poulet, cuisse, sans peau, crue (France)"	"F"	1	200
+3180	26	"Poulet, cuisse, sans peau, crue (Suisse)"	"F"	1	200
+3181	13309	"Poulet, entier avec la peau, rôti (sans adjonction de graisse ni de sel)"	"F"	1	200
+3182	711	"Poulet entier, avec peau, cru"	"F"	1	200
+3183	21	"Poulet, poitrine, avec peau, crue (France)"	"F"	1	200
+3184	20	"Poulet, poitrine, avec peau, crue (Suisse)"	"F"	1	200
+3185	680	"Poulet, poitrine, escalope (émincé), crue"	"2"	1	200
+3186	13276	"Poulet, poitrine, escalope ou émincé, grillé (sans adjonction de graisse ni de sel)"	"F"	1	200
+3187	23	"Poulet, poitrine, sans peau, crue (France)"	"F"	1	200
+3188	22	"Poulet, poitrine, sans peau, crue (Suisse)"	"F"	1	200
+3189	466	"Pousses de soja, crues"	"F"	1	200
+3190	1116	"Produits de charcuterie à chair cuite (moyenne)"	"F"	1	200
+3191	1112	"Produits de charcuterie échaudés, fumés (moyenne)"	"F"	1	200
+3192	1113	"Produits de charcuterie échaudés, non fumés (moyenne)"	"F"	1	200
+3193	1117	"Produits de salaison crus (moyenne)"	"F"	1	200
+3194	1118	"Produits de salaison cuits (moyenne)"	"F"	1	200
+3195	1054	"Pruneau, cuite,  égouttée (sans adjonction de sucre)"	"F"	1	200
+3196	475	"Pruneau, sec"	"F"	1	200
+3197	474	"Prune, crue"	"F"	1	200
+3198	1519	"Purée de pommes de terre, préparée (avec de la crème et du beurre)"	"F"	1	200
+3199	866	"Purée de pommes de terre, préparée (avec de l'eau et du beurre)"	"F"	1	200
+3200	863	"Purée de pommes de terre, préparée (avec du lait entier et du beurre)"	"F"	1	200
+3201	1518	"Purée de pommes de terre, préparée (avec du lait partiellement écrémeé et du beurre)"	"F"	1	200
+3202	628	"Purée de pommes, non sucrée, conserve"	"F"	1	200
+3203	627	"Purée de pommes, sucrée, conserve"	"F"	1	200
+3204	479	"Quetsche, crue"	"-"	1	200
+3205	479	"Prune quetsche"	"-"	0	200
+3206	1056	"Quetsche, cuite, égoutée (sans adjonction de sucre)"	"F"	1	200
+3207	1541	"Quiche Lorraine, cuite au four (pâte à gateau)"	"F"	1	200
+3208	1542	"Quiche Lorraine, cuite au four (pâte feuilletée)"	"F"	1	200
+3209	13394	"Quinoa, cru"	"F"	1	200
+3210	13396	"Quinoa, cuit (sans adjonction de graisse ni de sel)"	"F"	1	200
+3211	361	"Radis, cru"	"F"	1	200
+3212	1673	"Ragoût d'agneau avec sauce, préparé"	"F"	1	200
+3213	1672	"Ragoût de boeuf avec sauce, préparé"	"F"	1	200
+3214	1670	"Ragoût de cheval avec sauce, préparé"	"F"	1	200
+3215	1671	"Ragoût de porc avec sauce, préparé"	"F"	1	200
+3216	1669	"Ragoût de veau avec sauce, préparé"	"F"	1	200
+3217	478	"Raisin, cru"	"F"	1	200
+3218	477	"Raisin, sec"	"F"	1	200
+3219	477	"Sultanine"	"F"	0	200
+3220	1665	"Ratatouille, préparée"	"F"	1	200
+3221	533	"Reblochon"	"F"	1	200
+3222	362	"Rhubarbe, cru"	"F"	1	200
+3223	1585	"Risotto au champignon, cuit"	"F"	1	200
+3224	1584	"Risotto sans fromage, cuit"	"F"	1	200
+3225	1189	"Ristretto crème, non sucré"	"F"	1	200
+3226	1514	"Riz au lait, préparé (avec du lait entier, sans adjonction de sucre)"	"F"	1	200
+3227	1513	"Riz au lait, préparé (avec du lait partiellement écrémé, sans adjonction de sucre)"	"F"	1	200
+3228	1066	"Riz blanc, cuit à l'eau salée (sel non iodé)"	"F"	1	200
+3229	427	"Riz blanc, sec"	"F"	1	200
+3230	1675	"Riz Casimir au poulet, préparé"	"F"	1	200
+3231	1677	"Riz casimir de veau, préparé"	"F"	1	200
+3232	1067	"Riz complet, cuit à l'eau salée (sel non iodé)"	"F"	1	200
+3233	428	"Riz complet, sec"	"N"	1	200
+3234	1065	"Riz parboiled, cuit à l'eau salée (sel non iodé)"	"F"	1	200
+3235	419	"Riz parboiled, sec"	"F"	1	200
+3236	419	"Riz blanc étuvé"	"F"	0	200
+3239	718	"Rollschinkli"	"F"	1	200
+3240	462	"Romarin, cru"	"F"	1	200
+3242	468	"Roquette, crue"	"F"	1	200
+3243	468	"Rucola"	"F"	0	200
+3244	858	"Rösti (pommes de terre prêtes à rôtir, produit fini)"	"F"	1	200
+3245	1582	"Rôti de viande hachée, cuit au four"	"F"	1	200
+3246	1582	"Pain de viande"	"F"	0	200
+3247	875	"Sablés au beurre"	"F"	1	200
+3248	594	"Saindoux"	"F"	1	200
+3249	1573	"Salade Coleslaw, préparée"	"F"	1	200
+3250	1697	"Salade de boeuf bouilli, préparée"	"F"	1	200
+3251	1569	"Salade de cervelas et fromage, préparée"	"F"	1	200
+3252	1568	"Salade de cervelas, préparée"	"F"	1	200
+3253	1598	"Salade de pâte à la sauce française"	"F"	1	200
+3254	1597	"Salade de pâte à la sauce italienne"	"F"	1	200
+3255	1517	"Salade de pommes de terre, sauce au vinaigre et huile"	"F"	1	200
+3256	1516	"Salade de pommes de terre (sauce mayonnaise et yogourt)"	"F"	1	200
+3257	1613	"Salade de thon au naturel, sauce au vinaigre et huile"	"F"	1	200
+3258	459	"Salade Iceberg, crue"	"F"	1	200
+3259	1607	"Salade russe, préparée"	"F"	1	200
+3260	1127	"Salade verte (moyenne), crue"	"F"	1	200
+3261	783	"Salametto"	"F"	1	200
+3262	784	"Salami à la mode campagnarde"	"F"	1	200
+3263	1203	"Salami fumé"	"F"	1	200
+3264	1094	"Salami (ligne budget)"	"F"	1	200
+3265	782	"Salami suisse, porc et boeuf"	"F"	1	200
+3266	1091	"Salami type Nostrano"	"F"	1	200
+3267	1023	"Salsifis noir, à la vapeur (sans adjonction de sel)"	"F"	1	200
+3268	452	"Salsifis noir, cru"	"F"	1	200
+3269	1089	"Salsiz"	"F"	1	200
+3270	1687	"Saltimbocca, grillé au colza HOLL"	"F"	1	200
+3271	10561	"Samosa, cuite au four"	"F"	1	200
+3272	10562	"Samosa, frite"	"F"	1	200
+3273	1685	"Sandwich à l'escalope avec sauce cocktail"	"F"	1	200
+3274	1686	"Sandwich à l'escalope avec sauce tartare"	"F"	1	200
+3275	1551	"Sandwich (baguette) à la charcuterie"	"F"	1	200
+3276	1561	"Sandwich (baguette) à la mozzarella"	"F"	1	200
+3277	1559	"Sandwich (baguette) au fromage à pâte mi-dure"	"F"	1	200
+3278	1521	"Sandwich (baguette) au fromage à pâte molle"	"F"	1	200
+3279	1505	"Sandwich (baguette) au fromage d'Italie"	"F"	1	200
+3280	1557	"Sandwich (baguette) au jambon"	"F"	1	200
+3281	1549	"Sandwich (baguette) au jambon cru"	"F"	1	200
+3282	1555	"Sandwich (baguette) au salami"	"F"	1	200
+3283	1553	"Sandwich (baguette) avec viande séchée"	"F"	1	200
+3284	1552	"Sandwich (pain bis) à la charcuterie"	"F"	1	200
+3285	1562	"Sandwich (pain bis) à la mozzarella"	"F"	1	200
+3286	1560	"Sandwich (pain bis) au fromage à pâte mi-dure"	"F"	1	200
+3287	1520	"Sandwich (pain bis) au fromage à pâte molle"	"F"	1	200
+3288	1506	"Sandwich (pain bis) au fromage d'Italie"	"F"	1	200
+3289	1558	"Sandwich (pain bis) au jambon"	"F"	1	200
+3290	1550	"Sandwich (pain bis) au jambon cru"	"F"	1	200
+3291	1556	"Sandwich (pain bis) au salami"	"F"	1	200
+3292	1554	"Sandwich (pain bis) avec viande séchée"	"F"	1	200
+3293	489	"Sanglier (moyenne), cru"	"F"	1	200
+3294	413	"Sardine à l'huile, égouttée"	"F"	1	200
+3295	757	"Sardine, crue"	"F"	1	200
+3296	421	"Sarrasin, grains décortiqués"	"N"	1	200
+3297	421	"Blé noir"	"N"	0	200
+3298	683	"Sauce aux champignons, liée"	"F"	1	200
+3299	12981	"Sauce Béchamel fait maison"	"F"	1	200
+3300	653	"Sauce bolognaise"	"F"	1	200
+3301	652	"Sauce chasseur"	"F"	1	200
+3302	1683	"Sauce cocktail, préparée à la maison avec la mayonnaise de colza"	"F"	1	200
+3303	651	"Sauce de rôti, claire"	"F"	1	200
+3304	650	"Sauce de rôti, liée"	"F"	1	200
+3305	1612	"Sauce de salade au yogourt (sans huile)"	"F"	1	200
+3306	1201	"Sauce de salade française (avec huile de colza)"	"F"	1	200
+3307	1200	"Sauce de salade italienne (avec huile d'olive)"	"F"	1	200
+3308	1199	"Sauce de salade vinaigre-huile (avec huile de colza)"	"F"	1	200
+3309	666	"Sauce hollandaise"	"F"	1	200
+3310	1684	"Sauce tartare, préparée à la maison avec la mayonnaise de colza"	"F"	1	200
+3311	667	"Sauce tomate"	"F"	1	200
+3312	1085	"Saucisse à rôtir de porc"	"F"	1	200
+3313	841	"Saucisse à rôtir de porc, crue"	"F"	1	200
+3314	13344	"Saucisse à rôtir de porc, grillée (sans adjonction de graisse ni de sel)"	"F"	1	200
+3315	781	"Saucisse aux choux"	"F"	1	200
+3316	790	"Saucisse bernoise (à la langue)"	"F"	1	200
+3317	1273	"Saucisse blanche"	"F"	1	200
+3318	1083	"Saucisse de Lyon"	"F"	1	200
+3319	1080	"Saucisse de veau"	"F"	1	200
+3322	1589	"Saucisse de Vienne, cuit"	"F"	1	200
+3323	1589	"Wienerli"	"F"	0	200
+3324	789	"Saucisse du brasseur"	"F"	1	200
+3325	1115	"Saucisses crues avec maturation interrompue (moyenne)"	"F"	1	200
+3326	1114	"Saucisses crues (moyenne)"	"F"	1	200
+3327	1087	"Saucisse type Minipic"	"F"	1	200
+3328	780	"Saucisson"	"F"	1	200
+3329	1088	"Saucisson vaudois"	"F"	1	200
+3330	13341	"Saucisson vaudois, cuit (sans adjonction de graisse ni de sel)"	"F"	1	200
+3331	461	"Sauge, crue"	"F"	1	200
+3332	194	"Saumon d'élevage, cru"	"2"	1	200
+3333	13354	"Saumon, élevage, filet, à la vapeur (sans adjonction de graisse ni de sel)"	"F"	1	200
+3335	210	"Saumon sauvage, cru"	"F"	1	200
+3337	787	"Schüblig de campagne"	"F"	1	200
+3338	792	"Schüblig de Saint-Gall"	"F"	1	200
+3339	762	"Sel de cuisine avec iode"	"F"	1	200
+3340	10457	"Sel de cuisine avec iode et fluor"	"F"	1	200
+3341	634	"Sel de cuisine sans iode ni fluor"	"F"	1	200
+3342	423	"Semoule de blé dur, sèche"	"F"	1	200
+3343	1619	"Semoule de maïs, cuite"	"F"	1	200
+3344	1619	"Polenta"	"F"	0	200
+3345	425	"Semoule de maïs (polenta), sèche"	"N"	1	200
+3346	1510	"Semoule, préparée (avec du lait entier, sans adjonction de sucre)"	"F"	1	200
+3347	1509	"Semoule, préparée (avec du lait partiellement écrémé, sans adjonction de sucre)"	"F"	1	200
+3348	506	"Sérac"	"F"	1	200
+3351	13393	"Séré, nature, mi-gras"	"1"	1	200
+3352	515	"Sherry, 18.5 vol%"	"F"	1	200
+3353	569	"Sirop concentré"	"F"	1	200
+3354	10536	"Sirop d'agave"	"N"	1	200
+3355	1132	"Sirop preparé (dilué en proportion 1:5.5)"	"F"	1	200
+3356	499	"Soda au cola, édulcoré"	"F"	1	200
+3357	498	"Soda au cola, sucré"	"F"	1	200
+3358	755	"Sole, crue"	"F"	1	200
+3359	769	"Son d'avoine"	"N"	1	200
+3360	431	"Son de blé"	"N"	1	200
+3361	892	"Sorbet, aux fruits"	"F"	1	200
+3362	670	"Soupe de tomate"	"F"	1	200
+3363	670	"Potage"	"F"	0	200
+3364	669	"Soupe d'orge des Grisons"	"F"	1	200
+3365	684	"Soupe goulache"	"F"	1	200
+3366	688	"Soupe velouté de champignons"	"F"	1	200
+3367	570	"St. Paulin"	"F"	1	200
+3368	470	"Sucre, blanc"	"F"	1	200
+3369	470	"Saccharose"	"F"	0	200
+3370	768	"Sucre de raisin"	"F"	1	200
+3371	768	"Glucose"	"F"	0	200
+3372	471	"Sucre, roux, complet"	"F"	1	200
+3373	770	"Surimi"	"F"	1	200
+3374	1609	"Taboulé, préparé (avec Boulgour)"	"F"	1	200
+3375	1610	"Taboulé, préparé (avec Couscous)"	"F"	1	200
+3376	1548	"Tarte à la rhubarbe, cuite au four (pâte à gateau)"	"F"	1	200
+3377	1547	"Tarte à la rhubarbe, cuite au four (pâte feuilletée)"	"F"	1	200
+3378	1482	"Tarte aux abricots, cuite au four (pâte à gateau)"	"F"	1	200
+3379	1481	"Tarte aux abricots, cuite au four (pâte feuilletée)"	"F"	1	200
+3380	1546	"Tarte aux cerises, cuite au four (pâte à gateau)"	"F"	1	200
+3381	1545	"Tarte aux cerises, cuite au four (pâte feuilletée)"	"F"	1	200
+3382	10455	"Tarte aux fruits, cuite au four, pâte brisée sucrée (moyenne)"	"F"	1	200
+3383	10456	"Tarte aux fruits (moyenne)"	"F"	1	200
+3384	10454	"Tarte aux fruits, pâte à gateau (moyenne)"	"F"	1	200
+3385	10453	"Tarte aux fruits, pâte feuilletée (moyenne)"	"F"	1	200
+3386	1595	"Tarte aux groseilles, cuite au four (pâte à gateau)"	"F"	1	200
+3387	1592	"Tarte aux groseilles, cuite au four (pâte brisée sucrée)"	"F"	1	200
+3388	1593	"Tarte aux groseilles, cuite au four (pâtes feuilletée)"	"F"	1	200
+3389	1596	"Tarte aux mûres, cuite au four (pâte à gateau)"	"F"	1	200
+3390	1485	"Tarte aux mûres, cuite au four (pâte brisée sucrée)"	"F"	1	200
+3391	1594	"Tarte aux mûres, cuite au four (pâte feuilletée)"	"F"	1	200
+3392	1484	"Tarte aux poires, cuite au four (pâte à gateau)"	"F"	1	200
+3393	1483	"Tarte aux poires, cuite au four (pâte feuilletée)"	"F"	1	200
+3394	1480	"Tarte aux pommes, cuite au four (pâte à gateau)"	"F"	1	200
+3395	1479	"Tarte aux pommes, cuite au four (pâte feuilletée)"	"F"	1	200
+3396	1530	"Tarte aux prunes, cuite au four (pâte à gateau)"	"F"	1	200
+3397	1528	"Tarte aux prunes, cuite au four (pâte feuilletée)"	"F"	1	200
+3398	1531	"Tarte aux quetsches, cuite au four (pâte à gateau)"	"F"	1	200
+3399	1529	"Tarte aux quetsches, cuite au four (pâte feuilletée)"	"F"	1	200
+3400	1504	"Tarte flambée, cuite au four"	"F"	1	200
+3401	796	"Terrine de gibier"	"F"	1	200
+3402	495	"Tête de Moine"	"F"	1	200
+3403	804	"Thé froid, sucré"	"F"	1	200
+3404	804	"Icetea"	"F"	0	200
+3405	803	"Thé, non sucré"	"F"	1	200
+3406	418	"Thon à l'huile, égoutté"	"N"	1	200
+3407	417	"Thon au naturel, égoutté"	"F"	1	200
+3408	417	"Thon à l'eau"	"F"	0	200
+3410	460	"Thym, cru"	"F"	1	200
+3413	490	"Tofu"	"N"	1	200
+3414	1027	"Tomate, à l'étuvée (sans adjonction de graisse ni de sel)"	"F"	1	200
+3416	637	"Tomate, pelée, conserve"	"F"	1	200
+3417	615	"Tomme"	"F"	1	200
+3418	882	"Tourte au Kirsch de Zug"	"F"	1	200
+3419	900	"Tourte de Linz"	"F"	1	200
+3420	883	"Tourte fôret noire"	"F"	1	200
+3421	1508	"Tranche de semoule, préparée (avec du lait entier)"	"F"	1	200
+3422	1507	"Tranche de semoule, préparée (avec du lait partiellement écrémé)"	"F"	1	200
+3423	1658	"Tranches d'aubergine, panées, préparées"	"F"	1	200
+3424	1655	"Tranches de céléri, panées, préparées"	"F"	1	200
+3425	1656	"Tranches de courge, panées, préparées"	"F"	1	200
+3426	1657	"Tranches de courgette, panées, préparées"	"F"	1	200
+3427	820	"Tresse au beurre"	"F"	1	200
+3428	1460	"Tresse au beurre, au blé entier"	"F"	1	200
+3429	289	"Truite, cru"	"F"	1	200
+3430	289	"Truite de rivière"	"F"	0	200
+3431	13349	"Truite, entière, bouillie (sans adjonction de graisse ni de sel)"	"F"	1	200
+3433	534	"Vacherin Mont d'Or"	"F"	1	200
+3434	2	"Veau, côtelette, crue"	"F"	1	200
+3435	13	"Veau, émincé, cru"	"F"	1	200
+3436	13325	"Veau, émincé, grillée ( (sans adjonction de graisse ni de sel)"	"F"	1	200
+3437	658	"Veau, épaule, rôti, crue"	"F"	1	200
+3438	1073	"Veau, épaule, rôti, cuit au four (sans adjonction de graisse ni de sel)"	"F"	1	200
+3439	13316	"Veau, escalope, grillée (sans adjonction de graisse ni de sel)"	"F"	1	200
+3440	660	"Veau, filet, cru"	"F"	1	200
+3441	3	"Veau, filet, steak, cru"	"F"	1	200
+3442	13324	"Veau, filet, steak, grillée mi-saignant (sans adjonction de graisse ni sel)"	"F"	1	200
+3443	10	"Veau, foie, cru"	"F"	1	200
+3444	11	"Veau, haché, cru"	"F"	1	200
+3445	661	"Veau, jarret, cru"	"F"	1	200
+3446	13377	"Veau, jarret, cuit (sans adjonction de graisse ni de sel)"	"F"	1	200
+3447	13377	"Ossobuco"	"F"	0	200
+3448	674	"Veau, langue, crue"	"F"	1	200
+3449	662	"Veau, noix, escalope, crue"	"F"	1	200
+3450	14	"Veau, pièce ronde, tranche, cru"	"F"	1	200
+3451	1	"Veau, poitrine, crue"	"F"	1	200
+3452	1071	"Veau, poitrine, cuite (sans adjonction de graisse ni de sel)"	"F"	1	200
+3453	15	"Veau, ragoût, cru"	"F"	1	200
+3454	672	"Veau, ris, cru"	"F"	1	200
+3455	673	"Veau, rognon, cru"	"F"	1	200
+3456	514	"Vermouth, 15 vol% (p.e. Martini)"	"F"	1	200
+3457	1103	"Viande de bÅ“uf (moyenne sans abats ni côte), crue"	"F"	1	200
+3458	1102	"Viande de porc (moyenne sans abats ni côtelette ni pied), crue"	"F"	1	200
+3459	1106	"Viande de veau (moyenne sans abats ni côtelette), crue"	"F"	1	200
+3460	1109	"Viande de volaille avec peau (moyenne), crue"	"F"	1	200
+3461	1100	"Viande de volaille (moyenne sans abats), crue"	"F"	1	200
+3462	1108	"Viande de volaille sans peau (moyenne sans abats), crue"	"F"	1	200
+3463	1104	"Viande émincée (moyenne de veau, boeuf, porc, poulet), crue"	"O"	1	200
+3464	13317	"Viande hachée (moyenne boeuf, veau, porc, poulet), grillée (sans adjonction de graisse ni "	"F"	1	200
+3465	1105	"Viande hachée (moyenne de veau, boeuf, porc, poulet), crue"	"O"	1	200
+3467	709	"Viande séchée ( du Grison, du Tessin, du Valais)"	"F"	1	200
+3468	1693	"Vinaigre"	"F"	1	200
+3469	1202	"Vinaigrette (avec huile de colza)"	"F"	1	200
+3470	510	"Vin blanc, 11 vol%"	"F"	1	200
+3471	511	"Vin blanc, 12.5 vol%"	"F"	1	200
+3472	10478	"Vin blanc dilué avec de l'eau gazeuse"	"F"	1	200
+3473	10479	"Vin blanc dilué avec limonade"	"F"	1	200
+3474	551	"Vin blanc mousseux (p.ex. Champagne)"	"F"	1	200
+3475	516	"Vin de Porto, 18.5 vol%"	"F"	1	200
+3476	509	"Vin rouge, 12 vol%"	"F"	1	200
+3477	10477	"Vin rouge, 13.5 vol%"	"F"	1	200
+3478	508	"Vin rouge, 9 vol%"	"F"	1	200
+3479	1680	"Vitello tonnato avec garniture"	"F"	1	200
+3480	1679	"Vitello tonnato sans garniture"	"F"	1	200
+3481	1192	"Yaourt sucré (moyenne)"	"F"	1	200
+3482	56	"Yogourt à la vanille"	"F"	1	200
+3483	56	"Yaourt"	"F"	0	200
+3486	99	"Yogourt au café, bio"	"F"	1	200
+3487	54	"Yogourt au chocolat"	"F"	1	200
+3490	55	"Yogourt aux noisettes"	"F"	1	200
+3493	588	"Yogourt maigre aux fruits, édulcoré"	"F"	1	200
+3494	590	"Yogourt maigre avec arômes, édulcoré"	"F"	1	200
+3499	759	"Zampone"	"F"	1	200
+3500	1251	"Aberlour 10 years old Malt Scotch Whisky (43 vol%)"	"F"	1	200
+3501	1252	"Absolut Vodka (40 vol%)"	"F"	1	200
+3502	1253	"Amaro Ramazzotti (30 vol%)"	"F"	1	200
+3503	1254	"Ballantine's 12 years old blended Scotch Whisky (40 vol%)"	"F"	1	200
+3504	1255	"Ballantine's Finest blended Scotch Whisky (40 vol%)"	"F"	1	200
+3505	1160	"Bière lager (moyenne)"	"F"	1	200
+3506	1159	"Bière sans alcool (moyenne)"	"F"	1	200
+3507	13434	"Boisson au malt et cacao, enrichie en vitamines et minéraux, poudre (Moyenne de produits d"	"F"	1	200
+3508	13433	"Boisson d'amande, nature, enrichie en calcium et vitamines (Moyenne de produits du commerc"	"F"	1	200
+3509	13428	"Boisson d'amande, nature (Moyenne de produits du commerce)"	"F"	1	200
+3510	13430	"Boisson d'avoine, nature, enrichie en calcium (Moyenne de produits du commerce)"	"F"	1	200
+3511	13426	"Boisson d'avoine, nature (Moyenne de produits du commerce)"	"F"	1	200
+3512	13429	"Boisson de riz, nature, enrichie en calcium (Moyenne de produits du commerce)"	"F"	1	200
+3513	13427	"Boisson de riz, nature (Moyenne de produits du commerce)"	"F"	1	200
+3514	13432	"Boisson de soja, nature, enrichie en calcium et vitamines (Moyenne de produits du commerce"	"F"	1	200
+3515	13431	"Boisson de soja, nature, enrichie en calcium (Moyenne de produits du commerce)"	"F"	1	200
+3516	1145	"Calanda Lager (4.8 vol%)"	"F"	1	200
+3517	1146	"Calanda Lemon (2.4 vol%)"	"F"	1	200
+3518	1138	"Cardinal Lager (4.8 vol%)"	"F"	1	200
+3519	1155	"Cardinal sans alcool (<0.5 vol%)"	"F"	1	200
+3520	1139	"Carlsberg (bière lager, 5 vol%)"	"F"	1	200
+3521	1156	"Carlsberg sans alcool (<0.5 vol%)"	"F"	1	200
+3522	1256	"Chivas Regal 12 years old blended Scotch Whisky (40 vol%)"	"F"	1	200
+3523	1153	"Clausthaler Classic (0.45 vol%)"	"F"	1	200
+3524	1154	"Clausthaler Extra Herb (0.45 vol%)"	"F"	1	200
+3525	538	"Eau minérale Adelbodner"	"F"	1	200
+3526	1171	"Eau minérale Adello"	"F"	1	200
+3527	540	"Eau minérale Allegra"	"F"	1	200
+3528	1096	"Eau minérale Appenzell (Gontenbad)"	"F"	1	200
+3529	73	"Eau minérale Aproz (Aproz)"	"F"	1	200
+3530	104	"Eau minérale Aquella (Bouillets)"	"F"	1	200
+3531	541	"Eau minérale Arkina"	"F"	1	200
+3532	1178	"Eau minérale Badoit (St Galmier)"	"F"	1	200
+3533	1172	"Eau minérale Cristallo (Lostorf)"	"F"	1	200
+3534	1046	"Eau minérale Cristalp (Saxon)"	"F"	1	200
+3535	1044	"Eau minérale Elmer"	"F"	1	200
+3536	48	"Eau minérale Eptinger"	"F"	1	200
+3537	521	"Eau minérale Evian (Cachat)"	"F"	1	200
+3538	522	"Eau minérale Henniez"	"F"	1	200
+3539	1173	"Eau minérale Knutwiler"	"F"	1	200
+3540	523	"Eau minérale Passugger (Theophilquelle)"	"F"	1	200
+3541	537	"Eau minérale Rhäzünser"	"F"	1	200
+3542	525	"Eau minérale San Pellegrino"	"F"	1	200
+3543	1095	"Eau minérale Valais (Montis)"	"F"	1	200
+3544	45	"Eau minérale Valser Classic/Naturelle (St. Petersquelle)"	"F"	1	200
+3545	1047	"Eau minérale Valser Silence (St. Paulsquelle)"	"F"	1	200
+3546	1179	"Eau minérale Vichy-Célestins"	"F"	1	200
+3547	550	"Eau minérale Volvic"	"F"	1	200
+3548	548	"Eau minérale Zurzacher"	"F"	1	200
+3549	1147	"Eichhof Hubertus (bière spéciale brune, 6 vol%)"	"F"	1	200
+3550	1148	"Eichhof Klosterbräu (biere spéciale Zwickel non filtrée, 5.1 vol%)"	"F"	1	200
+3551	1149	"Eichhof Lager (4.8 vol%)"	"F"	1	200
+3552	1157	"Eichhof sans alcool (0.4 vol%)"	"F"	1	200
+3553	13436	"Energy drink, avec édulcorants (Moyenne de produits du commerce)"	"F"	1	200
+3554	13435	"Energy drink, sucré (Moyenne de produits du commerce)"	"F"	1	200
+3555	1140	"Feldschlösschen 2.4 (bière légère, 2.4 vol%)"	"F"	1	200
+3556	1141	"Feldschlösschen Bügel (bière lager, 4.8 vol%)"	"F"	1	200
+3557	1142	"Feldschlösschen Hopfenperle (bière spéciale blonde, 5.2 vol%)"	"F"	1	200
+3558	1143	"Feldschlösschen Original (bière lager, 4.8 vol%)"	"F"	1	200
+3559	1158	"Feldschlösschen sans alcool (<0.5 vol%)"	"F"	1	200
+3560	1144	"Feldschlösschen Urtrüb (bière aux trois céréales non filtrée, 5 vol%)"	"F"	1	200
+3561	1257	"Four Roses Bourbon (40 vol%)"	"F"	1	200
+3562	1258	"Glenlivet 12 years old Malt Scotch Whisky (40 vol%)"	"F"	1	200
+3563	1259	"Grappa Fior di Vite Ramazzotti (40 vol%)"	"F"	1	200
+3564	1260	"Havana Club Anejo Reserva (40 vol%)"	"F"	1	200
+3565	1150	"Heineken Lager (5 vol%)"	"F"	1	200
+3566	1151	"Ittinger (bière spéciale ambre, 5.6 vol%)"	"F"	1	200
+3567	1261	"Jameson Irish Whiskey (40 vol%)"	"F"	1	200
+3568	1262	"Malibu Coconut (21 vol%)"	"F"	1	200
+3569	11525	"Naturaplan Bio Bière non filtrée sans alcool <0.5 vol% (Coop)"	"F"	1	200
+3570	1263	"Pastis 51 de Marseille (45 vol%)"	"F"	1	200
+3571	1264	"Sandeman Ruby Porto (20 vol%)"	"F"	1	200
+3572	13422	"Sauce soja (Moyenne de produits du commerce)"	"2"	1	200
+3573	13424	"Sauce Worcester (Moyenne de produits du commerce)"	"F"	1	200
+3574	13421	"Sucre vanillé (Moyenne de produits du commerce)"	"2"	1	200
+3575	1265	"Suze (20 vol%)"	"F"	1	200
+3576	1266	"Wodka Wyborowa (40 vol%)"	"F"	1	200
+3577	13425	"Yogourt, à la grecque, avec crème, nature (Moyenne de produits du commerce)"	"F"	1	200
+3592	5	"Agnello, costoletta, cruda"	"F"	1	200
+3596	17	"Agnello, lombata, cruda (Australia, Nuova Zelanda)"	"F"	1	200
+3599	379	"Albicocca, cruda"	"0"	1	200
+3608	897	"Amido di frumento"	"F"	1	200
+3609	275	"Anacardi"	"n"	1	200
+3610	377	"Ananas, crudo"	"3"	1	200
+3614	282	"Arachidi"	"2"	1	200
+3616	405	"Arancia, cruda"	"0"	1	200
+3619	380	"Avocado, crudo"	"n"	1	200
+3627	451	"Barbabietola, cruda"	"N"	1	200
+3635	72	"Bevanda alla soia, naturale"	"N"	1	200
+3636	72	"Latte di soia"	"N"	0	200
+3641	450	"Bietola da coste, cruda"	"2"	1	200
+3653	13395	"Blanc battu, naturale, magro"	"N"	1	200
+3667	51	"Burro da cucina"	"F"	1	200
+3668	60	"Burro del caseificio"	"F"	1	200
+3670	583	"Burro di cacao"	"F"	1	200
+3671	50	"Burro per arrostire"	"F"	1	200
+3672	191	"Burro semigrasso"	"F"	1	200
+3674	581	"Cacao in polvere"	"F"	1	200
+3677	1186	"Caffelatte (bianco), non zuccherato"	"F"	1	200
+3678	1187	"Caffelatte, non zuccherato"	"F"	1	200
+3679	1185	"Caffelatte (scuro), non zuccherato"	"F"	1	200
+3687	10486	"Calimocho (Vino rosso con cola)"	"F"	1	200
+3690	1121	"Cappuccino (senza polvere di cioccolato), non zuccherato"	"F"	1	200
+3713	1105	"Carne tritata (media di manzo, vitello, maiale e pollo), cruda"	"S"	1	200
+3715	355	"Carota, cruda"	"-"	1	200
+3716	272	"Castagne, crude"	"n"	1	200
+3730	13400	"Cavolo piuma, crudo"	"1"	1	200
+3734	364	"Cavolo rosso, crudo"	"3"	1	200
+3737	439	"Ceci, secchi"	"2"	1	200
+3754	394	"Ciliegie, crude"	"n"	1	200
+3765	960	"Cioccolato in polvere"	"F"	1	200
+3768	368	"Cipolla, cruda"	"n"	1	200
+3791	1107	"Cotoletta (media di vitello, maiale e agnello), cruda"	"2"	1	200
+3813	769	"Crusca d'avena"	"N"	1	200
+3814	431	"Crusca di frumento"	"N"	1	200
+3818	798	"Doppia panna, pastorizzata"	"F"	1	200
+3826	473	"Fagiolini verdi, secchi"	"2"	1	200
+3827	473	"Fagiolo comune"	"2"	0	200
+3829	13387	"Fagiolo comune (tutti tipi), seme mature, secco"	"-"	1	200
+3830	13387	"Fagiolo rosso"	"-"	0	200
+3837	206	"Farina di frumento (farina integrale) tipo 1700"	"F"	1	200
+3839	420	"Farina di grano saraceno"	"N"	1	200
+3841	752	"Farina di segale tipo 1050"	"N"	1	200
+3846	1042	"Farina di spelta integrale tipo 1900"	"2"	1	200
+3847	1042	"Farina di spelta nera"	"2"	0	200
+3851	426	"Fecola di mais"	"F"	1	200
+3852	426	"Amido"	"F"	0	200
+3853	497	"Fecola di patate"	"F"	1	200
+3854	497	"Amido"	"F"	0	200
+3856	10377	"Fegato (media di vitello, manzo, maiale, pollo), crudo"	"S"	1	200
+3868	1101	"Fettina (media di vitello, manzo, maiale, pollo), cruda"	"S"	1	200
+3872	352	"Finocchio, crudo"	"N"	1	200
+3876	938	"Fiocchi di miglio, integrali"	"N"	1	200
+3897	555	"Formaggio Emmentaler grasso"	"n"	1	200
+3916	13392	"Formaggio maturato a pasta molle, alla panna"	"-"	1	200
+3917	13391	"Formaggio maturato a pasta molle, grasso"	"9"	1	200
+3928	372	"Formentino, crudo"	"9"	1	200
+3930	385	"Fragola, cruda"	"9"	1	200
+3947	375	"Fungo prataiolo, crudo"	"0"	1	200
+3948	375	"Champignons"	"0"	0	200
+3960	421	"Grano saraceno, sgusciato"	"N"	1	200
+3966	708	"Grasso di palma - Olio di palma"	"F"	1	200
+3972	467	"Indivia, cruda"	"n"	1	200
+3973	467	"Indivia scarola"	"n"	0	200
+3975	447	"Insalata belga, cruda"	"0"	1	200
+3987	395	"Kiwi, crudo"	"-"	1	200
+3988	390	"Lampone, crudo"	"9"	1	200
+3993	526	"Latte condensato, zuccherato"	"2"	1	200
+3994	528	"Latte di capra"	"1"	1	200
+3998	62	"Latte intero, pastorizzato"	"1"	1	200
+3999	63	"Latte intero, UHT"	"1"	1	200
+4000	1184	"Latte macchiato, non zuccherato"	"F"	1	200
+4001	59	"Latte parzialmente scremato, pastorizzato"	"2"	1	200
+4002	61	"Latte parzialmente scremato, UHT"	"2"	1	200
+4016	13385	"Lenticchia, decorticata, secca"	"3"	1	200
+4019	370	"Lenticchie, intere, secche"	"3"	1	200
+4021	839	"Lievito di birra, secco"	"F"	1	200
+4022	763	"Lievito per pane, pressato"	"9"	1	200
+4023	595	"Limonata con aromi, zuccherata"	"F"	1	200
+4024	595	"Gassosa"	"F"	0	200
+4026	10378	"Lingua (media di vitello e manzo), cruda"	"F"	1	200
+4054	42	"Maiale, lonza, cruda"	"F"	1	200
+4062	771	"Maionese"	"2"	1	200
+4063	772	"Maionese, a valore energetico ridotto"	"2"	1	200
+4069	397	"Mandarino, crudo"	"0"	1	200
+4070	273	"Mandorle"	"-"	1	200
+4071	269	"Mandorle, tostate e salate"	"n"	1	200
+4073	396	"Mango, crudo"	"3"	1	200
+4084	6	"Manzo, carne macinata, cruda"	"1"	1	200
+4085	6	"Trito"	"1"	0	200
+4094	34	"Manzo, girello, cruda"	"F"	1	200
+4095	34	"Fettina"	"F"	0	200
+4099	37	"Manzo, sminuzzato, crudo"	"1"	1	200
+4100	37	"Spezzatino"	"1"	0	200
+4113	485	"Mascarpone"	"2"	1	200
+4116	378	"Mela, cruda"	"n"	1	200
+4124	399	"Melone, crudo"	"0"	1	200
+4127	285	"Merluzzo bianco, crudo"	"F"	1	200
+4140	82	"Mozzarella"	"n"	1	200
+4143	572	"Nettare d'arancia"	"F"	1	200
+4144	270	"Nocciole"	"n"	1	200
+4145	279	"Noce del Brasile"	"4"	1	200
+4146	284	"Noce di cocco"	"N"	1	200
+4147	742	"Noce di cocco, secca"	"F"	1	200
+4148	742	"Cocco grattugiato"	"F"	0	200
+4149	271	"Noci"	"-"	1	200
+4150	596	"Olio di arachidi"	"2"	1	200
+4152	601	"Olio di cocco"	"F"	1	200
+4153	600	"Olio di colza"	"2"	1	200
+4158	598	"Olio di semi di girasole"	"2"	1	200
+4164	591	"Olio d'oliva"	"2"	1	200
+4184	704	"Pancetta affumicata da cuocere"	"9"	1	200
+4185	704	"Speck"	"9"	0	200
+4218	69	"Panna da caffÃ¨ UHT"	"F"	1	200
+4219	1195	"Panna (in media)"	"F"	1	200
+4220	65	"Panna intera, pastorizzata"	"S"	1	200
+4222	67	"Panna semigrassa, pastorizzata"	"2"	1	200
+4223	68	"Panna semigrassa, UHT"	"2"	1	200
+4229	1511	"Pappa d'avena, preparata (con latte intero, senza aggiunta di zucchero)"	"F"	1	200
+4230	1512	"Pappa d'avena, preparata (con latte parzialmente scremato, senza aggiunta di zucchero)"	"F"	1	200
+4240	10542	"Pasta di wasabi"	"N"	1	200
+4274	359	"Peperone verde, crudo"	"F"	1	200
+4276	382	"Pera, cruda"	"n"	1	200
+4281	401	"Pesca, cruda"	"-"	1	200
+4282	404	"Pesca noce, cruda"	"0"	1	200
+4283	1098	"Pesce (in media), crudo"	"F"	1	200
+4294	283	"Pinoli"	"n"	1	200
+4295	630	"Piselli, conserva"	"0"	1	200
+4300	13389	"Piselli, semi maturi, decorticati, secchi"	"3"	1	200
+4303	274	"Pistacchi"	"F"	1	200
+4315	712	"Pollo, coscia con pelle, cruda"	"-"	1	200
+4317	24	"Pollo, coscia con pelle (Svizzera), cruda"	"1"	1	200
+4326	22	"Pollo, petto senza pelle (Svizzera), crudo"	"F"	1	200
+4327	680	"Pollo, petto, sminuzzato, crudo"	"2"	1	200
+4335	388	"Pompelmo (bianco o rosso), crudo"	"0"	1	200
+4351	479	"Prugne susine, crude"	"-"	1	200
+4360	13393	"Quark, naturale, semigrasso"	"1"	1	200
+4374	456	"Ravanelli, crudi"	"N"	1	200
+4379	1066	"Riso raffinato, bollito in acqua salata (sale non iodato)"	"F"	1	200
+4380	1066	"Riso bianco"	"F"	0	200
+4385	428	"Riso sbramato, secco"	"N"	1	200
+4386	428	"Riso integrale"	"N"	0	200
+4411	194	"Salmone d'allevamento, crudo"	"2"	1	200
+4413	210	"Salmone selvatico, crudo"	"F"	1	200
+4449	1082	"Salsiccia viennese"	"S"	1	200
+4450	1082	"Wienerli"	"S"	0	200
+4451	1589	"Salsiccia viennese, cotta"	"F"	1	200
+4452	1589	"Wienerli"	"F"	0	200
+4490	10536	"Sciroppo di agave"	"N"	1	200
+4491	1132	"Sciroppo pronto (diluito di regola 1:5.5)"	"F"	1	200
+4500	281	"Semi di girasole"	"-"	1	200
+4501	277	"Semi di lino"	"4"	1	200
+4502	280	"Semi di sesamo"	"n"	1	200
+4503	276	"Semi di zucca"	"n"	1	200
+4510	1510	"Semolino, preparato (con latte intero, senza aggiunta di zucchero)"	"F"	1	200
+4511	1509	"Semolino, preparato (con latte parzialmente scremato, senza aggiunta di zucchero)"	"F"	1	200
+4522	1104	"Spezzatino (media di manzo, vitello, maiale e pollo), crudo"	"S"	1	200
+4524	365	"Spinaci, crudi"	"n"	1	200
+4529	576	"Succo d'arancia"	"F"	1	200
+4530	577	"Succo d'arancia a di vitamina C"	"F"	1	200
+4531	566	"Succo di carota"	"F"	1	200
+4534	1130	"Succo di frutta, senza aggiunta di zucchero (in media)"	"F"	1	200
+4535	605	"Succo di limone"	"F"	1	200
+4536	568	"Succo di mele"	"F"	1	200
+4537	562	"Succo di pere"	"F"	1	200
+4538	564	"Succo di pomodoro"	"F"	1	200
+4539	573	"Succo d'uva"	"F"	1	200
+4544	713	"Tacchino, petto, scaloppina o sminuzzato, crudo"	"1"	1	200
+4547	804	"TÃ© freddo, zuccherato"	"F"	1	200
+4552	490	"Tofu"	"N"	1	200
+4556	417	"Tonno, in salamoia, sgocciolato"	"F"	1	200
+4557	418	"Tonno, sott'olio, sgocciolato"	"N"	1	200
+4568	1481	"Torta d'albicocca, cotta nel forno (pasta sfoglia)"	"F"	1	200
+4569	1482	"Torta di albicocca, cotta nel forno (pasta per torta)"	"F"	1	200
+4571	1546	"Torta di cilieghe, cotta nel forno (pasta per torta)"	"F"	1	200
+4572	1545	"Torta di cilieghe, cotta nel forno (pasta sfoglia)"	"F"	1	200
+4573	10455	"Torta di frutta, cotta nel forno, pasta frolla dolce (in media)"	"F"	1	200
+4574	10456	"Torta di frutta (in media)"	"F"	1	200
+4575	10454	"Torta di frutta, pasta per torta (in media)"	"F"	1	200
+4576	10453	"Torta di frutta, pasta sfoglia (in media)"	"F"	1	200
+4578	1480	"Torta di mele, cotta nel forno (pasta per torta)"	"F"	1	200
+4579	1479	"Torta di mele, cotta nel forno (pasta sfoglia)"	"F"	1	200
+4580	1485	"Torta di mora, cotta nel forno (pasta frolla dolce)"	"F"	1	200
+4581	1596	"Torta di mora, cotta nel forno (pasta per torta)"	"F"	1	200
+4582	1594	"Torta di mora, cotta nel forno (pasta sfoglia)"	"F"	1	200
+4584	1484	"Torta di pera, cotta nel forno (pasta per torta)"	"F"	1	200
+4585	1483	"Torta di pera, cotta nel forno (pasta sfoglia)"	"F"	1	200
+4586	1530	"Torta di prugna, cotta nel forno (pasta per torta)"	"F"	1	200
+4587	1528	"Torta di prugna, cotta nel forno (pasta sfoglia)"	"F"	1	200
+4588	1531	"Torta di prugna susina, cotta nel forno (pasta per torta)"	"F"	1	200
+4589	1529	"Torta di prugna susina, cotta nel forno (pasta sfoglia)"	"F"	1	200
+4590	1548	"Torta di rabarbaro, cotta nel forno (pasta per torta)"	"F"	1	200
+4591	1547	"Torta di rabarbaro, cotta nel forno (pasta soglia)"	"F"	1	200
+4592	1592	"Torta di ribes, cotta nel forno (pasta frolla dolce)"	"F"	1	200
+4593	1595	"Torta di ribes, cotta nel forno (pasta per torta)"	"F"	1	200
+4594	1593	"Torta di ribes, cotta nel forno (pasta sfoglia)"	"F"	1	200
+4603	290	"Uovo di gallina, crudo"	"-"	1	200
+4655	662	"Vitello, scaloppina, cruda"	"F"	1	200
+4656	662	"Fesa francese"	"F"	0	200
+4679	470	"Zucchero bianco"	"F"	1	200
+4680	470	"Zucchero cristallino"	"F"	0	200
+4681	471	"Zucchero bruno"	"F"	1	200
+4682	471	"Zucchero integrale"	"F"	0	200
+4683	768	"Zucchero d'uva"	"F"	1	200
+4684	768	"Glucosio"	"F"	0	200
+4686	367	"Zucchina, cruda"	"n"	1	200
+4690	0	"Nome"	"I"	1	200
+4691	0	"Sinonimi"	"I"	0	200
+4692	1251	"Aberlour 10 years old Malt Scotch Whisky (43 vol%)"	"I"	1	200
+4693	1252	"Absolut Vodka (40 vol%)"	"I"	1	200
+4694	538	"Acqua minerale Adelbodner"	"I"	1	200
+4695	1171	"Acqua minerale Adello"	"I"	1	200
+4696	540	"Acqua minerale Allegra"	"I"	1	200
+4697	1096	"Acqua minerale Appenzell (Gontenbad)"	"I"	1	200
+4698	73	"Acqua minerale Aproz (Aproz)"	"I"	1	200
+4699	104	"Acqua minerale Aquella (Bouillets)"	"I"	1	200
+4700	541	"Acqua minerale Arkina"	"I"	1	200
+4701	1178	"Acqua minerale Badoit (St Galmier)"	"I"	1	200
+4702	1172	"Acqua minerale Cristallo (Lostorf)"	"I"	1	200
+4703	1046	"Acqua minerale Cristalp (Saxon)"	"I"	1	200
+4704	1044	"Acqua minerale Elmer"	"I"	1	200
+4705	48	"Acqua minerale Eptinger"	"I"	1	200
+4706	521	"Acqua minerale Evian (Cachat)"	"I"	1	200
+4707	522	"Acqua minerale Henniez"	"I"	1	200
+4708	1173	"Acqua minerale Knutwiler"	"I"	1	200
+4709	523	"Acqua minerale Passugger (Theophilquelle)"	"I"	1	200
+4710	537	"Acqua minerale Rhäzünser"	"I"	1	200
+4711	525	"Acqua minerale San Pellegrino"	"I"	1	200
+4712	1095	"Acqua minerale Valais (Montis)"	"I"	1	200
+4713	45	"Acqua minerale Valser Classic/Naturelle (St. Petersquelle)"	"F"	1	200
+4714	1047	"Acqua minerale Valser Silence (St. Paulsquelle)"	"I"	1	200
+4715	1179	"Acqua minerale Vichy-Célestins"	"I"	1	200
+4716	550	"Acqua minerale Volvic"	"I"	1	200
+4717	548	"Acqua minerale Zurzacher"	"I"	1	200
+4718	1253	"Amaro Ramazzotti (30 vol%)"	"I"	1	200
+4719	1254	"Ballantine's 12 years old blended Scotch Whisky (40 vol%)"	"I"	1	200
+4720	1255	"Ballantine's Finest blended Scotch Whisky (40 vol%)"	"I"	1	200
+4721	13426	"Bevanda all'avena, naturale (Media di prodotti commerciali)"	"I"	1	200
+4722	13434	"Bevanda al malto e cacao, arricchita di vitamine e minerali, polvere (Media di prodotti co"	"I"	1	200
+4723	13430	"Bevanda di avena, naturale, arricchita di calcio (Media di prodotti commerciali)"	"I"	1	200
+4724	13433	"Bevanda di mandorla, naturale, arricchita di calcio e vitamine (Media di prodotti commerci"	"I"	1	200
+4725	13428	"Bevanda di mandorla, naturale (Media di prodotti commerciali)"	"I"	1	200
+4726	13429	"Bevanda di riso, naturale, arricchita di calcio (Media di prodotti commerciali)"	"I"	1	200
+4727	13427	"Bevanda di riso, naturale (Media di prodotti commerciali)"	"I"	1	200
+4728	13432	"Bevanda di soia, naturale, arricchita di calcio e vitamine (Media di prodotti commerciali)"	"I"	1	200
+4729	13431	"Bevanda di soia, naturale, arricchita di calcio (Media di prodotti commerciali)"	"I"	1	200
+4730	1145	"Birra Calanda Lager (4.8 vol%)"	"I"	1	200
+4731	1146	"Birra Calanda Lemon (2.4 vol%)"	"I"	1	200
+4732	1138	"Birra Cardinal Lager (4.8 vol%)"	"I"	1	200
+4733	1155	"Birra Cardinal senzâ€™alcol (<0.5 vol%)"	"I"	1	200
+4734	1139	"Birra Carlsberg (lager, 5 vol%)"	"I"	1	200
+4735	1156	"Birra Carlsberg senzâ€™alcol (<0.5 vol%)"	"I"	1	200
+4736	1153	"Birra Clausthaler Classic (0.45 vol%)"	"I"	1	200
+4737	1154	"Birra Clausthaler Extra Herb (0.45 vol%)"	"I"	1	200
+4738	1147	"Birra Eichhof Hubertus (birra speciale scura, 6 vol%)"	"I"	1	200
+4739	1148	"Birra Eichhof Klosterbräu (birra speciale non filtrata, 5.1 vol%)"	"I"	1	200
+4740	1149	"Birra Eichhof Lager (4.8 vol%)"	"I"	1	200
+4741	1157	"Birra Eichhof senzâ€™alcol (0.4 vol%)"	"I"	1	200
+4742	1140	"Birra Feldschlösschen 2.4 (birra leggera, 2.4 vol%)"	"I"	1	200
+4743	1141	"Birra Feldschlösschen Bügel (lager, 4.8 vol%)"	"I"	1	200
+4744	1142	"Birra Feldschlösschen Hopfenperle (birra speciale chiara, 5.2 vol%)"	"I"	1	200
+4745	1143	"Birra Feldschlösschen Original (lager, 4.8 vol%)"	"I"	1	200
+4746	1158	"Birra Feldschlösschen senzâ€™alcol (<0.5 vol%)"	"I"	1	200
+4747	1144	"Birra Feldschlösschen Urtrüb (birra ai tre cereali non filtrata, 5 vol%)"	"I"	1	200
+4748	1150	"Birra Heineken Lager (5 vol%)"	"I"	1	200
+4749	1151	"Birra Ittinger (birra speciale ambrata, 5.6 vol%)"	"I"	1	200
+4750	1160	"Birra lager (in media)"	"I"	1	200
+4751	1159	"Birra senzâ€™alcol (in media)"	"I"	1	200
+4752	1256	"Chivas Regal 12 years old blended Scotch Whisky (40 vol%)"	"I"	1	200
+4753	13436	"Energy drink, con edulcoranti (Media di prodotti commerciali)"	"I"	1	200
+4754	13435	"Energy drink, con zucchero (Media di prodotti commerciali)"	"I"	1	200
+4755	1257	"Four Roses Bourbon (40 vol%)"	"I"	1	200
+4756	1258	"Glenlivet 12 years old Malt Scotch Whisky (40 vol%)"	"I"	1	200
+4757	1259	"Grappa Fior di Vite Ramazzotti (40 vol%)"	"I"	1	200
+4758	1260	"Havana Club Anejo Reserva (40 vol%)"	"I"	1	200
+4759	1261	"Jameson Irish Whiskey (40 vol%)"	"I"	1	200
+4760	1262	"Malibu Coconut (21 vol%)"	"I"	1	200
+4761	11525	"Naturaplan Bio Birra non filtrata senz'alcol <0.5 vol% (Coop)"	"I"	1	200
+4762	1263	"Pastis 51 de Marseille (45 vol%)"	"I"	1	200
+4763	13422	"Salsa di soia (Media di prodotti commerciali)"	"2"	1	200
+4764	13424	"Salsa Worcester (Media di prodotti commerciali)"	"I"	1	200
+4765	1264	"Sandeman Ruby Porto (20 vol%)"	"I"	1	200
+4766	1265	"Suze (20 vol%)"	"I"	1	200
+4767	1266	"Wodka Wyborowa (40 vol%)"	"I"	1	200
+4768	13425	"Yogurt, alla greca, con panna, naturale (media di prodotti commerciali)"	"I"	1	200
+4769	13421	"Zucchero vanigliato (Media di prodotti commerciali)"	"2"	1	200
